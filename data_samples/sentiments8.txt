@@ -1,0 +1,345 @@
+
+
+TWEETS CONTAINING THE WORD PUBLIC TRANSPORT
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:10:04   TEXT: It's all about avoiding public transport https://t.co/MhX5McbLoq
+
+CLEANED TWEET TEXT
+
+It's all about avoiding public transport 
+Sentiment(classification='pos', p_pos=0.8162714553492216, p_neg=0.18372854465077873)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:10:11   TEXT: @piersmorgan If you drive your family 250 miles to a place where you can ensure their safety without using public transport thereby not coming into contact with others, you're no more of a risk than someone who stayed at home, not many have relatives who own large areas of land with 2 houses
+
+CLEANED TWEET TEXT
+
+ If you drive your family 250 miles to a place where you can ensure their safety without using public transport thereby not coming into contact with others, you're no more of a risk than someone who stayed at home, not many have relatives who own large areas of land with 2 houses
+Sentiment(classification='pos', p_pos=0.9959680499129886, p_neg=0.0040319500870120446)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:10:23   TEXT: @Polar_Nerd @classicmacro Exactly, there are other cultural differences equally as important. Don't litter, don't eat on the street (festivals not withstanding) or on public transport - just a generall respect for the environment urban or not that is lacking in the US/UK.
+
+CLEANED TWEET TEXT
+
+_Nerd  Exactly, there are other cultural differences equally as important. Don't litter, don't eat on the street (festivals not withstanding) or on public transport - just a generall respect for the environment urban or not that is lacking in the US/UK.
+Sentiment(classification='pos', p_pos=0.9848623971392043, p_neg=0.015137602860791853)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:10:28   TEXT: In the first weeks in Detroit, I had a hard time getting used to the never-ending waiting for cars to stop at the designated crosswalks. I walked, I used public transport in the city that belongs to cars. "The end of walking" https://t.co/LyoPDGMJfb https://t.co/BJMLKnmzSC
+
+CLEANED TWEET TEXT
+
+In the first weeks in Detroit, I had a hard time getting used to the never-ending waiting for cars to stop at the designated crosswalks. I walked, I used public transport in the city that belongs to cars. "The end of walking"  
+Sentiment(classification='neg', p_pos=0.2583324817846518, p_neg=0.7416675182153517)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:13:22   TEXT: @DPJHodges People going to work, avoiding public transport, seems to be the instructions of the government surely
+
+CLEANED TWEET TEXT
+
+ People going to work, avoiding public transport, seems to be the instructions of the government surely
+Sentiment(classification='pos', p_pos=0.9477487068306387, p_neg=0.05225129316936322)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:13:24   TEXT: @stepville In the Netherlands masks are manditory as of the 1th of june in public transport. How do you deal with your kids on this subject?
+
+CLEANED TWEET TEXT
+
+ In the Netherlands masks are manditory as of the 1th of june in public transport. How do you deal with your kids on this subject?
+Sentiment(classification='pos', p_pos=0.6113545541739912, p_neg=0.3886454458260107)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:13:37   TEXT: No mandatory face masks outside starting tomorrow (only in closed spaces like stores and public transport) which means that I'll get to SEE again with my glasses on!!! https://t.co/Ho6BnIQ6S2
+
+CLEANED TWEET TEXT
+
+No mandatory face masks outside starting tomorrow (only in closed spaces like stores and public transport) which means that I'll get to SEE again with my glasses on!!! 
+Sentiment(classification='pos', p_pos=0.6941990525511681, p_neg=0.3058009474488275)
+
+
+TWEETS CONTAINING THE WORD TRAFFIC
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:14:06   TEXT: about to take a drive in my t20 with time frozen on midnight and traffic on medium on the los santos high way w playboi carti playing in the background for 3 hours brb
+
+CLEANED TWEET TEXT
+
+about to take a drive in my t20 with time frozen on midnight and traffic on medium on the los santos high way w playboi carti playing in the background for 3 hours brb
+Sentiment(classification='pos', p_pos=0.8925954708068637, p_neg=0.10740452919313719)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:14:18   TEXT: @DaddyBike @MichielJoseph @Edinburgh_CC You obviously don’t use Park Lane n/bound if you did you’d know it flows well, given it has 3 / 4 lanes for traffic, now you’d also know it’s the congestion charge border arterial route meaning it has a lot of traffic, so now it definitely will be congested = more pollution. 👏
+
+CLEANED TWEET TEXT
+
+  _CC You obviously don’t use Park Lane n/bound if you did you’d know it flows well, given it has 3 / 4 lanes for traffic, now you’d also know it’s the congestion charge border arterial route meaning it has a lot of traffic, so now it definitely will be congested = more pollution. 👏
+Sentiment(classification='pos', p_pos=0.9115339244291272, p_neg=0.08846607557087342)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:14:18   TEXT: @DreamLifeBeats @SoundClick same but it’s still a source of revenue, they know they get traffic, they know what they’re doing
+
+CLEANED TWEET TEXT
+
+  same but it’s still a source of revenue, they know they get traffic, they know what they’re doing
+Sentiment(classification='pos', p_pos=0.9414504346466693, p_neg=0.05854956535333112)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:14:25   TEXT: @Russellmania621 I moved from So Cal to Fredericksburg in 2001. The traffic on 95 is worse than anything in So Cal, AND there are no other feasible options.
+
+CLEANED TWEET TEXT
+
+ I moved from So Cal to Fredericksburg in 2001. The traffic on 95 is worse than anything in So Cal, AND there are no other feasible options.
+Sentiment(classification='pos', p_pos=0.9648612974627081, p_neg=0.035138702537291906)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:14:28   TEXT: I’m the best worst driver that I know. If you can’t park or handle traffic you want me behind the wheel but you may have to grab that roof handle a few times lol
+
+CLEANED TWEET TEXT
+
+I’m the best worst driver that I know. If you can’t park or handle traffic you want me behind the wheel but you may have to grab that roof handle a few times lol
+Sentiment(classification='neg', p_pos=0.06275756432191107, p_neg=0.9372424356780898)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:14:32   TEXT: They’d have fun flying this around with the air traffic in the area.   😂🤣😂
+
+- Kevin Turley 
+
+#ServantsHeart #Soar #ElectKevinTurley https://t.co/N0KlZ2CPuH
+
+CLEANED TWEET TEXT
+
+They’d have fun flying this around with the air traffic in the area.   😂🤣😂
+
+- Kevin Turley 
+
+ServantsHeart Soar ElectKevinTurley 
+Sentiment(classification='neg', p_pos=0.4901181236458362, p_neg=0.5098818763541643)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:14:32   TEXT: @allthingsmarco @erinmikail What’s the CPA you are offering on this? Something aggressive that you can buy traffic against?
+
+CLEANED TWEET TEXT
+
+  What’s the CPA you are offering on this? Something aggressive that you can buy traffic against?
+Sentiment(classification='pos', p_pos=0.8829551004864991, p_neg=0.11704489951349982)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:14:35   TEXT: DJs showing the amount of traffic they can generate and congregate to various platforms.  Our user base is valuable.  #LetDJsDJ
+
+CLEANED TWEET TEXT
+
+DJs showing the amount of traffic they can generate and congregate to various platforms.  Our user base is valuable.  LetDJsDJ
+Sentiment(classification='pos', p_pos=0.8567356471000643, p_neg=0.14326435289993514)
+
+
+TWEETS CONTAINING THE WORD RUSH HOUR
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:14:58   TEXT: jai loupe le rush hour j'ai envie de mourir putin de sommeille de merde
+
+CLEANED TWEET TEXT
+
+jai loupe le rush hour j'ai envie de mourir putin de sommeille de merde
+Sentiment(classification='neg', p_pos=0.12069331071769299, p_neg=0.879306689282307)
+
+
+TWEETS CONTAINING THE WORD HIGHWAY
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:15:03   TEXT: This was 2008, and I didn’t get my first iPhone until 09 or 10. With no directions or GPS, I just drove north, partially through the area I travelled today, until I hit I-70, and then figured out how to get onto the highway.
+
+CLEANED TWEET TEXT
+
+This was 2008, and I didn’t get my first iPhone until 09 or 10. With no directions or GPS, I just drove north, partially through the area I travelled today, until I hit I-70, and then figured out how to get onto the highway.
+Sentiment(classification='neg', p_pos=0.19080259630861696, p_neg=0.8091974036913859)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:15:10   TEXT: not me bawling my eyes out driving down the highway and screaming at the top of my lungs
+
+CLEANED TWEET TEXT
+
+not me bawling my eyes out driving down the highway and screaming at the top of my lungs
+Sentiment(classification='neg', p_pos=0.4451133667553644, p_neg=0.554886633244633)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:15:35   TEXT: my way or the highway
+
+CLEANED TWEET TEXT
+
+my way or the highway
+Sentiment(classification='neg', p_pos=0.3069752221040661, p_neg=0.6930247778959341)
+
+
+TWEETS CONTAINING THE WORD ROAD TRANSPORT
+
+
+
+
+TWEETS CONTAINING THE WORD BUS STATION
+
+
+
+
+TWEETS CONTAINING THE WORD PRIVATE TRANSPORT
+
+
+
+
+TWEETS CONTAINING THE WORD FARE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:15:35   TEXT: @borghi_claudio scusi il disturbo, ma se regioni intere restano senza denaro, non resteranno tante possibilità se non quella di fare da sé.
+Responsabilità politica di eurexit è grande ma lo è anche la chiusura di servizi indispensabili su base regionale, Governo starà a guardare? https://t.co/Lnk5An1KgW
+
+CLEANED TWEET TEXT
+
+_claudio scusi il disturbo, ma se regioni intere restano senza denaro, non resteranno tante possibilità se non quella di fare da sé.
+Responsabilità politica di eurexit è grande ma lo è anche la chiusura di servizi indispensabili su base regionale, Governo starà a guardare? 
+Sentiment(classification='pos', p_pos=0.827597111614099, p_neg=0.17240288838589948)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:15:43   TEXT: ...ma n'dò cazzo andate a fare la spesa?... cambiate negozi...
+
+#nonsonoinvisibile
+
+CLEANED TWEET TEXT
+
+...ma n'dò cazzo andate a fare la spesa?... cambiate negozi...
+
+nonsonoinvisibile
+Sentiment(classification='pos', p_pos=0.5133333333333334, p_neg=0.48666666666666664)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:15:44   TEXT: Non dormo mai per questi sogni, non volevo fare come molti, vivere solo di ricordi
+Con le tue storie non mi tocchi, ne ho viste mille in queste notti
+
+CLEANED TWEET TEXT
+
+Non dormo mai per questi sogni, non volevo fare come molti, vivere solo di ricordi
+Con le tue storie non mi tocchi, ne ho viste mille in queste notti
+Sentiment(classification='pos', p_pos=0.8736279727337176, p_neg=0.12637202726627966)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:15:45   TEXT: @ockpii Loved your music, specially the hare fare ones, when i finish my prototype i will need music. I just need to got some funds too, but i will keep your contact.
+
+CLEANED TWEET TEXT
+
+ Loved your music, specially the hare fare ones, when i finish my prototype i will need music. I just need to got some funds too, but i will keep your contact.
+Sentiment(classification='pos', p_pos=0.8272811460270016, p_neg=0.17271885397300146)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:15:50   TEXT: @scureggione @JorioAntonio @Renzo_Pisu @Loops40994697 @AlatiGiulio @massionline @angelazoppo @ValerioMBonelli @Michele_Arnese @aledeniz @maghiaz @UGambini @lorenza_bezze @ugoarrigo @AndreaGiuricin @gianni_dragoni @CarloStagnaro @leonard_berberi Cosa che non può fare invece se rimani invece in AS
+
+CLEANED TWEET TEXT
+
+  _Pisu      _Arnese    _bezze   _dragoni  _berberi Cosa che non può fare invece se rimani invece in AS
+Sentiment(classification='neg', p_pos=0.29801025738436715, p_neg=0.701989742615633)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:15:50   TEXT: @Matteo07294851 @Mezzorainpiu Quando si promette al popolo è sacro ...se non si mantiene la parola data che cazzo votiamo a fare...!
+
+CLEANED TWEET TEXT
+
+  Quando si promette al popolo è sacro ...se non si mantiene la parola data che cazzo votiamo a fare...!
+Sentiment(classification='neg', p_pos=0.20810863897717966, p_neg=0.7918913610228216)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:15:56   TEXT: @SirEdward2007 @gumas75 Non è questo il concetto. Ma sei fare l'assessore alla sanità devi almeno sapere l'abc di quello che amministri
+
+CLEANED TWEET TEXT
+
+  Non è questo il concetto. Ma sei fare l'assessore alla sanità devi almeno sapere l'abc di quello che amministri
+Sentiment(classification='neg', p_pos=0.29801025738436715, p_neg=0.701989742615633)
+
+
+TWEETS CONTAINING THE WORD ROUTES
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 21:16:16   TEXT: @Lewchube @GavinMcCormic15 Remember diamond and pearl? The routes that made you miss every attack were so inspired 😍  the routes that were covered in snow making you move slower than the game already is were so thought provoking! I especially loved having 1 fire type in the region ❤❤
+
+CLEANED TWEET TEXT
+
+  Remember diamond and pearl? The routes that made you miss every attack were so inspired 😍  the routes that were covered in snow making you move slower than the game already is were so thought provoking! I especially loved having 1 fire type in the region ❤❤
+Sentiment(classification='pos', p_pos=0.9123270410468766, p_neg=0.08767295895312564)
+
+
+TWEETS CONTAINING THE WORD PEDESTRIANS
+
+
+
+
+TWEETS CONTAINING THE WORD FUEL STATION
+
+
+
+
+TWEETS CONTAINING THE WORD TRANSPOSITION
+
+
+
+
+TWEETS CONTAINING THE WORD PUBLIC TRANSIT
+
+
+
+
+TWEETS CONTAINING THE WORD ROAD ACCIDENT
+
+
+
+
+TWEETS CONTAINING THE WORD TRAFFIC CONGESTION
+
+
+
+
+TWEETS CONTAINING THE WORD TRAFFIC JAM
+
+
+
+
+TWEETS CONTAINING THE WORD OVERLOADING
+
+
+[Finished in 193.0s]

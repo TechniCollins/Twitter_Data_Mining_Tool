@@ -1,0 +1,126 @@
+
+
+TWEETS CONTAINING THE WORD @MA3ROUTE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:30:22   TEXT: @Ma3Route @DavidNdii @WehliyeMohamed @johnnjenga @MarthaKarua @NelsonHavi https://t.co/CbKpZ2sZbS
+
+CLEANED TWEET TEXT
+
+      
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:31:00   TEXT: @Ma3Route @Sir_Labz This is what kidero and sonko could not  do in 8 yrs. A non brainer!!
+
+CLEANED TWEET TEXT
+
+ _Labz This is what kidero and sonko could not  do in 8 yrs. A non brainer!!
+Sentiment(classification='pos', p_pos=0.6503168354362141, p_neg=0.34968316456378584)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:34:39   TEXT: We thought you should know
+
+@mosesmk_ @KenyanTraffic @TV47KE @NyanzaTraffic @AhmadUmar4 @KoechMmanuel @Ma3Route @AmEugeneAnangwe https://t.co/XpleSSOTyI
+
+CLEANED TWEET TEXT
+
+We thought you should know
+
+_        
+Sentiment(classification='neg', p_pos=0.3753129646678552, p_neg=0.6246870353321445)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:34:46   TEXT: @kwskenya where are your rangers? This is disgusting behaviour and these guys are primitive beyond comprehension.  Ban that tour firm as well from all our parks. This nonsense has to end. @jenistow @KOT_Loyals @BuyerBewareKE1 @Ma3Route @brayo1 @allanmadoka @KenyaTPA https://t.co/IGkqRVKZL2
+
+CLEANED TWEET TEXT
+
+ where are your rangers? This is disgusting behaviour and these guys are primitive beyond comprehension.  Ban that tour firm as well from all our parks. This nonsense has to end.  _Loyals      
+Sentiment(classification='pos', p_pos=0.913363630203042, p_neg=0.08663636979695688)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:40:40   TEXT: @KTA_Kenya @Ma3Route @JamesMacharia_ @EstherKoimett @FEAFFA @motoristsoffice @shipperscouncil @KAM_kenya @KEPSA_KENYA What was discussed?!
+
+CLEANED TWEET TEXT
+
+_Kenya  _     _kenya _KENYA What was discussed?!
+Sentiment(classification='pos', p_pos=0.8117336297181836, p_neg=0.18826637028181653)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:45:42   TEXT: @Arch_KE @ITDPAfrica @Naipolitans @Sir_Labz @shecyclesnbi @TransportKE @NMS_Kenya @PSCharlesHinga @Ma3Route Seattle is making 32KM of streets into NMT. donholm to kangemi via town,westlands = 26KM ONLY. and we have 10B stimulus for KAZI MTAANI to implement this.
+
+LETS DO THIS ! https://t.co/RUcPiKboCo
+
+CLEANED TWEET TEXT
+
+_KE   _Labz   _Kenya   Seattle is making 32KM of streets into NMT. donholm to kangemi via town,westlands = 26KM ONLY. and we have 10B stimulus for KAZI MTAANI to implement this.
+
+LETS DO THIS ! 
+Sentiment(classification='pos', p_pos=0.8251967166156823, p_neg=0.1748032833843184)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:51:38   TEXT: @Sir_Labz @NMS_Kenya @Ma3Route @KenyanTraffic @KURAroads @ntsa_kenya @pstransportke @NziokaWaita @Karanjakibicho @Ke_NaMATA Tumeanza poa
+
+CLEANED TWEET TEXT
+
+_Labz _Kenya    _kenya    _NaMATA Tumeanza poa
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:54:44   TEXT: @Sir_Labz @GlobalStreets @Ma3Route @KenyanTraffic Addis Ababa making more progress in building #SpaceforDistancing than London, it seems
+
+CLEANED TWEET TEXT
+
+_Labz    Addis Ababa making more progress in building SpaceforDistancing than London, it seems
+Sentiment(classification='pos', p_pos=0.7465641626105303, p_neg=0.25343583738946857)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 21:11:46   TEXT: @MOH_Kenya is it safe for one to wear a face mask while cycling or riding a motorcycle?
+
+@Ma3Route 
+@NyanzaTraffic 
+@TIPSIKenya 
+@road_driving 
+@BodaAssnofKenya 
+
+#KomeshaCorona https://t.co/M2GSWKinDH
+
+CLEANED TWEET TEXT
+
+_Kenya is it safe for one to wear a face mask while cycling or riding a motorcycle?
+
+ 
+ 
+ 
+_driving 
+ 
+
+KomeshaCorona 
+Sentiment(classification='neg', p_pos=0.10008574150122848, p_neg=0.8999142584987709)
+
+
+TWEETS CONTAINING THE WORD @NYANZATRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @KENYANTRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @ROAD_DRIVING
+
+
+[Finished in 61.6s]

@@ -1,0 +1,25 @@
+
+
+TWEETS CONTAINING THE WORD NTSA
+
+
+
+TIME: 2020-05-21 10:24:52   TEXT: @ntsa_kenya kasarani expresso sacco matatu are overloading the worse culprit is KCJ 912A nickname CHECKMATE
+Sentiment(classification='pos', p_pos=0.6967279384840394, p_neg=0.3032720615159617)
+
+TIME: 2020-05-21 10:17:01   TEXT: @ntsa_kenya Kindly respond to my DM
+Sentiment(classification='pos', p_pos=0.6388888888888886, p_neg=0.3611111111111108)
+
+TIME: 2020-05-21 10:03:06   TEXT: Hi @ntsa_kenya! I'm unable to renew my driving license and the numbers on your website aren't going through. Please assist. Thanks
+Sentiment(classification='neg', p_pos=0.14052313091896318, p_neg=0.8594768690810373)
+
+TIME: 2020-05-21 09:54:39   TEXT: @ntsa_kenya hi kra update pliz
+Sentiment(classification='neg', p_pos=0.3235294117647058, p_neg=0.6764705882352939)
+
+
+TWEETS CONTAINING THE WORD TRAFFIC JAM
+
+
+
+TIME: 2020-05-21 10:18:10   TEXT: @PSPKFANDheeraj Malli manam Marathalli traffic jam chudachu 😜
+Sentiment(classification='pos', p_pos=0.75, p_neg=0.25000000000000033)

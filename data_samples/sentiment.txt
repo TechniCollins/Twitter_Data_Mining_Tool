@@ -1,0 +1,163 @@
+
+
+TWEETS CONTAINING THE WORD NTSAKENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-21 19:38:12   TEXT: @ntsakenya can i change Chases
+number at the moment.? kindly update me
+Settings Help
+
+CLEANED TWEET TEXT
+
+@ntsakenya can i change Chases
+number at the moment.? kindly update me
+Settings Help
+Sentiment(classification='pos', p_pos=0.7155972563015415, p_neg=0.28440274369846036)
+
+
+TWEETS CONTAINING THE WORD KENHAKENYA
+
+
+
+
+TWEETS CONTAINING THE WORD KENHA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 11:36:46   TEXT: @GovWOparanya Those making noise,  for your info ngong rd phase one is barely 17kms and it took kenha over three years... How you interpret that info is none of my concern
+
+CLEANED TWEET TEXT
+
+@GovWOparanya Those making noise,  for your info ngong rd phase one is barely 17kms and it took kenha over three years... How you interpret that info is none of my concern
+Sentiment(classification='pos', p_pos=0.724465925113184, p_neg=0.27553407488681414)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 11:38:39   TEXT: 14:38 @GovWOparanya Those making noise, for your info ngong rd phase one is barely 17kms and it took kenha over three years... How you interpret that info is none of my concern via @blakHipy
+
+CLEANED TWEET TEXT
+
+14:38 @GovWOparanya Those making noise, for your info ngong rd phase one is barely 17kms and it took kenha over three years... How you interpret that info is none of my concern via @blakHipy
+Sentiment(classification='pos', p_pos=0.8277436181228128, p_neg=0.17225638187718206)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 12:04:23   TEXT: @any_kingz Been there done that
+Mas acredita ma é midjor pa bo
+Bu ta prendi distingui kenha q mereci cu kenha q ca merece bu esforço como amiga
+
+CLEANED TWEET TEXT
+
+@any_kingz Been there done that
+Mas acredita ma é midjor pa bo
+Bu ta prendi distingui kenha q mereci cu kenha q ca merece bu esforço como amiga
+Sentiment(classification='pos', p_pos=0.7705789509928389, p_neg=0.22942104900716134)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 13:11:03   TEXT: @RLopesGato Então ez é kenha
+
+CLEANED TWEET TEXT
+
+@RLopesGato Então ez é kenha
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 15:25:55   TEXT: @emikejohnny @NUviviiiiii @se_poupe Ahahahahahahaha keli nka sabe kenha ki dja iludil pe leba Maio
+
+CLEANED TWEET TEXT
+
+@emikejohnny @NUviviiiiii @se_poupe Ahahahahahahaha keli nka sabe kenha ki dja iludil pe leba Maio
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 16:57:56   TEXT: @barbitachi Sin bai ti contou kenha k dja pidin el cantu bes bu ka ta acredita🤣🤣 https://t.co/p2CfwrmkaG
+
+CLEANED TWEET TEXT
+
+@barbitachi Sin bai ti contou kenha k dja pidin el cantu bes bu ka ta acredita🤣🤣 
+Sentiment(classification='neg', p_pos=0.20454545454545464, p_neg=0.7954545454545444)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 17:04:02   TEXT: @sakibxoo Mas dja k bu começa bu podi flam eh kenha goh🤗😋
+
+CLEANED TWEET TEXT
+
+@sakibxoo Mas dja k bu começa bu podi flam eh kenha goh🤗😋
+Sentiment(classification='pos', p_pos=0.75, p_neg=0.2499999999999997)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 18:02:53   TEXT: Pessoal de Twitter wazgoodd?🚀
+Convite feito p td kenha q oia post li
+Link na comentário👇🏽👇🏽
+A BLESSED FRIDAY🗣 https://t.co/pvfisy6Iue
+
+CLEANED TWEET TEXT
+
+Pessoal de Twitter wazgoodd?🚀
+Convite feito p td kenha q oia post li
+Link na comentário👇🏽👇🏽
+A BLESSED FRIDAY🗣 
+Sentiment(classification='neg', p_pos=0.4909224730127581, p_neg=0.5090775269872427)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 19:20:26   TEXT: @Mara69290177 @Janilsee tem otus opções tb pa kenha k ka gosta d penso externo, ki ê COLETOR menstrual k ta cnsig ser inda MAS TOP q kes pensos d pano pmo ê ten duração d +2 ano, 150-300$ i b pd bai mar kual até! (ma nha mai ka dxn usal inda pm ê d uso interno ksks) nhos Google it❣️nt spera ma ta djuda! https://t.co/XNUNhYq3Bf
+
+CLEANED TWEET TEXT
+
+@Mara69290177 @Janilsee tem otus opções tb pa kenha k ka gosta d penso externo, ki ê COLETOR menstrual k ta cnsig ser inda MAS TOP q kes pensos d pano pmo ê ten duração d +2 ano, 150-300$ i b pd bai mar kual até! (ma nha mai ka dxn usal inda pm ê d uso interno ksks) nhos Google it❣️nt spera ma ta djuda! 
+Sentiment(classification='pos', p_pos=0.981772713210271, p_neg=0.01822728678972878)
+
+
+TWEETS CONTAINING THE WORD NTSA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 19:26:46   TEXT: @NgoakoSefoko No re tile o swimma why o ntsa marago tl, swimma wena gal
+
+CLEANED TWEET TEXT
+
+@NgoakoSefoko No re tile o swimma why o ntsa marago tl, swimma wena gal
+Sentiment(classification='neg', p_pos=0.1846811819595646, p_neg=0.8153188180404362)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 19:44:37   TEXT: Madoda a mang a ntsa tlo hlafunya mahala https://t.co/wkV6D7TPkp basali https://t.co/v5FFSGbd3f
+
+CLEANED TWEET TEXT
+
+Madoda a mang a ntsa tlo hlafunya mahala  basali 
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 20:09:31   TEXT: A meneka joalo maliba ekare a ntsa bona ka moo machaba a nyoriloeng ka teng🇱🇸😍
+I'm not that poetic though https://t.co/TjMpV8u8Gk https://t.co/hUnYIwhipT
+
+CLEANED TWEET TEXT
+
+A meneka joalo maliba ekare a ntsa bona ka moo machaba a nyoriloeng ka teng🇱🇸😍
+I'm not that poetic though  
+Sentiment(classification='pos', p_pos=0.6409090470740467, p_neg=0.3590909529259521)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 20:24:52   TEXT: @JnrTebello 😂😂😂😂😂😂 ae munna. Daeman ntsa mathisa lipere 😂😂😂 sebile ntse bamo joetsa hore lebelo lea bolaea
+
+CLEANED TWEET TEXT
+
+@JnrTebello 😂😂😂😂😂😂 ae munna. Daeman ntsa mathisa lipere 😂😂😂 sebile ntse bamo joetsa hore lebelo lea bolaea
+Sentiment(classification='pos', p_pos=0.9000000000000002, p_neg=0.09999999999999992)
+[Finished in 132.3s]

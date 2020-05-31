@@ -1,0 +1,547 @@
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:22:02   TEXT: @kiruthisammy @266ae9a90bcc44b @bonifacemwangi @NPSOfficial_KE @ntsa_kenya Vs 2 touts?
+
+CLEANED TWEET TEXT
+
+   _KE _kenya Vs 2 touts?
+Sentiment(classification='neg', p_pos=0.2499999999999997, p_neg=0.75)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:24:04   TEXT: @ntsa_kenya You never respond to tweets nor DM. When will i get my DL
+
+CLEANED TWEET TEXT
+
+_kenya You never respond to tweets nor DM. When will i get my DL
+Sentiment(classification='neg', p_pos=0.39094929591784794, p_neg=0.6090507040821515)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:24:46   TEXT: @bonifacemwangi @NPSOfficial_KE @ntsa_kenya If that's the woman on the Vedeo she must have been high on some substance. Too arrogant
+
+CLEANED TWEET TEXT
+
+ _KE _kenya If that's the woman on the Vedeo she must have been high on some substance. Too arrogant
+Sentiment(classification='neg', p_pos=0.46611996921033616, p_neg=0.5338800307896644)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:27:40   TEXT: @bonifacemwangi @NPSOfficial_KE @ntsa_kenya Gari kama izi yafaa kuchomwa tu... Sio kupostiwa twitter
+
+CLEANED TWEET TEXT
+
+ _KE _kenya Gari kama izi yafaa kuchomwa tu... Sio kupostiwa twitter
+Sentiment(classification='neg', p_pos=0.2499999999999997, p_neg=0.75)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:29:31   TEXT: @laaria_chris @ntsa_kenya I also have the same issue
+
+CLEANED TWEET TEXT
+
+_chris _kenya I also have the same issue
+Sentiment(classification='pos', p_pos=0.5377014970208426, p_neg=0.46229850297915714)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:31:12   TEXT: @Ma3Route @KURAroads @KeNHAKenya @ntsa_kenya @DAsumbo a pedestrian crossing with a 1ft high kerb &amp; no markings? let's #AskAAK @Arch_KE which one of their professionals designed this. in fact, Kenya has ZERO MATATU STOPS which CONNECT PROPERLY TO NMT. you alight wherever &amp; walk wherever . #JeUnaMjengo @Naipolitans @ITDPAfrica.
+
+CLEANED TWEET TEXT
+
+   _kenya  a pedestrian crossing with a 1ft high kerb &amp; no markings? let's AskAAK _KE which one of their professionals designed this. in fact, Kenya has ZERO MATATU STOPS which CONNECT PROPERLY TO NMT. you alight wherever &amp; walk wherever . JeUnaMjengo  .
+Sentiment(classification='pos', p_pos=0.5076369644328791, p_neg=0.4923630355671252)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:37:14   TEXT: @Kimcollo2 @NjoguChristine @bonifacemwangi @NPSOfficial_KE @ntsa_kenya The only person who is irrational here is the tout. Si madharau the tout is just stupid and a bad person socially.
+
+CLEANED TWEET TEXT
+
+   _KE _kenya The only person who is irrational here is the tout. Si madharau the tout is just stupid and a bad person socially.
+Sentiment(classification='neg', p_pos=0.2610897453456741, p_neg=0.7389102546543255)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:37:22   TEXT: @njiri_wa @bonifacemwangi @NPSOfficial_KE @ntsa_kenya Soon you will find out why.
+
+CLEANED TWEET TEXT
+
+_wa  _KE _kenya Soon you will find out why.
+Sentiment(classification='neg', p_pos=0.47559683312095724, p_neg=0.5244031668790424)
+
+
+TWEETS CONTAINING THE WORD ACCIDENTALERT_K
+
+
+
+
+TWEETS CONTAINING THE WORD @ROADALERTSKE
+
+
+
+
+TWEETS CONTAINING THE WORD @KURAROADS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:15:28   TEXT: @real_damsa @AmedoShair @KURAroads @MPyusufhassan @FaroukAbusakyna @AlmamyMoha @abdisalam_hajji @AmiinYusf @HonDomey @MissyMoha @abdallasambul Bumps* kindly
+
+CLEANED TWEET TEXT
+
+_damsa      _hajji     Bumps* kindly
+Sentiment(classification='pos', p_pos=0.7403433476394845, p_neg=0.2596566523605151)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:22:59   TEXT: @real_damsa @KURAroads @MPyusufhassan @AmedoShair @FaroukAbusakyna @AlmamyMoha @abdisalam_hajji @AmiinYusf @HonDomey @MissyMoha @abdallasambul #MaendeleoWaziWazi courtesy of @MPyusufhassan
+
+CLEANED TWEET TEXT
+
+_damsa      _hajji     MaendeleoWaziWazi courtesy of 
+Sentiment(classification='pos', p_pos=0.5370370370370368, p_neg=0.46296296296296297)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:23:03   TEXT: Pedestrians🚶 and Cyclists🚴 are being considered in people-friendly cities. Nairobi shouldn't be left behind. From car-based to people-centred healthy, liveable and sustainable cities.@KURAroads @Ma3Route @KenyanTraffic @NMS_Kenya @Ke_NaMATA @NziokaWaita https://t.co/2rPeL8hauB
+
+CLEANED TWEET TEXT
+
+Pedestrians🚶 and Cyclists🚴 are being considered in people-friendly cities. Nairobi shouldn't be left behind. From car-based to people-centred healthy, liveable and sustainable cities.   _Kenya _NaMATA  
+Sentiment(classification='pos', p_pos=0.7447379672630412, p_neg=0.255262032736959)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:23:09   TEXT: 15:23 Pedestrians🚶 and Cyclists🚴 are being considered in people-friendly cities. Nairobi shouldn't be left behind. From car-based to people-centred healthy, liveable and sustainable cities.@KURAroads     @NMS_Kenya @Ke_NaMATA  https://t.co/7TF7y6670a via @Sir_Labz
+
+CLEANED TWEET TEXT
+
+15:23 Pedestrians🚶 and Cyclists🚴 are being considered in people-friendly cities. Nairobi shouldn't be left behind. From car-based to people-centred healthy, liveable and sustainable cities.     _Kenya _NaMATA   via _Labz
+Sentiment(classification='pos', p_pos=0.8420735470352221, p_neg=0.15792645296477853)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:23:39   TEXT: 15:23 Pedestrians🚶 and Cyclists🚴 are being considered in people-friendly cities. Nairobi shouldn't be left behind. From car-based to people-centred healthy, liveable and sustainable cities.@KURAroads     @NMS_Kenya @Ke_NaMATA  https://t.co/yualwuQOo2 via @Sir_Labz
+
+CLEANED TWEET TEXT
+
+15:23 Pedestrians🚶 and Cyclists🚴 are being considered in people-friendly cities. Nairobi shouldn't be left behind. From car-based to people-centred healthy, liveable and sustainable cities.     _Kenya _NaMATA   via _Labz
+Sentiment(classification='pos', p_pos=0.8420735470352221, p_neg=0.15792645296477853)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:27:48   TEXT: @Ma3Route @KURAroads @NMS_Kenya @Ke_NaMATA @Sir_Labz Hii watu wa nduthi watanyakua yote. Smh!
+
+CLEANED TWEET TEXT
+
+  _Kenya _NaMATA _Labz Hii watu wa nduthi watanyakua yote. Smh!
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:31:12   TEXT: @Ma3Route @KURAroads @KeNHAKenya @ntsa_kenya @DAsumbo a pedestrian crossing with a 1ft high kerb &amp; no markings? let's #AskAAK @Arch_KE which one of their professionals designed this. in fact, Kenya has ZERO MATATU STOPS which CONNECT PROPERLY TO NMT. you alight wherever &amp; walk wherever . #JeUnaMjengo @Naipolitans @ITDPAfrica.
+
+CLEANED TWEET TEXT
+
+   _kenya  a pedestrian crossing with a 1ft high kerb &amp; no markings? let's AskAAK _KE which one of their professionals designed this. in fact, Kenya has ZERO MATATU STOPS which CONNECT PROPERLY TO NMT. you alight wherever &amp; walk wherever . JeUnaMjengo  .
+Sentiment(classification='pos', p_pos=0.5076369644328791, p_neg=0.4923630355671252)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:34:27   TEXT: @Ma3Route @KenyanTraffic British Army are repairing the dilapidated main road passing through  Laikipia airbase &amp; Nanyuki General Hospital. Thanks BATUK.@KURAroads learn from them https://t.co/L8fBxa0K1u
+
+CLEANED TWEET TEXT
+
+  British Army are repairing the dilapidated main road passing through  Laikipia airbase &amp; Nanyuki General Hospital. Thanks BATUK. learn from them 
+Sentiment(classification='pos', p_pos=0.8727859821826136, p_neg=0.12721401781738648)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:35:09   TEXT: 15:35 British Army are repairing the dilapidated main road passing through  Laikipia airbase &amp; Nanyuki General Hospital. Thanks BATUK.@KURAroads learn from them  https://t.co/M2lSYrixaN via @babashawnkimani
+
+CLEANED TWEET TEXT
+
+15:35 British Army are repairing the dilapidated main road passing through  Laikipia airbase &amp; Nanyuki General Hospital. Thanks BATUK. learn from them   via 
+Sentiment(classification='pos', p_pos=0.9261373737440404, p_neg=0.07386262625595738)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:40:42   TEXT: With COVID-19 here to stay for a while, we should prioritize pedestrian &amp; cycling lanes, that way we can reduce crowding in public transport
+
+Start by covering up all the open drainage to create these lanes
+
+@KeNHAKenya @KURAroads @KeRRA_Ke @StateHouseKenya
+
+CLEANED TWEET TEXT
+
+With COVID-19 here to stay for a while, we should prioritize pedestrian &amp; cycling lanes, that way we can reduce crowding in public transport
+
+Start by covering up all the open drainage to create these lanes
+
+  _Ke 
+Sentiment(classification='neg', p_pos=0.44308266620578546, p_neg=0.5569173337942178)
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA
+
+
+
+
+TWEETS CONTAINING THE WORD @MA3ROUTE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:30:44   TEXT: @edwincuribae @Ma3Route @Lawi_Makori @e_sarioyo Hapa ukiingia, simu inawekwa flight mode.
+
+CLEANED TWEET TEXT
+
+  _Makori _sarioyo Hapa ukiingia, simu inawekwa flight mode.
+Sentiment(classification='pos', p_pos=0.652777777777778, p_neg=0.34722222222222243)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:31:12   TEXT: @Ma3Route @KURAroads @KeNHAKenya @ntsa_kenya @DAsumbo a pedestrian crossing with a 1ft high kerb &amp; no markings? let's #AskAAK @Arch_KE which one of their professionals designed this. in fact, Kenya has ZERO MATATU STOPS which CONNECT PROPERLY TO NMT. you alight wherever &amp; walk wherever . #JeUnaMjengo @Naipolitans @ITDPAfrica.
+
+CLEANED TWEET TEXT
+
+   _kenya  a pedestrian crossing with a 1ft high kerb &amp; no markings? let's AskAAK _KE which one of their professionals designed this. in fact, Kenya has ZERO MATATU STOPS which CONNECT PROPERLY TO NMT. you alight wherever &amp; walk wherever . JeUnaMjengo  .
+Sentiment(classification='pos', p_pos=0.5076369644328791, p_neg=0.4923630355671252)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:31:47   TEXT: @SakajaJohnson @Ma3Route *Full construction👍....
+1) Drainage of the section.
+2) Carpeting of the same.
+
+We await the results of this contractor at the end of the contract period!
+
+CLEANED TWEET TEXT
+
+  *Full construction👍....
+1) Drainage of the section.
+2) Carpeting of the same.
+
+We await the results of this contractor at the end of the contract period!
+Sentiment(classification='pos', p_pos=0.9414304005580832, p_neg=0.0585695994419139)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:32:31   TEXT: @Ma3Route @macharia_mbugua 🤣🤣🤣🤣🤣 how do you get knocked down under a footbridge.......
+
+CLEANED TWEET TEXT
+
+ _mbugua 🤣🤣🤣🤣🤣 how do you get knocked down under a footbridge.......
+Sentiment(classification='neg', p_pos=0.3071572137030736, p_neg=0.692842786296927)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:33:06   TEXT: @kenyaunbowed @Ma3Route @KenyanTraffic Whats going on?
+
+CLEANED TWEET TEXT
+
+   Whats going on?
+Sentiment(classification='neg', p_pos=0.46924290220820186, p_neg=0.5307570977917981)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:33:50   TEXT: @Ma3Route @macharia_mbugua Under footbridge? Itakuwa funzo kwa wengine wenye tabia mbaya.
+
+CLEANED TWEET TEXT
+
+ _mbugua Under footbridge? Itakuwa funzo kwa wengine wenye tabia mbaya.
+Sentiment(classification='neg', p_pos=0.46065573770491813, p_neg=0.539344262295082)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:34:14   TEXT: @coachyawe @Ma3Route @kot @WinWithStrategy @PrestigeNBI Do you have this book
+
+CLEANED TWEET TEXT
+
+     Do you have this book
+Sentiment(classification='neg', p_pos=0.46877422479337083, p_neg=0.5312257752066294)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:34:27   TEXT: @Ma3Route @KenyanTraffic British Army are repairing the dilapidated main road passing through  Laikipia airbase &amp; Nanyuki General Hospital. Thanks BATUK.@KURAroads learn from them https://t.co/L8fBxa0K1u
+
+CLEANED TWEET TEXT
+
+  British Army are repairing the dilapidated main road passing through  Laikipia airbase &amp; Nanyuki General Hospital. Thanks BATUK. learn from them 
+Sentiment(classification='pos', p_pos=0.8727859821826136, p_neg=0.12721401781738648)
+
+
+TWEETS CONTAINING THE WORD @NYANZATRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @KENYANTRAFFIC
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:34:42   TEXT: @KenyanTraffic @ambode44 @Gidi_Traffic Never going to give you up
+
+CLEANED TWEET TEXT
+
+  _Traffic Never going to give you up
+Sentiment(classification='neg', p_pos=0.4902190095933134, p_neg=0.5097809904066863)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:42:19   TEXT: @KenyanTraffic @engineeringvids Reminds me of gods must be crazy
+
+CLEANED TWEET TEXT
+
+  Reminds me of gods must be crazy
+Sentiment(classification='neg', p_pos=0.42366398354053136, p_neg=0.5763360164594682)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:44:34   TEXT: Dear Motorists, This is how to Respect #Cyclists and SHARE the roads responsibly! 🚴🚴🚴 @ntsa_kenya @KURAroads @KeRRA_Ke @KeNHAKenya @FredMatiangi @NziokaWaita @PSCharlesHinga @pstransportke @JamesMacharia_ @Ma3Route @KenyanTraffic @NMS_Kenya @Ke_NaMATA @Karanjakibicho https://t.co/k2OMuXkdFS
+
+CLEANED TWEET TEXT
+
+Dear Motorists, This is how to Respect Cyclists and SHARE the roads responsibly! 🚴🚴🚴 _kenya  _Ke      _   _Kenya _NaMATA  
+Sentiment(classification='pos', p_pos=0.6495006437466491, p_neg=0.3504993562533516)
+
+
+TWEETS CONTAINING THE WORD @ROAD_DRIVING
+
+
+Analyzed all tweets, going to sleep. Next analysis: 2020-05-28 15:50:18.476008
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:43:24   TEXT: @njiri_wa @bonifacemwangi @NPSOfficial_KE @ntsa_kenya idiotic question
+
+CLEANED TWEET TEXT
+
+_wa  _KE _kenya idiotic question
+Sentiment(classification='neg', p_pos=0.12103414205730606, p_neg=0.878965857942694)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:44:34   TEXT: Dear Motorists, This is how to Respect #Cyclists and SHARE the roads responsibly! 🚴🚴🚴 @ntsa_kenya @KURAroads @KeRRA_Ke @KeNHAKenya @FredMatiangi @NziokaWaita @PSCharlesHinga @pstransportke @JamesMacharia_ @Ma3Route @KenyanTraffic @NMS_Kenya @Ke_NaMATA @Karanjakibicho https://t.co/k2OMuXkdFS
+
+CLEANED TWEET TEXT
+
+Dear Motorists, This is how to Respect Cyclists and SHARE the roads responsibly! 🚴🚴🚴 _kenya  _Ke      _   _Kenya _NaMATA  
+Sentiment(classification='pos', p_pos=0.6495006437466491, p_neg=0.3504993562533516)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:49:02   TEXT: @ntsa_kenya Let me hope i get help
+
+CLEANED TWEET TEXT
+
+_kenya Let me hope i get help
+Sentiment(classification='neg', p_pos=0.4739117729102183, p_neg=0.5260882270897812)
+
+
+TWEETS CONTAINING THE WORD ACCIDENTALERT_K
+
+
+
+
+TWEETS CONTAINING THE WORD @ROADALERTSKE
+
+
+
+
+TWEETS CONTAINING THE WORD @KURAROADS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:44:34   TEXT: Dear Motorists, This is how to Respect #Cyclists and SHARE the roads responsibly! 🚴🚴🚴 @ntsa_kenya @KURAroads @KeRRA_Ke @KeNHAKenya @FredMatiangi @NziokaWaita @PSCharlesHinga @pstransportke @JamesMacharia_ @Ma3Route @KenyanTraffic @NMS_Kenya @Ke_NaMATA @Karanjakibicho https://t.co/k2OMuXkdFS
+
+CLEANED TWEET TEXT
+
+Dear Motorists, This is how to Respect Cyclists and SHARE the roads responsibly! 🚴🚴🚴 _kenya  _Ke      _   _Kenya _NaMATA  
+Sentiment(classification='pos', p_pos=0.6495006437466491, p_neg=0.3504993562533516)
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA
+
+
+
+
+TWEETS CONTAINING THE WORD @MA3ROUTE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:49:19   TEXT: Three passengers have died as eight others were injured in a midday accident at Makutano area of Athi River, Machakos County on Thursday, May 28. 
+@Ma3Route @KenyanTraffic 
+
+https://t.co/kMxAeYaz5u
+
+CLEANED TWEET TEXT
+
+Three passengers have died as eight others were injured in a midday accident at Makutano area of Athi River, Machakos County on Thursday, May 28. 
+  
+
+
+Sentiment(classification='pos', p_pos=0.8452340022033666, p_neg=0.15476599779663497)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:49:35   TEXT: Muranga road parking #ANTOnaOBINNA #VybezAdrenaline @NationFMKe @VybezRadioKE @ZJHENO @antoneosoul @Ma3Route @KenyanTraffic https://t.co/6ehAEkXUWH
+
+CLEANED TWEET TEXT
+
+Muranga road parking ANTOnaOBINNA VybezAdrenaline       
+Sentiment(classification='neg', p_pos=0.40017211703958655, p_neg=0.5998278829604136)
+
+
+TWEETS CONTAINING THE WORD @NYANZATRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @KENYANTRAFFIC
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:50:15   TEXT: @KenyanTraffic @ambode44 @Gidi_Traffic Never going to give you up
+
+CLEANED TWEET TEXT
+
+  _Traffic Never going to give you up
+Sentiment(classification='neg', p_pos=0.4902190095933134, p_neg=0.5097809904066863)
+
+
+TWEETS CONTAINING THE WORD @ROAD_DRIVING
+
+
+Analyzed all tweets, going to sleep. Next analysis: 2020-05-28 15:56:25.136055
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:52:51   TEXT: @bonifacemwangi @NPSOfficial_KE @ntsa_kenya That's soo ruthless! The touts should also be humane.
+
+CLEANED TWEET TEXT
+
+ _KE _kenya That's soo ruthless! The touts should also be humane.
+Sentiment(classification='pos', p_pos=0.6919747755731794, p_neg=0.30802522442682156)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:53:05   TEXT: @ntsa_kenya @Leonsimam Hi. My Logbook transfer was successful and its awaiting collection, do I need to have an appointment to come and pick it from your offices if yes, how do I go about the appointment. Kindly help me
+
+CLEANED TWEET TEXT
+
+_kenya  Hi. My Logbook transfer was successful and its awaiting collection, do I need to have an appointment to come and pick it from your offices if yes, how do I go about the appointment. Kindly help me
+Sentiment(classification='pos', p_pos=0.8277403266560985, p_neg=0.17225967334390144)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:55:00   TEXT: @ntsa_kenya hi am James am trying to create a tims ntsa account but it keeps on bringing an error.
+
+CLEANED TWEET TEXT
+
+_kenya hi am James am trying to create a tims ntsa account but it keeps on bringing an error.
+Sentiment(classification='pos', p_pos=0.8089276010569137, p_neg=0.19107239894308675)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:55:09   TEXT: 15:55 Dear Motorists, This is how to Respect #Cyclists and SHARE the roads responsibly! @ntsa_kenya @KURAroads  https://t.co/60VCoDvw1z via @Sir_Labz
+
+CLEANED TWEET TEXT
+
+15:55 Dear Motorists, This is how to Respect Cyclists and SHARE the roads responsibly! _kenya    via _Labz
+Sentiment(classification='pos', p_pos=0.7720355743851443, p_neg=0.2279644256148545)
+
+
+TWEETS CONTAINING THE WORD ACCIDENTALERT_K
+
+
+
+
+TWEETS CONTAINING THE WORD @ROADALERTSKE
+
+
+
+
+TWEETS CONTAINING THE WORD @KURAROADS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:55:09   TEXT: 15:55 Dear Motorists, This is how to Respect #Cyclists and SHARE the roads responsibly! @ntsa_kenya @KURAroads  https://t.co/60VCoDvw1z via @Sir_Labz
+
+CLEANED TWEET TEXT
+
+15:55 Dear Motorists, This is how to Respect Cyclists and SHARE the roads responsibly! _kenya    via _Labz
+Sentiment(classification='pos', p_pos=0.7720355743851443, p_neg=0.2279644256148545)
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA
+
+
+
+
+TWEETS CONTAINING THE WORD @MA3ROUTE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:52:08   TEXT: @Kenyans @Ma3Route @KenyanTraffic Pole wa ndugu
+
+CLEANED TWEET TEXT
+
+   Pole wa ndugu
+Sentiment(classification='pos', p_pos=0.5624999999999999, p_neg=0.4374999999999999)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 12:53:52   TEXT: All indications are Ruto has capitulated, eaten humble pie and decided to Deputise Mudavadi 2022 to avenge his merciless walloping by the "Dynasties" . A most Desperate Ticket going nowhere ( will only destroy Mudavadi) @Hot_96Kenya @Ma3Route
+
+CLEANED TWEET TEXT
+
+All indications are Ruto has capitulated, eaten humble pie and decided to Deputise Mudavadi 2022 to avenge his merciless walloping by the "Dynasties" . A most Desperate Ticket going nowhere ( will only destroy Mudavadi) _96Kenya 
+Sentiment(classification='pos', p_pos=0.8535694622506673, p_neg=0.14643053774933412)
+
+
+TWEETS CONTAINING THE WORD @NYANZATRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @KENYANTRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @ROAD_DRIVING
+
+
+Analyzed all tweets, going to sleep. Next analysis: 2020-05-28 16:02:26.997250

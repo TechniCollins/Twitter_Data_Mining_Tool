@@ -1,0 +1,99 @@
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 19:45:55   TEXT: @ItsMutai @ntsa_kenya can you resolve this madness
+
+CLEANED TWEET TEXT
+
+ _kenya can you resolve this madness
+Sentiment(classification='pos', p_pos=0.6294944145984953, p_neg=0.3705055854015048)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 19:58:34   TEXT: @roanbirgen @Belive_Kinuthia I don't know how old maina kamanda is but I know that the alleged national identity as it's alleged by @ntsa_kenya  can only belong to someone born btwn 1991 to 1992. Not earlier than that.
+
+CLEANED TWEET TEXT
+
+ _Kinuthia I don't know how old maina kamanda is but I know that the alleged national identity as it's alleged by _kenya  can only belong to someone born btwn 1991 to 1992. Not earlier than that.
+Sentiment(classification='pos', p_pos=0.8479722154411714, p_neg=0.1520277845588295)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:07:00   TEXT: @ntsa_kenya, we are still dealing with crooks with identical plate numbers. How long does this have to go on? @InteriorKE @Karanjakibicho @FredMatiangi. So poisoned innocent people? https://t.co/2WhqmQOrWO
+
+CLEANED TWEET TEXT
+
+_kenya, we are still dealing with crooks with identical plate numbers. How long does this have to go on?   . So poisoned innocent people? 
+Sentiment(classification='pos', p_pos=0.8612197132909233, p_neg=0.13878028670907858)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:07:48   TEXT: @Asmali77 @ntsa_kenya Whats the purpose of a no. plate, or you cover it for privacy . Or park your car at ur house if you dnt  want scrutiny ... Accountability is key, people refrain from illegal activities
+
+CLEANED TWEET TEXT
+
+ _kenya Whats the purpose of a no. plate, or you cover it for privacy . Or park your car at ur house if you dnt  want scrutiny ... Accountability is key, people refrain from illegal activities
+Sentiment(classification='pos', p_pos=0.9995598745390443, p_neg=0.0004401254609564671)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:19:06   TEXT: @Ogari_Mtetezi @Disembe @ItsMutai @RobertAlai @ntsa_kenya should tell us why this PRADO looks PRADERLESS.
+
+CLEANED TWEET TEXT
+
+_Mtetezi    _kenya should tell us why this PRADO looks PRADERLESS.
+Sentiment(classification='neg', p_pos=0.27309248831818556, p_neg=0.7269075116818151)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:30:27   TEXT: If it's @ntsa_kenya revealed the car belongs to Maina kamanda then it's a lie we all know NTSA belongs to Ruto
+
+CLEANED TWEET TEXT
+
+If it's _kenya revealed the car belongs to Maina kamanda then it's a lie we all know NTSA belongs to Ruto
+Sentiment(classification='neg', p_pos=0.49133114301485914, p_neg=0.5086688569851422)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:40:27   TEXT: @Belive_Kinuthia The two IDs are the same 286****.. and again the font used in putting Maina Kamanda as the owner isn't the same as the other one. Simple case.. @DCI_Kenya @ntsa_kenya
+
+CLEANED TWEET TEXT
+
+_Kinuthia The two IDs are the same 286****.. and again the font used in putting Maina Kamanda as the owner isn't the same as the other one. Simple case.. _Kenya _kenya
+Sentiment(classification='pos', p_pos=0.8988439382648309, p_neg=0.10115606173516896)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:51:38   TEXT: @Sir_Labz @NMS_Kenya @Ma3Route @KenyanTraffic @KURAroads @ntsa_kenya @pstransportke @NziokaWaita @Karanjakibicho @Ke_NaMATA Tumeanza poa
+
+CLEANED TWEET TEXT
+
+_Labz _Kenya    _kenya    _NaMATA Tumeanza poa
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:58:12   TEXT: @Gillyi @RobertAlai @ntsa_kenya @ItsMainaKageni Yes sure for real for real.
+@RobertAlai  must have been admitted in the kind of @OleItumbi forgery school.
+
+CLEANED TWEET TEXT
+
+  _kenya  Yes sure for real for real.
+  must have been admitted in the kind of  forgery school.
+Sentiment(classification='pos', p_pos=0.5044632519915752, p_neg=0.4955367480084254)
+
+
+TWEETS CONTAINING THE WORD ACCIDENTALERT_K
+
+
+
+
+TWEETS CONTAINING THE WORD @ROADALERTSKE
+
+
+[Finished in 92.4s]

@@ -1,0 +1,158 @@
+<!-- A good quantity of this code was borrowed from this bootstrap template;
+https://www.bootstrapdash.com/demo/star-admin-free/jquery/src/demo_1/pages/charts/chartjs.html
+I couldn't design my own because there was no time to learn and implement -->
+<!Doctype html>
+<html>
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+
+    <!-- EDIT ICON ACCORDING TO USER NEEDS -->
+    <link rel = "icon" href =  "media/botpost.png" type = "image/x-icon">
+
+    <!-- EDIT TITLE ACCORDING TO USER NEEDS-->
+    <title>Twitter Data Mining</title>
+
+        <!-- JQUERY CDN -->
+    <script src="https://code.jquery.com/jquery-3.5.0.js"
+    integrity="sha256-r/AaFHrszJtwpe+tHyNi/XCfMxYpbsRg2Uqn0x3s2zc="
+    crossorigin="anonymous"></script>
+
+    <!-- CHART.JS -->
+    <script src = "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.js"></script>
+
+    <!--BOOTSTRAP -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+    <!-- CSV JS TO HANDLE DATA SAVED IN CSV FILES -->
+    <script src="javascript/jquery-csv.js"></script>
+<style>
+    body {
+        background-color: #c2c6dc;
+        font-family: Montserrat,Helvetica,Arial,sans-serif;
+    }
+    .card{
+        background-color: #343a40;
+        border-radius: 10px 10px 10px 10px;
+        border-color: #343a40;
+        color: #fff;
+        margin-top: 10px;
+    }
+    .updating_live{
+        width: 10px;
+        height: 10px;
+        background-color: green;
+        display: inline-block;
+        /*border-radius: 10px 10px 10px 10px;*/
+    }
+    .sample_tweets{
+        margin-top: 10px;
+    }
+</style>
+
+</head>
+
+<body>
+    <div class = "container-fluid">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <center><h1> SENTIMENT ANALYSIS ON TWEETS POSTED SINCE 28TH MAY 2020</h1></center>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 grid-margin stretch-card">
+                <div class="card">
+                    <div class="p-4 border-bottom bg-dark">
+                        <center><h4 class="card-title mb-0">ROAD SAFETY AND ACCIDENTS </h4></center>
+                    </div>
+                    <div class="card-body">
+                      <canvas id="accidents" width="460" height="400"></canvas>
+                    </div>
+                </div>
+                <div class = "sample_tweets">
+                    <a class="twitter-timeline" href="https://twitter.com/ntsa_kenya?ref_src=twsrc%5Etfw" data-tweet-limit = "2">Tweets by ntsa_kenya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+            </div>
+
+            <div class="col-lg-4 grid-margin stretch-card">
+                <div class="card">
+                    <div class="p-4 border-bottom bg-dark">
+                        <center><h4 class="card-title mb-0">INFRASTRUCTURE </h4></center>
+                    </div>
+                    <div class="card-body">
+                      <canvas id="infrastructure" width="460" height="400"></canvas>
+                    </div>
+                </div>
+                <div class = "sample_tweets">
+                    <a class="twitter-timeline" href="https://twitter.com/KeNHAKenya?ref_src=twsrc%5Etfw" data-tweet-limit = "2">Tweets by KeNHAKenya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+            </div>
+
+            <div class="col-lg-4 grid-margin stretch-card">
+                <div class="card">
+                    <div class="p-4 border-bottom bg-dark">
+                        <center><h4 class="card-title mb-0">GENERAL TOPICS </h4></center>
+                    </div>
+                    <div class="card-body">
+                      <canvas id="general" width="460" height="400"></canvas>
+                    </div>
+                </div>
+                <div class = "sample_tweets">
+                   <a class="twitter-timeline" href="https://twitter.com/Ma3Route?ref_src=twsrc%5Etfw" data-tweet-limit = "2">Tweets by Ma3Route</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+            </div>
+
+       </div><!--end row-->
+    </div><!--end container-->
+
+    </body>
+</html>
+
+<!--javascript for drawing the charts -->
+<script> 
+    var accidents_temp_array = [];//Temporarily stores sentiment results for orgs, defaults to 0
+    var infrastructure_temp_array = [];//Temporarily stores sentiment results for orgs, defaults to 0
+    var general_temp_array = [];//Temporarily stores sentiment results for orgs, defaults to 0
+    //getData(1)//Load sentiment values from CSV
+    draw_chart(0, accidents_temp_array, 'accidents')
+    draw_chart(1, infrastructure_temp_array, 'infrastructure')
+    draw_chart(2, general_temp_array, 'general')
+    
+    //Function to read the CSV file containing the sentiments     
+    async function getData(row, output_array_name) {
+        const sentiments_file = await fetch('../sentiment_data.csv');
+        const get_sentiments = await sentiments_file.text();
+
+        //parse the csv file
+        const rows = get_sentiments.split('\n').slice(1)//Split where there's a new line and remove header row
+        get_column = rows[row].split(',');
+        output_array_name[0] = Number(get_column[1]);//stores # of positive sentiments in the temporary array
+        output_array_name[1] = Number(get_column[3]);//stores # of negative sentiments in the temporary array
+    }
+    
+    //draw_chart only executes after getData has
+    async function draw_chart(row, output_array_name, canvas_id){
+        await getData(row, output_array_name)
+        
+        //A pie chart to display followers to following ratio
+        var ctx = document.getElementById(canvas_id).getContext('2d');
+        followersdata = {
+            datasets: [{
+            data: output_array_name,
+            backgroundColor: ['rgba(116, 96, 238, 0.8)', 'rgba(79, 195, 247, 0.8)'],
+            borderColor: ['rgba(116, 96, 238, 0.5)', 'rgba(79, 195, 247, 0.5)'],
+        }],
+        labels: ['Positive', 'Negative']
+        };
+
+        var myPieChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: followersdata,
+            options: {responsive: true, scales: {tricks:{display: false}}}
+        });
+    }
+
+</script>

@@ -1,0 +1,326 @@
+
+
+TWEETS CONTAINING THE WORD NGANYA
+
+
+
+TIME: 2020-05-21 10:09:39   TEXT: @TheotherDelo Ataweza kuleta nganya??
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 08:20:04   TEXT: @BahatiKenya Wadau mnasema hii mali ya bahati imegonga  kuliko nganya za eastleigh ???
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 08:05:30   TEXT: @aixsyaaaaa_ Ya membaca ujung2 nganya ni LawAS, and GemAS 😂
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD MAKANGA
+
+
+
+TIME: 2020-05-21 09:37:24   TEXT: @JohnMwa95973600 @AKC254 unajivunia english na budaako alidrop out class 6 saii ni makanga pale githurai you know w… https://t.co/yzy34fHkd3
+Sentiment(classification='pos', p_pos=0.6977452202540401, p_neg=0.3022547797459602)
+
+TIME: 2020-05-21 09:18:26   TEXT: unakula fare ya mkamba watoto wako wote wanakua makanga😂😂 #boysclub #maskedsinger
+Sentiment(classification='pos', p_pos=0.5133333333333334, p_neg=0.48666666666666664)
+
+TIME: 2020-05-21 08:58:03   TEXT: @edikomunga Ulevi ya makanga 😂
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 08:26:16   TEXT: @leonell_mwangi @Popeson5 @DavidNdii Dereva ni mlevi na makanga ni mwizi started in 2013. Not everyone has an ostrich brain.
+Sentiment(classification='pos', p_pos=0.5572658142381284, p_neg=0.4427341857618732)
+
+TIME: 2020-05-21 07:59:14   TEXT: @MuriukiVice @Hillarymmboyi @Spiffyreborn2 @Brucee_Ke 😂😂😂kufa dereva pamoja na makanga
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 07:04:24   TEXT: @kaLefti @Babu_KeMmoja @Onialah @NicBegisen Wueeh 😳🙌🏾 umesema kufa derefa kufa makanga kufa abiria 🤣😂🤣😂
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 07:00:37   TEXT: Nimeingia matatu bila kuuliza bei like a rich person😭😭😭. Na vile hata tukiwa na sheila form ni ku bargain na makanga
+Sentiment(classification='pos', p_pos=0.6656983521242685, p_neg=0.33430164787573063)
+
+
+TWEETS CONTAINING THE WORD MATATU
+
+
+
+TIME: 2020-05-21 10:47:38   TEXT: @MOH_Kenya @NPSOfficial_KE ama @ntsa_kenya nani anafaa kushughulikia traffic police who are still "shaking hands" with matatu drivers?
+Sentiment(classification='neg', p_pos=0.41679840043527444, p_neg=0.5832015995647248)
+
+
+TWEETS CONTAINING THE WORD NISSAN
+
+
+
+TIME: 2020-05-21 10:52:05   TEXT: the problem is i want a 2020 nissan maxima for $1000.
+Sentiment(classification='neg', p_pos=0.06681917169541711, p_neg=0.9331808283045839)
+
+TIME: 2020-05-21 10:51:46   TEXT: yanımdan araba geçiyor nissan juke dizel aklımdan sen geçiyosun herşeyin çok güzell
+Sentiment(classification='neg', p_pos=0.0999999999999998, p_neg=0.9000000000000002)
+
+
+TWEETS CONTAINING THE WORD DEREVA
+
+
+
+TIME: 2020-05-21 10:12:51   TEXT: @kigogo2014 Mmmhhh  Wwe una huakika huyo ndio dereva Wake au sababu mwaka jana alitwa kusalimia??? Eeeeehhhh na Jan… https://t.co/zMiP2DTRt3
+Sentiment(classification='neg', p_pos=0.22500000000000006, p_neg=0.7750000000000011)
+
+TIME: 2020-05-21 10:09:29   TEXT: @fatma_karume Itakuwa dereva akipumzika kumwendesha anaenda kupiga vikazi vya pembeni anaendesha malori na kupeleka mzigo kenya
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD GARI
+
+
+
+TIME: 2020-05-21 10:52:34   TEXT: @mehmetonder48 Heh işte tam da orda olcak. Pöfür Pöfür eserken semaverde denediğim çayı içcem oh miiss. Misafirliğe gelin gari ☺️
+Sentiment(classification='pos', p_pos=0.7500000000000009, p_neg=0.25)
+
+TIME: 2020-05-21 10:51:50   TEXT: @najibweeder Hahahahahahah
+Suma sunshigo gari
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 10:51:46   TEXT: @adilerdogan0 Olum dur gari bi soluklan
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 10:51:23   TEXT: @Auwal_Lawal_M @Rukky_danbatta @Yaksbrother193 Saboda lalacewa an wayi gari Muhammad ya koma Rukkayya..😂😂 Allaah ya yi mana tsari
+Sentiment(classification='pos', p_pos=0.75, p_neg=0.2499999999999997)
+
+TIME: 2020-05-21 10:51:20   TEXT: @MauriGaricoche9 @BeluuGonn Y activa pue gari
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 10:51:02   TEXT: @paeknur gari sesok ee
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD BASI
+
+
+
+TIME: 2020-05-21 10:53:48   TEXT: @KhomisAbdul__ Lu aja yang basi. Pertanyaan kek gini diulang2
+Sentiment(classification='neg', p_pos=0.3000000000000001, p_neg=0.7000000000000001)
+
+TIME: 2020-05-21 10:53:34   TEXT: @Issayxx Never say nverr hahahahaha tahh kitaon ta anay basi bawal dulhungan pagkaon pero if pwede ma G ako hahahaha
+Sentiment(classification='pos', p_pos=0.5110595975031726, p_neg=0.4889404024968271)
+
+TIME: 2020-05-21 10:53:32   TEXT: @jarangtidvr @ngalamfess Soalne gk lgsg basa basi syam wkw
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 10:53:11   TEXT: @bnijaamm ten basi
+Sentiment(classification='neg', p_pos=0.3923611111111111, p_neg=0.6076388888888888)
+
+
+TWEETS CONTAINING THE WORD BARABARA
+
+
+
+TIME: 2020-05-21 10:51:55   TEXT: Ila swala la barabara ndo nimepigia kura, fanya survey uone ngapi hazina lami, unaweza invent stony roads, kule maw… https://t.co/xA9nmrhIMi
+Sentiment(classification='neg', p_pos=0.2142857142857138, p_neg=0.7857142857142845)
+
+TIME: 2020-05-21 10:40:52   TEXT: @Tolbert_Ke Sindio, unataka barabara iflood😂
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 10:38:21   TEXT: @Mangiwakwanza kama namjua hviii yy ndio alimuuzia mjomba barabara
+Sentiment(classification='neg', p_pos=0.2499999999999997, p_neg=0.75)
+
+TIME: 2020-05-21 10:34:45   TEXT: TARURA NA UKARABATI: Ujenzi wa Kalavati Mstatili  katika barabara ya Bashay- Endaguday- Hydom (inayoelekea Yaedachi… https://t.co/qzBqLsCDfb
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 10:33:15   TEXT: @MariaSTsehai Wanavuka barabara huku wamefumba!!
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 10:33:11   TEXT: TARURA NA UKARABATI: Ujenzi wa Kalavati Mstatili  katika barabara ya Bashay- Endaguday- Hydom (inayoelekea Yaedachi… https://t.co/gWpNm1GnyD
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD KARAO
+
+
+
+TIME: 2020-05-21 10:52:05   TEXT: @ChouhanShivraj obc reservation clear karao mama ji..
+Sentiment(classification='neg', p_pos=0.4415760869565223, p_neg=0.5584239130434787)
+
+TIME: 2020-05-21 10:37:27   TEXT: @PeeyushTrader Day 30 pe kyon Ruk Gaye... Bade chalo aur ambani ko gareeb feel karao :)
+Sentiment(classification='pos', p_pos=0.6248440577371254, p_neg=0.3751559422628748)
+
+TIME: 2020-05-21 10:32:59   TEXT: bstet result nitish kumar jari karao
+Sentiment(classification='pos', p_pos=0.5222772277227722, p_neg=0.4777227722772278)
+
+TIME: 2020-05-21 10:21:47   TEXT: @Foodie_faat Eidi yes karao Whatsapp pay wese tum nay reply ni krna
+Sentiment(classification='pos', p_pos=0.7429057888762767, p_neg=0.2570942111237222)
+
+TIME: 2020-05-21 10:10:12   TEXT: #IndiansAgainstTikTok waaah aaj fir se trending pe dil khus ho gyaa bhaiyo le jao issko top pe or ban karao tik tok ko
+Sentiment(classification='pos', p_pos=0.5265624999999997, p_neg=0.47343749999999984)
+
+TIME: 2020-05-21 10:09:58   TEXT: @dhera_darshna @kehgyisorry @Khaani744 Jogging hamko na karao ham fit hai theek
+Sentiment(classification='neg', p_pos=0.46104995766299806, p_neg=0.538950042337003)
+
+TIME: 2020-05-21 10:05:53   TEXT: @AD_ManCity @vippussay Patreon band karao iss artist ka 😭
+Sentiment(classification='pos', p_pos=0.6700245700245695, p_neg=0.3299754299754302)
+
+TIME: 2020-05-21 09:57:58   TEXT: Sir medical karao 
+#UPP_49568
+
+@myogiadityanath
+Sentiment(classification='pos', p_pos=0.765314569536424, p_neg=0.2346854304635761)
+
+TIME: 2020-05-21 09:57:46   TEXT: @jihaadiloli Really yes karao
+Sentiment(classification='neg', p_pos=0.4320545084600555, p_neg=0.5679454915399444)
+
+
+TWEETS CONTAINING THE WORD JAM
+
+
+
+TIME: 2020-05-21 10:55:48   TEXT: @jam_t_k_m 入りたい😢
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 10:55:47   TEXT: @jam___ru あ！ごめんなさい(´TωT`)消します..
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 10:55:45   TEXT: @jam___panman ぜひ！繋がりたいです！
+お先フォロー失礼します🕊
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD TOUT
+
+
+
+TIME: 2020-05-21 10:56:08   TEXT: @OgLBiggy @Mrick_EE Mdrrr ça a pas été mal géré le casting n'était pas bon c'est tout... 🤷🏾‍♂️
+Sentiment(classification='neg', p_pos=0.34125705076551205, p_neg=0.6587429492344891)
+
+TIME: 2020-05-21 10:56:08   TEXT: @BobKlepto @BFMTV Je comprends parfaitement et compati le mien est décédé pendant la canicule . Mais on peut tout d… https://t.co/PBSbsL72eh
+Sentiment(classification='neg', p_pos=0.16666666666666646, p_neg=0.833333333333333)
+
+TIME: 2020-05-21 10:56:07   TEXT: @redsemar Je suis tout à fait d’accord. J’ai eu l’occasion dans mon modeste parcours de rencontrer des personnes qu… https://t.co/Ia0u3faXwT
+Sentiment(classification='neg', p_pos=0.14499999999999982, p_neg=0.8549999999999983)
+
+TIME: 2020-05-21 10:56:07   TEXT: @PetrovskyBL J'ai tout raté, mais si tu fais une raclette de la paix ou du regret ou de la guerre ou... Bah, tu tro… https://t.co/tbvE9udYel
+Sentiment(classification='neg', p_pos=0.18749999999999975, p_neg=0.8125000000000012)
+
+TIME: 2020-05-21 10:56:07   TEXT: est ce que ça te manque ?  
+
+1. Mdr non j’aime pas dormir 
+2. Grave
+3. plus que tout
+4. Yes i need love
+5. Je bois… https://t.co/VAcq697j3z
+Sentiment(classification='neg', p_pos=0.39913409011144624, p_neg=0.6008659098885537)
+
+
+TWEETS CONTAINING THE WORD CONDUCTOR
+
+
+
+TIME: 2020-05-21 10:54:33   TEXT: I swear fakaret 3am nmashe train tracks b Lebanon w re7et badi addem talab wazife as a conductor https://t.co/lA5e9q3maw
+Sentiment(classification='pos', p_pos=0.8534786749375821, p_neg=0.14652132506241802)
+
+
+TWEETS CONTAINING THE WORD KENHA
+
+
+
+TIME: 2020-05-21 09:58:09   TEXT: @ShankiAustine kenha
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 01:38:35   TEXT: @maedaluna Xam splicou.. cd kenha ta poi kz ke cre ms kla ka ta da ngm direito mete na tt k dono ka txomas ind ms pa fla kzas desagradáveis.
+Sentiment(classification='pos', p_pos=0.75, p_neg=0.2499999999999997)
+
+TIME: 2020-05-21 01:05:39   TEXT: @r0driguez_18 @cv_monteiro Bo ku kes pelada ksa apresenta la n ca mesti flou k kenha ksa parci 🤣🤣
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 00:59:53   TEXT: @SassySalssy Si imeandikwa kenha ama hujui kusoma
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 00:57:01   TEXT: ok kenha ki cumpran gotas de chocolate n ta fazi um fornada d cookies so pa bh😭
+Sentiment(classification='neg', p_pos=0.4750000000000001, p_neg=0.525)
+
+
+TWEETS CONTAINING THE WORD NTSA
+
+
+
+TIME: 2020-05-21 10:54:24   TEXT: @sadisticshelah @Kashkeef Why a sa buwi a ntsa mova mova like it's a rape session ? Men can't read minds communicat… https://t.co/hw1zM79QZH
+Sentiment(classification='neg', p_pos=0.41087904051043406, p_neg=0.5891209594895666)
+
+TIME: 2020-05-21 10:47:38   TEXT: @MOH_Kenya @NPSOfficial_KE ama @ntsa_kenya nani anafaa kushughulikia traffic police who are still "shaking hands" with matatu drivers?
+Sentiment(classification='neg', p_pos=0.41679840043527444, p_neg=0.5832015995647248)
+
+TIME: 2020-05-21 10:41:23   TEXT: @JerryOjwang @ntsa_kenya kazi kwenu
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 10:31:45   TEXT: @ntsa_kenya @p_manyara Kindly respond to my Dm
+Sentiment(classification='pos', p_pos=0.6388888888888886, p_neg=0.3611111111111108)
+
+TIME: 2020-05-21 10:31:20   TEXT: @Bathabile_R 😭😭😭 ebe nkare ke nka ntsa 6 pack
+Sentiment(classification='pos', p_pos=0.6730769230769232, p_neg=0.3269230769230769)
+
+
+TWEETS CONTAINING THE WORD PSV
+
+
+
+TIME: 2020-05-21 10:47:24   TEXT: @aisrn_nk でも、DLC全部入ってるやつが販売されてるぽいからそれ買った方が早そうな気がしてきてる
+
+ff7このまえ、psvにダウンロードしたなぁやらなきゃ←いまff9やってた人
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD SACCO
+
+
+
+TIME: 2020-05-21 10:57:30   TEXT: anche il mio gatto ha avuto l’effetto quarantena visto che è ingrassato un sacco
+Sentiment(classification='neg', p_pos=0.2499999999999997, p_neg=0.75)
+
+TIME: 2020-05-21 10:55:26   TEXT: @harryhugmehoney Mi dispiace un sacco, le odio le prof così anche tu se vuoi parlare ci sono❤️
+Sentiment(classification='pos', p_pos=0.6249999999999998, p_neg=0.375)
+
+TIME: 2020-05-21 10:55:18   TEXT: @gravityfucks però è anche un sacco affascinante come cosa
+Sentiment(classification='neg', p_pos=0.496661101836394, p_neg=0.5033388981636061)
+
+TIME: 2020-05-21 10:54:55   TEXT: plz @barchokhillary last time you gave out 300 masks to ndanai bodaboda sacco chairman notifiying us that its free… https://t.co/UH92LyhoV4
+Sentiment(classification='neg', p_pos=0.38169193997352774, p_neg=0.6183080600264727)
+
+TIME: 2020-05-21 10:54:53   TEXT: @justaempathetic amo io cucino un sacco di cose solo no carne no pesce e no derivati animali ma tantissime cose hai… https://t.co/mEnwVrGhkb
+Sentiment(classification='pos', p_pos=0.5666666666666669, p_neg=0.4333333333333332)
+
+TIME: 2020-05-21 10:54:41   TEXT: @ljttlewolf mi sto affezionando un sacco a lui, sicuramente muore o dalla seconda stagione non c’è più
+Sentiment(classification='pos', p_pos=0.5469798657718121, p_neg=0.45302013422818777)
+
+TIME: 2020-05-21 10:53:59   TEXT: @Dysagyo_ rip ti capisco un sacco
+
+io invece ho la piaga della gente che dice "ma va, tanto tra 50 anni massimo tro… https://t.co/pw3y7zH53p
+Sentiment(classification='neg', p_pos=0.012384048962417524, p_neg=0.9876159510375825)
+
+TIME: 2020-05-21 10:53:57   TEXT: @adorvshawnie le loro maglie mi piacciono un sacco proprio perché sono minimal e anche con colori diversi, mi rode… https://t.co/qFvkh43AIC
+Sentiment(classification='neg', p_pos=0.4013429752066117, p_neg=0.5986570247933884)
+
+TIME: 2020-05-21 10:53:34   TEXT: #Gaich a me ricorda un sacco #Crespo ce lo vedrei bene nel nostro attacco #Lazio #Calciomercato 
+https://t.co/j8ikwmDqEe
+Sentiment(classification='neg', p_pos=0.2499999999999997, p_neg=0.75)
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+TIME: 2020-05-21 10:47:38   TEXT: @MOH_Kenya @NPSOfficial_KE ama @ntsa_kenya nani anafaa kushughulikia traffic police who are still "shaking hands" with matatu drivers?
+Sentiment(classification='neg', p_pos=0.41679840043527444, p_neg=0.5832015995647248)
+
+TIME: 2020-05-21 10:41:23   TEXT: @JerryOjwang @ntsa_kenya kazi kwenu
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+TIME: 2020-05-21 10:31:45   TEXT: @ntsa_kenya @p_manyara Kindly respond to my Dm
+Sentiment(classification='pos', p_pos=0.6388888888888886, p_neg=0.3611111111111108)
+
+TIME: 2020-05-21 10:24:52   TEXT: @ntsa_kenya kasarani expresso sacco matatu are overloading the worse culprit is KCJ 912A nickname CHECKMATE
+Sentiment(classification='pos', p_pos=0.6967279384840394, p_neg=0.3032720615159617)
+
+TIME: 2020-05-21 10:17:01   TEXT: @ntsa_kenya Kindly respond to my DM
+Sentiment(classification='pos', p_pos=0.6388888888888886, p_neg=0.3611111111111108)
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA

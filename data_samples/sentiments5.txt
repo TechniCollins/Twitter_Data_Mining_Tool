@@ -1,0 +1,31 @@
+
+
+TWEETS CONTAINING THE WORD NTSA_KENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-23 06:10:48   TEXT: These are the times for @EduMinKenya @ntsa_kenya @ImmigrationDept to improve on digital platform services. It will be shameful if the system will be there same as BC.
+
+CLEANED TWEET TEXT
+
+These are the times for  _kenya  to improve on digital platform services. It will be shameful if the system will be there same as BC.
+Sentiment(classification='pos', p_pos=0.6063304101099638, p_neg=0.3936695898900347)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-23 06:19:50   TEXT: The GoK needs to issue sanitizers to all matatus and PSV's some of them are using JIK and mixing with spirits and bottling them as sanitizer 😱. Is @MOH_Kenya @KEBS_ke and @ntsa_kenya even aware? 
+@ma3route
+
+CLEANED TWEET TEXT
+
+The GoK needs to issue sanitizers to all matatus and PSV's some of them are using JIK and mixing with spirits and bottling them as sanitizer 😱. Is _Kenya _ke and _kenya even aware? 
+
+Sentiment(classification='pos', p_pos=0.8763986297298347, p_neg=0.12360137027016442)
+
+
+TWEETS CONTAINING THE WORD KENHAKENYA
+
+
+[Finished in 16.3s]

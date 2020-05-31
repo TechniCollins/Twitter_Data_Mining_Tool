@@ -1,0 +1,67 @@
+
+
+TWEETS CONTAINING THE WORD @KURAROADS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 18:54:45   TEXT: @MogereJulius @AlphonceJuma1 @KURAroads @StateHouseKenya @BabuOwino1 @hon_Makau @UtawalaR Some of these bodies have mastered how to ignore the plight or the tweets which calls them to rise to the occasion and it beats logic why they were formed at the first place.
+Let them remember we deserve better services and esp when residents suffer like this(Kincar Zebra rd)
+
+CLEANED TWEET TEXT
+
+     _Makau  Some of these bodies have mastered how to ignore the plight or the tweets which calls them to rise to the occasion and it beats logic why they were formed at the first place.
+Let them remember we deserve better services and esp when residents suffer like this(Kincar Zebra rd)
+Sentiment(classification='pos', p_pos=0.5440136728144978, p_neg=0.4559863271855031)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 19:04:17   TEXT: @JNDAMBZ @AlphonceJuma1 @KURAroads @StateHouseKenya @BabuOwino1 @hon_Makau @UtawalaR Let's be optimistic
+
+CLEANED TWEET TEXT
+
+     _Makau  Let's be optimistic
+Sentiment(classification='pos', p_pos=0.6071428571428572, p_neg=0.39285714285714274)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 19:25:45   TEXT: Can @NMS_Kenya @KURAroads learn here? https://t.co/h5soF2HsY2
+
+CLEANED TWEET TEXT
+
+Can _Kenya  learn here? 
+Sentiment(classification='pos', p_pos=0.5242394765089045, p_neg=0.4757605234910955)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 19:35:17   TEXT: @Sir_Labz @Ma3Route @KenyanTraffic @NMS_Kenya @Ke_NaMATA @KURAroads @NziokaWaita @FredMatiangi Amazing! I didn’t think this would in Nairobi in my lifetime! Somebody is thinking and working... 💯💪
+
+CLEANED TWEET TEXT
+
+_Labz   _Kenya _NaMATA    Amazing! I didn’t think this would in Nairobi in my lifetime! Somebody is thinking and working... 💯💪
+Sentiment(classification='neg', p_pos=0.43819250705821605, p_neg=0.5618074929417844)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:05:54   TEXT: I wish NMS shall adopt this model of NMT in some parts of Kilimani Estate in Nairobi as they plan to sanitize the NCC @NMS_Kenya @StateHouseKenya @KURAroads @KeNHAKenya @NairobiCityGov @MikeSonko https://t.co/B3shPJYWN1
+
+CLEANED TWEET TEXT
+
+I wish NMS shall adopt this model of NMT in some parts of Kilimani Estate in Nairobi as they plan to sanitize the NCC _Kenya      
+Sentiment(classification='pos', p_pos=0.8783421804737559, p_neg=0.12165781952624463)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-25 20:51:38   TEXT: @Sir_Labz @NMS_Kenya @Ma3Route @KenyanTraffic @KURAroads @ntsa_kenya @pstransportke @NziokaWaita @Karanjakibicho @Ke_NaMATA Tumeanza poa
+
+CLEANED TWEET TEXT
+
+_Labz _Kenya    _kenya    _NaMATA Tumeanza poa
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA
+
+
+[Finished in 40.2s]

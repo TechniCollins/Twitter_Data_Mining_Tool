@@ -1,0 +1,229 @@
+
+
+TWEETS CONTAINING THE WORD NGANYA
+
+
+
+
+TWEETS CONTAINING THE WORD MAKANGA
+
+
+
+
+TWEETS CONTAINING THE WORD MATATU
+
+
+
+
+TWEETS CONTAINING THE WORD NISSAN
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:04:32   TEXT: Nissan reabre su red concesionarios
+https://t.co/bt6fx14zKw  @NissanLATAM @nissanargentina https://t.co/7jn1FWSgxF
+
+CLEANED TWEET TEXT
+
+Nissan reabre su red concesionarios
+    
+Sentiment(classification='pos', p_pos=0.5105633802816901, p_neg=0.4894366197183099)
+
+
+TWEETS CONTAINING THE WORD DEREVA
+
+
+
+
+TWEETS CONTAINING THE WORD GARI
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:05:16   TEXT: kasta cinemallo kuda ide hairstyle maintain chesthe.....
+
+Next Rajendra prasad gari dialogue: edho alisipoina bhatukulu ..koncham aasha kanapadagane adigesaru 😁😁😁😁 
+Mahesh : Cheseddam sir ..new look e ga 🔥🔥🔥
+#SSMB27 
+ https://t.co/aqmUKRgODr
+
+CLEANED TWEET TEXT
+
+kasta cinemallo kuda ide hairstyle maintain chesthe.....
+
+Next Rajendra prasad gari dialogue: edho alisipoina bhatukulu ..koncham aasha kanapadagane adigesaru 😁😁😁😁 
+Mahesh : Cheseddam sir ..new look e ga 🔥🔥🔥
+SSMB27 
+ 
+Sentiment(classification='pos', p_pos=0.8410046422978977, p_neg=0.158995357702101)
+
+
+TWEETS CONTAINING THE WORD BASI
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:05:24   TEXT: @tryndamee Tapi ya jul ini tuh makanaaaaannnn, gue ngirim makanan basah anjir sieun basi makanya make sameday. Taunya mah hari ini baru dikirim, babs :)))
+
+CLEANED TWEET TEXT
+
+ Tapi ya jul ini tuh makanaaaaannnn, gue ngirim makanan basah anjir sieun basi makanya make sameday. Taunya mah hari ini baru dikirim, babs :)))
+Sentiment(classification='pos', p_pos=0.6937747035573126, p_neg=0.30622529644268826)
+
+
+TWEETS CONTAINING THE WORD BARABARA
+
+
+
+
+TWEETS CONTAINING THE WORD KARAO
+
+
+
+
+TWEETS CONTAINING THE WORD JAM
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:05:48   TEXT: @GohramPeace @dpr_gob @jam_kamal @ZahoorBuledi nalath ba turbat a police a, garebani sra tat, asli dozan gefth nakana
+
+CLEANED TWEET TEXT
+
+ _gob _kamal  nalath ba turbat a police a, garebani sra tat, asli dozan gefth nakana
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:05:47   TEXT: This week's featured dunk is a fast break jam by North Harbour Basketball's tower of power, Kiani Saxon. #ballislife https://t.co/0vEIxa655X
+
+CLEANED TWEET TEXT
+
+This week's featured dunk is a fast break jam by North Harbour Basketball's tower of power, Kiani Saxon. ballislife 
+Sentiment(classification='neg', p_pos=0.24681019293305995, p_neg=0.7531898070669351)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:05:46   TEXT: Bangun jam 8  ni ingat boleh la kerja siap cepat, Hampehh
+
+CLEANED TWEET TEXT
+
+Bangun jam 8  ni ingat boleh la kerja siap cepat, Hampehh
+Sentiment(classification='pos', p_pos=0.6818181818181814, p_neg=0.31818181818181845)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:05:45   TEXT: @steffie_jam Wag na
+
+CLEANED TWEET TEXT
+
+_jam Wag na
+Sentiment(classification='pos', p_pos=0.8478260869565213, p_neg=0.15217391304347866)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:05:45   TEXT: Malam ini jam 8 malam WIB akan menemani kalian #dirumahaja karena kami bakal live streaming di IG &amp; YouTube @mblocspace. Juga dibeberapa kanal lainnya. Jangan lupa! 😘 https://t.co/DawTquGx2h
+
+CLEANED TWEET TEXT
+
+Malam ini jam 8 malam WIB akan menemani kalian dirumahaja karena kami bakal live streaming di IG &amp; YouTube . Juga dibeberapa kanal lainnya. Jangan lupa! 😘 
+Sentiment(classification='pos', p_pos=0.6892017326732669, p_neg=0.3107982673267331)
+
+
+TWEETS CONTAINING THE WORD TOUT
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:06:22   TEXT: imagine t'as un serveur avec des dizaines de pays dedans et t'écris l'heure de réouverture dans le fuseau horaire de celui qui est tout seul dedans
+
+CLEANED TWEET TEXT
+
+imagine t'as un serveur avec des dizaines de pays dedans et t'écris l'heure de réouverture dans le fuseau horaire de celui qui est tout seul dedans
+Sentiment(classification='pos', p_pos=0.5258510773938552, p_neg=0.4741489226061454)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:06:21   TEXT: Harry a reculé devant rien et il a tout affronté donc bon https://t.co/r0VmOOtMVI
+
+CLEANED TWEET TEXT
+
+Harry a reculé devant rien et il a tout affronté donc bon 
+Sentiment(classification='neg', p_pos=0.14748201438848946, p_neg=0.8525179856115107)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:06:21   TEXT: @MsppOfficiel @JamesAbdon5 Savedi nan tout ka sayo jovenel pako pran toujou
+
+CLEANED TWEET TEXT
+
+  Savedi nan tout ka sayo jovenel pako pran toujou
+Sentiment(classification='pos', p_pos=0.75, p_neg=0.2499999999999997)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:06:19   TEXT: @ACHEREDS @vintageisnice @Akri__ @hokihime Je suis pas profs de français mais je sais que "les hommes sont" à la signification de "tout les hommes sont"
+
+CLEANED TWEET TEXT
+
+  __  Je suis pas profs de français mais je sais que "les hommes sont" à la signification de "tout les hommes sont"
+Sentiment(classification='neg', p_pos=0.247211895910781, p_neg=0.7527881040892193)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:06:18   TEXT: @DaZzFN @mugilpf @FortniteGame Et moi je me plein de mon ping in game peut être ? Je me fait first try ? C'est simple je reste pas comme un autiste mur en main, je change de box avec escaliers dans le box. Regarde aux fncs solo benjy first try tout le monde, et ils doivent s'adapter. Après je te comprends
+
+CLEANED TWEET TEXT
+
+   Et moi je me plein de mon ping in game peut être ? Je me fait first try ? C'est simple je reste pas comme un autiste mur en main, je change de box avec escaliers dans le box. Regarde aux fncs solo benjy first try tout le monde, et ils doivent s'adapter. Après je te comprends
+Sentiment(classification='pos', p_pos=0.9431619444799071, p_neg=0.05683805552009)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 03:06:17   TEXT: @BurundiCnl @CeniBurundi @jumuiya Ancienne excuse pour ne pas digérer son déboire. Tu as droit à un avocat et tout ce que tu dirais sous l'emprise de la colère pourrait se retourner contre toi.
+
+CLEANED TWEET TEXT
+
+   Ancienne excuse pour ne pas digérer son déboire. Tu as droit à un avocat et tout ce que tu dirais sous l'emprise de la colère pourrait se retourner contre toi.
+Sentiment(classification='pos', p_pos=0.5717055915444937, p_neg=0.42829440845550576)
+
+
+TWEETS CONTAINING THE WORD CONDUCTOR
+
+
+
+
+TWEETS CONTAINING THE WORD KENHA
+
+
+
+
+TWEETS CONTAINING THE WORD NTSA
+
+
+
+
+TWEETS CONTAINING THE WORD PSV
+
+
+
+
+TWEETS CONTAINING THE WORD SACCO
+
+
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA
+
+
+[Finished in 143.9s]

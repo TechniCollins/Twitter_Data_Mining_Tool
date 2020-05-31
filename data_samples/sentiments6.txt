@@ -1,0 +1,1737 @@
+
+
+TWEETS CONTAINING THE WORD MUNYU ROAD
+
+
+
+
+TWEETS CONTAINING THE WORD PANGANI
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 13:34:15   TEXT: suwe2 entek di pangani dewe🤣 https://t.co/RekkVOHmXm
+
+CLEANED TWEET TEXT
+
+suwe2 entek di pangani dewe🤣 
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 15:43:34   TEXT: @infoLMG Jajan ku tak pangani dewe min l😂
+
+CLEANED TWEET TEXT
+
+ Jajan ku tak pangani dewe min l😂
+Sentiment(classification='pos', p_pos=0.5624999999999999, p_neg=0.43749999999999933)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:14:08   TEXT: Follow takupangani nanga chosapangira FB nchaninso🤔
+🤔
+🤔
+🤔
+🤔
+Pangani ka follow back ako ka asaaaaa😂😂😂
+
+CLEANED TWEET TEXT
+
+Follow takupangani nanga chosapangira FB nchaninso🤔
+🤔
+🤔
+🤔
+🤔
+Pangani ka follow back ako ka asaaaaa😂😂😂
+Sentiment(classification='pos', p_pos=0.6242453309259154, p_neg=0.3757546690740847)
+
+
+TWEETS CONTAINING THE WORD ROYSAMBU
+
+
+
+
+TWEETS CONTAINING THE WORD GITHURAI
+
+
+
+
+TWEETS CONTAINING THE WORD PROGGIE
+
+
+
+
+TWEETS CONTAINING THE WORD KU
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:26:15   TEXT: Day 1: guys we nailed it .
+Saura ku ladies we're waiting for u  to  show us what u got .😎😎😎
+
+CLEANED TWEET TEXT
+
+Day 1: guys we nailed it .
+Saura ku ladies we're waiting for u  to  show us what u got .😎😎😎
+Sentiment(classification='pos', p_pos=0.679947972366658, p_neg=0.3200520276333409)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:26:16   TEXT: @SaveraMughal Yar ye 300 zada ku😔
+
+CLEANED TWEET TEXT
+
+ Yar ye 300 zada ku😔
+Sentiment(classification='pos', p_pos=0.7083333333333341, p_neg=0.29166666666666663)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:26:23   TEXT: @AjoOysters Maaso kulutimbe akabina ku ddongo😂😂
+
+CLEANED TWEET TEXT
+
+ Maaso kulutimbe akabina ku ddongo😂😂
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD RUIRU
+
+
+
+
+TWEETS CONTAINING THE WORD JUJA
+
+
+
+
+TWEETS CONTAINING THE WORD THIKA ROAD
+
+
+
+
+TWEETS CONTAINING THE WORD O.T.C
+
+
+
+
+TWEETS CONTAINING THE WORD MUTHAIGA
+
+
+
+
+TWEETS CONTAINING THE WORD ROUNDABOUT
+
+
+
+
+TWEETS CONTAINING THE WORD KIAMBU INSTITUTE
+
+
+
+
+TWEETS CONTAINING THE WORD KAKA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:26:27   TEXT: @MalyangoWakitaa Sawa kaka 😂😂😂😂
+
+CLEANED TWEET TEXT
+
+ Sawa kaka 😂😂😂😂
+Sentiment(classification='pos', p_pos=0.75, p_neg=0.25)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:26:29   TEXT: @zdanfhrzi Follback kaka
+
+CLEANED TWEET TEXT
+
+ Follback kaka
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:26:37   TEXT: Le kaka  #Uyajola99 https://t.co/mv7LBaWpZq
+
+CLEANED TWEET TEXT
+
+Le kaka  Uyajola99 
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:26:41   TEXT: mwen challenge tonymix poul fe on bagay  pou ayiti pou kont li ..... acheté manage pou 100 ti  moun ... tonymix toujou ap mande kob lot moun poul ka ede lot poukisa ou pa fel poukont ou  ... frekan ..kaka selman misye toujou voye ... li travaille avec tout lot vole yo ayiti 😡😡
+
+CLEANED TWEET TEXT
+
+mwen challenge tonymix poul fe on bagay  pou ayiti pou kont li ..... acheté manage pou 100 ti  moun ... tonymix toujou ap mande kob lot moun poul ka ede lot poukisa ou pa fel poukont ou  ... frekan ..kaka selman misye toujou voye ... li travaille avec tout lot vole yo ayiti 😡😡
+Sentiment(classification='pos', p_pos=0.5509591667277216, p_neg=0.44904083327227806)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:26:44   TEXT: @JanezStupar @5RA_5RA_5RA Ma kaka pamet neki, unle sploh še z drevesa ni splezal.🦍 #sestop_ZDAJ
+
+CLEANED TWEET TEXT
+
+ _5RA_5RA Ma kaka pamet neki, unle sploh še z drevesa ni splezal.🦍 sestop_ZDAJ
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:26:48   TEXT: @dourado20_kaka vi vei
+
+CLEANED TWEET TEXT
+
+_kaka vi vei
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD GITHUNGURI
+
+
+
+
+TWEETS CONTAINING THE WORD NDUMBERI
+
+
+
+
+TWEETS CONTAINING THE WORD NGARA
+
+
+
+
+TWEETS CONTAINING THE WORD KARIOBANGI NORTH
+
+
+
+
+TWEETS CONTAINING THE WORD TOWN
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:28:03   TEXT: @happimess73 Hello! I wanted to connect as I went to school in Limerick, St. Munchins, albeit for about a year (1970). My recently deceased mother was from a town outside of Limerick, Kilfinane. Look forward to following you and your poetry. Keep on being inspired and creative.
+
+CLEANED TWEET TEXT
+
+ Hello! I wanted to connect as I went to school in Limerick, St. Munchins, albeit for about a year (1970). My recently deceased mother was from a town outside of Limerick, Kilfinane. Look forward to following you and your poetry. Keep on being inspired and creative.
+Sentiment(classification='pos', p_pos=0.9503629804275313, p_neg=0.04963701957247202)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:28:04   TEXT: This town was known only for its aquarium until the discovery of rare Fossils really put it on the map.
+
+CLEANED TWEET TEXT
+
+This town was known only for its aquarium until the discovery of rare Fossils really put it on the map.
+Sentiment(classification='pos', p_pos=0.9900271538721372, p_neg=0.009972846127864685)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:28:06   TEXT: Free #camping in Pioche, NV.  An old silver mining town now rich with history. https://t.co/yjZdvzwEUQ
+
+CLEANED TWEET TEXT
+
+Free camping in Pioche, NV.  An old silver mining town now rich with history. 
+Sentiment(classification='pos', p_pos=0.8506811599283393, p_neg=0.1493188400716622)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:28:06   TEXT: @AlexDanvers2017 Square dancing and cotton-eyed Joe - small town near Houston, Texas
+
+CLEANED TWEET TEXT
+
+ Square dancing and cotton-eyed Joe - small town near Houston, Texas
+Sentiment(classification='pos', p_pos=0.63381945741289, p_neg=0.36618054258710775)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:28:09   TEXT: @joaniwalshi @PRMira @amscanlon Seriously though, Barnard Castle is more a scenic town with one of each shop and a market once or twice a week, markets wont be on in the pandemic. Only things open will be the bakers, the butcher and maybe a solicitor's office 😯lol.
+
+CLEANED TWEET TEXT
+
+   Seriously though, Barnard Castle is more a scenic town with one of each shop and a market once or twice a week, markets wont be on in the pandemic. Only things open will be the bakers, the butcher and maybe a solicitor's office 😯lol.
+Sentiment(classification='pos', p_pos=0.7126381371510846, p_neg=0.2873618628489163)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:28:09   TEXT: @tahdollasign @RashadShabazzz @TamTam0814 Literally teenagers and ghetto ass in town shit in nearly every post.
+
+CLEANED TWEET TEXT
+
+   Literally teenagers and ghetto ass in town shit in nearly every post.
+Sentiment(classification='neg', p_pos=0.44634633854588385, p_neg=0.553653661454117)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:28:10   TEXT: If you have the honor of having Diana in your town and don't make her house look nice beyond giving her a shitty garden table and a moss ball you deserve to be [redacted]
+
+CLEANED TWEET TEXT
+
+If you have the honor of having Diana in your town and don't make her house look nice beyond giving her a shitty garden table and a moss ball you deserve to be [redacted]
+Sentiment(classification='pos', p_pos=0.9090353766928462, p_neg=0.09096462330715771)
+
+
+TWEETS CONTAINING THE WORD BYPASS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:28:11   TEXT: @advocateleopard Did you suggest reading it ourselves to bypass the rose tinted lense of much of the media? Because this is just as bad as the previous speeches
+
+CLEANED TWEET TEXT
+
+ Did you suggest reading it ourselves to bypass the rose tinted lense of much of the media? Because this is just as bad as the previous speeches
+Sentiment(classification='pos', p_pos=0.9182267931361813, p_neg=0.08177320686382002)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:28:30   TEXT: No one is commenting on how SHOTs in wynwood decided to sell chicken tenders so they can bypass the bar/club ban and pretend they’re a restaurant? #floridamorons
+
+CLEANED TWEET TEXT
+
+No one is commenting on how SHOTs in wynwood decided to sell chicken tenders so they can bypass the bar/club ban and pretend they’re a restaurant? floridamorons
+Sentiment(classification='neg', p_pos=0.20592293100952702, p_neg=0.7940770689904717)
+
+
+TWEETS CONTAINING THE WORD CITY
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:29:08   TEXT: we really the only brown people in traverse city 😂
+
+CLEANED TWEET TEXT
+
+we really the only brown people in traverse city 😂
+Sentiment(classification='pos', p_pos=0.8119362428388912, p_neg=0.1880637571611095)
+
+
+TWEETS CONTAINING THE WORD CABANAS
+
+
+
+
+TWEETS CONTAINING THE WORD ROASTERS
+
+
+
+
+TWEETS CONTAINING THE WORD THOME
+
+
+
+
+TWEETS CONTAINING THE WORD MARUIRUI
+
+
+
+
+TWEETS CONTAINING THE WORD TORRENTS
+
+
+
+
+TWEETS CONTAINING THE WORD MEMBLEY
+
+
+
+
+TWEETS CONTAINING THE WORD DRIVE IN
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:29:21   TEXT: When they open that drive in cinema in Manchester again ! The last one was 😍😍 https://t.co/JyYVkPxDA2
+
+CLEANED TWEET TEXT
+
+When they open that drive in cinema in Manchester again ! The last one was 😍😍 
+Sentiment(classification='pos', p_pos=0.5375955272613477, p_neg=0.46240447273865104)
+
+
+TWEETS CONTAINING THE WORD MATHARE
+
+
+
+
+TWEETS CONTAINING THE WORD KOJA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:29:28   TEXT: Da li neko zna da mi kaže koja je biljka, ovo zeleno, izniklo tu?... https://t.co/gKQgg4grHt
+
+CLEANED TWEET TEXT
+
+Da li neko zna da mi kaže koja je biljka, ovo zeleno, izniklo tu?... 
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD FLYOVER
+
+
+
+
+TWEETS CONTAINING THE WORD GURU NANAK
+
+
+
+
+TWEETS CONTAINING THE WORD PANGANI GIRLS
+
+
+
+
+TWEETS CONTAINING THE WORD MLANGO
+
+
+
+
+TWEETS CONTAINING THE WORD EASTLEIGH
+
+
+
+
+TWEETS CONTAINING THE WORD ALLSOPS
+
+
+
+
+TWEETS CONTAINING THE WORD ROUNDA
+
+
+
+
+TWEETS CONTAINING THE WORD ODEON
+
+
+
+
+TWEETS CONTAINING THE WORD BABA DOGO
+
+
+
+
+TWEETS CONTAINING THE WORD LUCKY SUMMER
+
+
+
+
+TWEETS CONTAINING THE WORD DANDORA
+
+
+
+
+TWEETS CONTAINING THE WORD BUS STATION
+
+
+
+
+TWEETS CONTAINING THE WORD NGUMBA
+
+
+
+
+TWEETS CONTAINING THE WORD ROYSAMBU
+
+
+
+
+TWEETS CONTAINING THE WORD KASARANI
+
+
+
+
+TWEETS CONTAINING THE WORD SUNTON
+
+
+
+
+TWEETS CONTAINING THE WORD MWIKI
+
+
+
+
+TWEETS CONTAINING THE WORD ZIMMERMAN
+
+
+
+
+TWEETS CONTAINING THE WORD RONALD NGALA
+
+
+
+
+TWEETS CONTAINING THE WORD HURUMA
+
+
+
+
+TWEETS CONTAINING THE WORD GIKOMBA
+
+
+
+
+TWEETS CONTAINING THE WORD KARIOKOR
+
+
+
+
+TWEETS CONTAINING THE WORD DC
+
+
+
+
+TWEETS CONTAINING THE WORD TERMINUS
+
+
+
+
+TWEETS CONTAINING THE WORD EASTLEIGH
+
+
+
+
+TWEETS CONTAINING THE WORD UMOJA
+
+
+
+
+TWEETS CONTAINING THE WORD KAYOLE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:30:00   TEXT: Hon. Babu Owino please assist me With some money for rent. I am Bernard from kayole please reply please do not ignore this message
+
+CLEANED TWEET TEXT
+
+Hon. Babu Owino please assist me With some money for rent. I am Bernard from kayole please reply please do not ignore this message
+Sentiment(classification='neg', p_pos=0.21558647619819482, p_neg=0.7844135238018051)
+
+
+TWEETS CONTAINING THE WORD SAIKA
+
+
+
+
+TWEETS CONTAINING THE WORD RUAI
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:30:30   TEXT: Where are the Nairobi County leaders. The human rights body, Senator? They are busy eating chai and mandazi.
+Kariobangi/ruai eviction is sickening.
+#BulldozersForSanitizers
+#sundaylive
+
+CLEANED TWEET TEXT
+
+Where are the Nairobi County leaders. The human rights body, Senator? They are busy eating chai and mandazi.
+Kariobangi/ruai eviction is sickening.
+BulldozersForSanitizers
+sundaylive
+Sentiment(classification='pos', p_pos=0.7599441349060031, p_neg=0.24005586509399665)
+
+
+TWEETS CONTAINING THE WORD OTC
+
+
+
+
+TWEETS CONTAINING THE WORD MUTHURWA
+
+
+
+
+TWEETS CONTAINING THE WORD DONHOLM
+
+
+
+
+TWEETS CONTAINING THE WORD PIPELINE
+
+
+
+
+TWEETS CONTAINING THE WORD NYAYO STADIUM
+
+
+
+
+TWEETS CONTAINING THE WORD HILLOCKS
+
+
+
+
+TWEETS CONTAINING THE WORD GM
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:30:54   TEXT: Dont be afraid shes on a gm account winning games https://t.co/DtXMZxN5uL
+
+CLEANED TWEET TEXT
+
+Dont be afraid shes on a gm account winning games 
+Sentiment(classification='neg', p_pos=0.2864901446916745, p_neg=0.7135098553083256)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:30:56   TEXT: @ceqye_ gm
+
+CLEANED TWEET TEXT
+
+_ gm
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:30:57   TEXT: @gm_3939cat 白いいねぇ(･∀･)ｲｲ!!
+柄もﾅｲｽ(｡•̀ᴗ-)و ̑̑✧
+
+CLEANED TWEET TEXT
+
+_3939cat 白いいねぇ(･∀･)ｲｲ!!
+柄もﾅｲｽ(｡•̀ᴗ-)و ̑̑✧
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:31:01   TEXT: that's another reason, and I'm pretty sure my gm would tell them anyway if I refused so I couldn't get unemp. Anyway, it wouldn't be right. I know there's some people they don't want to hire back, so I should be flattered and grateful for the time I did get. Notice
+
+CLEANED TWEET TEXT
+
+that's another reason, and I'm pretty sure my gm would tell them anyway if I refused so I couldn't get unemp. Anyway, it wouldn't be right. I know there's some people they don't want to hire back, so I should be flattered and grateful for the time I did get. Notice
+Sentiment(classification='neg', p_pos=0.4643553125089068, p_neg=0.5356446874910981)
+
+
+TWEETS CONTAINING THE WORD CHURCH ARMY
+
+
+
+
+TWEETS CONTAINING THE WORD BIAFRA
+
+
+
+
+TWEETS CONTAINING THE WORD JOSTER
+
+
+
+
+TWEETS CONTAINING THE WORD GILL HOUSE
+
+
+
+
+TWEETS CONTAINING THE WORD JOGOO ROAD
+
+
+
+
+TWEETS CONTAINING THE WORD SHAURI MOYO
+
+
+
+
+TWEETS CONTAINING THE WORD JERUSALEM
+
+
+
+
+TWEETS CONTAINING THE WORD BURUBURU
+
+
+
+
+TWEETS CONTAINING THE WORD KARIOBANGI SOUTH
+
+
+
+
+TWEETS CONTAINING THE WORD LIKONI
+
+
+
+
+TWEETS CONTAINING THE WORD SINAI
+
+
+
+
+TWEETS CONTAINING THE WORD LUNGA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:31:50   TEXT: @Accidenti5 @ANNA62348499 @Maria70221974 Maquandomai...il mio bisnonno s'è giocato tutto a   gioco e femmine
+Lui si che la sapeva lunga
+
+CLEANED TWEET TEXT
+
+   Maquandomai...il mio bisnonno s'è giocato tutto a   gioco e femmine
+Lui si che la sapeva lunga
+Sentiment(classification='neg', p_pos=0.2499999999999997, p_neg=0.75)
+
+
+TWEETS CONTAINING THE WORD MAKADARA
+
+
+
+
+TWEETS CONTAINING THE WORD MARINGO
+
+
+
+
+TWEETS CONTAINING THE WORD AQUINAS
+
+
+
+
+TWEETS CONTAINING THE WORD OUTERING
+
+
+
+
+TWEETS CONTAINING THE WORD HARAMBEE
+
+
+
+
+TWEETS CONTAINING THE WORD KWA MBAO
+
+
+
+
+TWEETS CONTAINING THE WORD AMBASSADEUR
+
+
+
+
+TWEETS CONTAINING THE WORD CARBANAS
+
+
+
+
+TWEETS CONTAINING THE WORD JKIA
+
+
+
+
+TWEETS CONTAINING THE WORD COMMERCIAL
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:31:56   TEXT: 🤣🤣🤣 while I'm on commercial break really now ... @PBlankEvumbi 😅😅 so unfair  #SpiceSundayCruise
+
+CLEANED TWEET TEXT
+
+🤣🤣🤣 while I'm on commercial break really now ...  😅😅 so unfair  SpiceSundayCruise
+Sentiment(classification='pos', p_pos=0.6172412378005288, p_neg=0.3827587621994705)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:32:08   TEXT: @daimanuel More than home fitness. It going to be a rough going for many as the economy is reshaped. A Gold's gym by me disappeared overnight. I see a lot of empty commercial buildings looming.
+
+CLEANED TWEET TEXT
+
+ More than home fitness. It going to be a rough going for many as the economy is reshaped. A Gold's gym by me disappeared overnight. I see a lot of empty commercial buildings looming.
+Sentiment(classification='pos', p_pos=0.6562245069495082, p_neg=0.3437754930504968)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:32:09   TEXT: One of my favorite things during quarantine is the Postmates commercial with celebrities trying to be relatable by mentioning their cheapest take out spot. 
+
+Celebrities! They’re just like us! (please don’t mention the private chefs)
+
+CLEANED TWEET TEXT
+
+One of my favorite things during quarantine is the Postmates commercial with celebrities trying to be relatable by mentioning their cheapest take out spot. 
+
+Celebrities! They’re just like us! (please don’t mention the private chefs)
+Sentiment(classification='pos', p_pos=0.5429466947136244, p_neg=0.45705330528637755)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:32:13   TEXT: NFL Kicker Nick Folk Builds A commercial real estate  Career As He Looks For His Next Team https://t.co/rHzN2B7rCD
+
+CLEANED TWEET TEXT
+
+NFL Kicker Nick Folk Builds A commercial real estate  Career As He Looks For His Next Team 
+Sentiment(classification='neg', p_pos=0.48232564201850847, p_neg=0.5176743579814912)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:32:18   TEXT: The #tilapiines of North Africa are the most important commercial cichlids.
+
+CLEANED TWEET TEXT
+
+The tilapiines of North Africa are the most important commercial cichlids.
+Sentiment(classification='pos', p_pos=0.7413114559236699, p_neg=0.25868854407633124)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:32:23   TEXT: i just saw a metro pc commercial &amp; they r saying the iphone SE is still brand new. im like bitch
+
+CLEANED TWEET TEXT
+
+i just saw a metro pc commercial &amp; they r saying the iphone SE is still brand new. im like bitch
+Sentiment(classification='neg', p_pos=0.12086796602673859, p_neg=0.8791320339732613)
+
+
+TWEETS CONTAINING THE WORD ACCRA
+
+
+
+
+TWEETS CONTAINING THE WORD FEDHA
+
+
+
+
+TWEETS CONTAINING THE WORD GATE A
+
+
+
+
+TWEETS CONTAINING THE WORD MAMA LUCY
+
+
+
+
+TWEETS CONTAINING THE WORD NJIRU
+
+
+
+
+TWEETS CONTAINING THE WORD JACARANDA
+
+
+
+
+TWEETS CONTAINING THE WORD LANDHIES
+
+
+
+
+TWEETS CONTAINING THE WORD CALTEX
+
+
+
+
+TWEETS CONTAINING THE WORD MUTINDWA
+
+
+
+
+TWEETS CONTAINING THE WORD KANGUNDO
+
+
+
+
+TWEETS CONTAINING THE WORD JUNCTION
+
+
+
+
+TWEETS CONTAINING THE WORD CALTEX
+
+
+
+
+TWEETS CONTAINING THE WORD KOMAROCKS
+
+
+
+
+TWEETS CONTAINING THE WORD BOMAS
+
+
+
+
+TWEETS CONTAINING THE WORD KAREN
+
+
+
+
+TWEETS CONTAINING THE WORD INDUSTRIAL AREA
+
+
+
+
+TWEETS CONTAINING THE WORD HAZINA
+
+
+
+
+TWEETS CONTAINING THE WORD MATER
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:32:29   TEXT: @ThierrySultan J'attends les deux parties perso mais on va mater
+
+CLEANED TWEET TEXT
+
+ J'attends les deux parties perso mais on va mater
+Sentiment(classification='pos', p_pos=0.807273963290278, p_neg=0.19272603670972152)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:32:53   TEXT: @semprescettica @2017Pisces That's right and they were more clandestine. Lately they don't mind showing who they are. I think they have their people already in all the right places and have paved the way for their mater (antichrist) to take over.
+
+CLEANED TWEET TEXT
+
+  That's right and they were more clandestine. Lately they don't mind showing who they are. I think they have their people already in all the right places and have paved the way for their mater (antichrist) to take over.
+Sentiment(classification='neg', p_pos=0.2598879678576653, p_neg=0.7401120321423325)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:33:12   TEXT: @CCastaner Désolé mais là c’est à gerber. À plat ventre avec les islamistes. Rien pour mater les incivilités musulmanes à moto, et les egorgeurs. On voit seulement tes muscles pour mater les catholiques gilets jaunes. Vous allez tous devoir rendre des comptes.
+
+CLEANED TWEET TEXT
+
+ Désolé mais là c’est à gerber. À plat ventre avec les islamistes. Rien pour mater les incivilités musulmanes à moto, et les egorgeurs. On voit seulement tes muscles pour mater les catholiques gilets jaunes. Vous allez tous devoir rendre des comptes.
+Sentiment(classification='pos', p_pos=0.7307692307692313, p_neg=0.2692307692307697)
+
+
+TWEETS CONTAINING THE WORD RAILWAYS
+
+
+
+
+TWEETS CONTAINING THE WORD RAILWAYS TRAINING INSTITUTE
+
+
+
+
+TWEETS CONTAINING THE WORD BALOZI
+
+
+
+
+TWEETS CONTAINING THE WORD NAIROBI WEST
+
+
+
+
+TWEETS CONTAINING THE WORD MADARAKA
+
+
+
+
+TWEETS CONTAINING THE WORD STRATHMORE
+
+
+
+
+TWEETS CONTAINING THE WORD TAJ MALL
+
+
+
+
+TWEETS CONTAINING THE WORD HIGHRISE
+
+
+
+
+TWEETS CONTAINING THE WORD WILSON AIRPORT
+
+
+
+
+TWEETS CONTAINING THE WORD LANGATA
+
+
+
+
+TWEETS CONTAINING THE WORD ONGATA
+
+
+
+
+TWEETS CONTAINING THE WORD RONGAI
+
+
+
+
+TWEETS CONTAINING THE WORD NKOROI
+
+
+
+
+TWEETS CONTAINING THE WORD KISERIAN
+
+
+
+
+TWEETS CONTAINING THE WORD HARDY
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:34:23   TEXT: attempting baguettes for the first time. playing them some françoise hardy while they rise as to really christen them in their heritage.
+
+CLEANED TWEET TEXT
+
+attempting baguettes for the first time. playing them some françoise hardy while they rise as to really christen them in their heritage.
+Sentiment(classification='pos', p_pos=0.6682766384479397, p_neg=0.33172336155206045)
+
+
+TWEETS CONTAINING THE WORD RED CROSS
+
+
+
+
+TWEETS CONTAINING THE WORD MUGOYA
+
+
+
+
+TWEETS CONTAINING THE WORD KPA
+
+
+
+
+TWEETS CONTAINING THE WORD COLLEGE OF INSURANCE
+
+
+
+
+TWEETS CONTAINING THE WORD AMBOSELI
+
+
+
+
+TWEETS CONTAINING THE WORD BELLEVIEW
+
+
+
+
+TWEETS CONTAINING THE WORD IMARA DAIMA
+
+
+
+
+TWEETS CONTAINING THE WORD MOMBASA ROAD
+
+
+
+
+TWEETS CONTAINING THE WORD ST BAKHITA
+
+
+
+
+TWEETS CONTAINING THE WORD UTAWALA
+
+
+
+
+TWEETS CONTAINING THE WORD RUIRU NDANI
+
+
+
+
+TWEETS CONTAINING THE WORD TUSKYS
+
+
+
+
+TWEETS CONTAINING THE WORD VILLAGE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:34:38   TEXT: @piersmorgan For once you've left yourself wide open ( funnily enough that is an actual village name some miles north of Durham) about the phone!!! Time for a red wine Piers and call it a day!!
+
+CLEANED TWEET TEXT
+
+ For once you've left yourself wide open ( funnily enough that is an actual village name some miles north of Durham) about the phone!!! Time for a red wine Piers and call it a day!!
+Sentiment(classification='neg', p_pos=0.21273720330404686, p_neg=0.7872627966959538)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:34:42   TEXT: @NewtonCaylin War Eagle! Welcome to the loveliest village, Caylin!!
+
+CLEANED TWEET TEXT
+
+ War Eagle! Welcome to the loveliest village, Caylin!!
+Sentiment(classification='pos', p_pos=0.8268971900844734, p_neg=0.1731028099155278)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:34:44   TEXT: Comme Shikamaru l’a indiqué, les falaises se trouvent à deux heures à peine du village de Suna. Le chemin s’est déroulé sans encombres, mais en arrivant sur place, le vent souffle d’une manière étrange, créant un bruit pas naturel. https://t.co/32v2CF1tkg
+
+CLEANED TWEET TEXT
+
+Comme Shikamaru l’a indiqué, les falaises se trouvent à deux heures à peine du village de Suna. Le chemin s’est déroulé sans encombres, mais en arrivant sur place, le vent souffle d’une manière étrange, créant un bruit pas naturel. 
+Sentiment(classification='pos', p_pos=0.518552273735052, p_neg=0.48144772626494964)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:34:57   TEXT: The animal village in Link's Awakening is the cutest thing. https://t.co/LETMBR0EDf
+
+CLEANED TWEET TEXT
+
+The animal village in Link's Awakening is the cutest thing. 
+Sentiment(classification='pos', p_pos=0.5994510264578445, p_neg=0.4005489735421559)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:34:58   TEXT: @EtniesJags I don't know but Jude sounds like a cunny and manipulate person...100k dollars on pushing may d. Is obviously a lie, only if may d village people enter Lagos with am
+
+CLEANED TWEET TEXT
+
+ I don't know but Jude sounds like a cunny and manipulate person...100k dollars on pushing may d. Is obviously a lie, only if may d village people enter Lagos with am
+Sentiment(classification='pos', p_pos=0.9085091722312757, p_neg=0.09149082776872301)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:34:58   TEXT: @FarukAwofeso @Anaisguilei @Dangast6 Until you know other songs other than Nigerians you are a village boy
+
+CLEANED TWEET TEXT
+
+   Until you know other songs other than Nigerians you are a village boy
+Sentiment(classification='pos', p_pos=0.6985304053291533, p_neg=0.30146959467084583)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:35:01   TEXT: Proudly made in wadavli village Chembur. Hygienic Mask made by Sambodhi  foundation. 
+
+Stay home stay safe https://t.co/4iUmRtboJZ
+
+CLEANED TWEET TEXT
+
+Proudly made in wadavli village Chembur. Hygienic Mask made by Sambodhi  foundation. 
+
+Stay home stay safe 
+Sentiment(classification='pos', p_pos=0.8454704241678813, p_neg=0.15452957583211926)
+
+
+TWEETS CONTAINING THE WORD POSTA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:35:31   TEXT: ya lloré, qué mierda la gente jsjsjajs
+Sé que no lo hacen a posta, pero ajá
+Es como decirle a alguien
+"Te veías mejor sin las tetas operadas" bitch idfc. stop
+
+CLEANED TWEET TEXT
+
+ya lloré, qué mierda la gente jsjsjajs
+Sé que no lo hacen a posta, pero ajá
+Es como decirle a alguien
+"Te veías mejor sin las tetas operadas" bitch idfc. stop
+Sentiment(classification='pos', p_pos=0.6083370056185969, p_neg=0.3916629943814035)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:35:31   TEXT: @Krocita Hay otro escalón por recorrer aún, el documental de los castillos británicos y en particular, el que revela los secretos del castillo dónde se filmó Downton Abbey, con los condes posta, y en el que narran historias que vimos en la serie que realmente ocurrieron allí. Muy bueno!
+
+CLEANED TWEET TEXT
+
+ Hay otro escalón por recorrer aún, el documental de los castillos británicos y en particular, el que revela los secretos del castillo dónde se filmó Downton Abbey, con los condes posta, y en el que narran historias que vimos en la serie que realmente ocurrieron allí. Muy bueno!
+Sentiment(classification='pos', p_pos=0.92239185750636, p_neg=0.07760814249363852)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:35:31   TEXT: @euduardagoulart posta posta posta
+
+CLEANED TWEET TEXT
+
+ posta posta posta
+Sentiment(classification='pos', p_pos=0.75, p_neg=0.2499999999999997)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:35:34   TEXT: @ladygaga @RDTLadyGaga amg posta um lyrics
+
+CLEANED TWEET TEXT
+
+  amg posta um lyrics
+Sentiment(classification='pos', p_pos=0.7500000000000009, p_neg=0.25)
+
+
+TWEETS CONTAINING THE WORD BARAKA
+
+
+
+
+TWEETS CONTAINING THE WORD MLOLONGO
+
+
+
+
+TWEETS CONTAINING THE WORD KITENGELA
+
+
+
+
+TWEETS CONTAINING THE WORD DEVKI
+
+
+
+
+TWEETS CONTAINING THE WORD ATHI RIVER
+
+
+
+
+TWEETS CONTAINING THE WORD KENCOM
+
+
+
+
+TWEETS CONTAINING THE WORD VALLEY
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:36:06   TEXT: @DanielF03021990 Hey, I agree. That’s why I want to see an end to UNRWA, the fantasy of a “right of return”, and delusion the Jordan valley will ever be part of a Palestinian State. Then Pals could move forward and make an agreement. Until then, what should happen? Nothing?
+
+CLEANED TWEET TEXT
+
+ Hey, I agree. That’s why I want to see an end to UNRWA, the fantasy of a “right of return”, and delusion the Jordan valley will ever be part of a Palestinian State. Then Pals could move forward and make an agreement. Until then, what should happen? Nothing?
+Sentiment(classification='pos', p_pos=0.9845587134726522, p_neg=0.015441286527348842)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:36:10   TEXT: Naruto vs sasuke finally valley pt. 2 https://t.co/jlAcSFURpY
+
+CLEANED TWEET TEXT
+
+Naruto vs sasuke finally valley pt. 2 
+Sentiment(classification='neg', p_pos=0.44765071872988665, p_neg=0.5523492812701138)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:36:14   TEXT: @theragebot vamos jogar stardew valley juntas
+
+CLEANED TWEET TEXT
+
+ vamos jogar stardew valley juntas
+Sentiment(classification='neg', p_pos=0.4062499999999999, p_neg=0.5937499999999999)
+
+
+TWEETS CONTAINING THE WORD HURLINGHUM
+
+
+
+
+TWEETS CONTAINING THE WORD YAYA CENTRE
+
+
+
+
+TWEETS CONTAINING THE WORD COMMUNITY
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:36:44   TEXT: @wittywriter @IshCruz7 He's fully brainwashed by the alt right and has bought into the racist and false assumptions about blk ppl. He was a prison guard so his experience is all negative but he never took the time to see the other side of our community.
+
+CLEANED TWEET TEXT
+
+  He's fully brainwashed by the alt right and has bought into the racist and false assumptions about blk ppl. He was a prison guard so his experience is all negative but he never took the time to see the other side of our community.
+Sentiment(classification='pos', p_pos=0.9903729683543778, p_neg=0.009627031645623826)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:36:45   TEXT: @icecube Ice Cube, @TheRoot did a deep give into all candidates plans for Black America. And they concluded that the person with the most and best plans to raise up the black community is Elizabeth Warren. That’s why she’s the #1 choice for VP among Black Voters https://t.co/8GeljzAIOz
+
+CLEANED TWEET TEXT
+
+ Ice Cube,  did a deep give into all candidates plans for Black America. And they concluded that the person with the most and best plans to raise up the black community is Elizabeth Warren. That’s why she’s the 1 choice for VP among Black Voters 
+Sentiment(classification='pos', p_pos=0.8131993357090205, p_neg=0.18680066429097525)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:36:45   TEXT: @Ronnie2K That reaction was so fake lmao. 
+
+You have zero self awareness and even less knowledge of what your community enjoys about your micro transaction riddled and broken game.
+
+CLEANED TWEET TEXT
+
+ That reaction was so fake lmao. 
+
+You have zero self awareness and even less knowledge of what your community enjoys about your micro transaction riddled and broken game.
+Sentiment(classification='pos', p_pos=0.9450094216524568, p_neg=0.05499057834754615)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:36:46   TEXT: @pulte Donate to the community center I volunteer for.
+
+CLEANED TWEET TEXT
+
+ Donate to the community center I volunteer for.
+Sentiment(classification='neg', p_pos=0.3297689912911052, p_neg=0.6702310087088943)
+
+
+TWEETS CONTAINING THE WORD EQUITY CENTER
+
+
+
+
+TWEETS CONTAINING THE WORD KENYATTA NATIONAL HOSPITAL
+
+
+
+
+TWEETS CONTAINING THE WORD KAWANGWARE
+
+
+
+
+TWEETS CONTAINING THE WORD CONGO
+
+
+
+
+TWEETS CONTAINING THE WORD KANUNGAGA
+
+
+
+
+TWEETS CONTAINING THE WORD DAGORETTI
+
+
+
+
+TWEETS CONTAINING THE WORD CORNER
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:37:04   TEXT: UFC fan favourite Mike Perry ditches trainers and says only his GIRLFRIEND will be in his corner for future bouts https://t.co/83IZLJ5nrn
+
+CLEANED TWEET TEXT
+
+UFC fan favourite Mike Perry ditches trainers and says only his GIRLFRIEND will be in his corner for future bouts 
+Sentiment(classification='neg', p_pos=0.10893022019593386, p_neg=0.8910697798040669)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:37:06   TEXT: In our picture so  I zoomed in the see peaking out the corner of the wall by the hallways by the room and restroom was the lady I drew .  My sister figured it was also the woman calling out my nieces name next to the bed @ night
+
+CLEANED TWEET TEXT
+
+In our picture so  I zoomed in the see peaking out the corner of the wall by the hallways by the room and restroom was the lady I drew .  My sister figured it was also the woman calling out my nieces name next to the bed @ night
+Sentiment(classification='pos', p_pos=0.5816526184863721, p_neg=0.4183473815136281)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:37:09   TEXT: @marcmccomiskey @1990sF1 That is the racing line as the corner is so tight
+
+CLEANED TWEET TEXT
+
+  That is the racing line as the corner is so tight
+Sentiment(classification='neg', p_pos=0.2520986058524103, p_neg=0.7479013941475893)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:37:12   TEXT: To win, I run, I run, I run. How annoying is the Muller corner ad #TheChase
+
+CLEANED TWEET TEXT
+
+To win, I run, I run, I run. How annoying is the Muller corner ad TheChase
+Sentiment(classification='neg', p_pos=0.343514874836645, p_neg=0.6564851251633541)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:37:22   TEXT: @spazzitz Don't misconstrue my words. There's a difference between doing nothing but advertising, and putting your discord in the corner of your post. It's similar to including a twitter handle in your art, which some people have also got reported for under "advertising" violations.
+
+CLEANED TWEET TEXT
+
+ Don't misconstrue my words. There's a difference between doing nothing but advertising, and putting your discord in the corner of your post. It's similar to including a twitter handle in your art, which some people have also got reported for under "advertising" violations.
+Sentiment(classification='pos', p_pos=0.9089086157465696, p_neg=0.09109138425343367)
+
+
+TWEETS CONTAINING THE WORD NAIVASHA ROAD
+
+
+
+
+TWEETS CONTAINING THE WORD UTHIRU
+
+
+
+
+TWEETS CONTAINING THE WORD DAGORETTI MARKET
+
+
+
+
+TWEETS CONTAINING THE WORD KINOO
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:37:56   TEXT: @nahashon87 Sasa wewe ukiishi kinoo mambo ya embakasi utajuaje
+
+CLEANED TWEET TEXT
+
+ Sasa wewe ukiishi kinoo mambo ya embakasi utajuaje
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD WANGIGE
+
+
+
+
+TWEETS CONTAINING THE WORD KIKUYU
+
+
+
+
+TWEETS CONTAINING THE WORD MAGU
+
+
+
+
+TWEETS CONTAINING THE WORD KINGEERO
+
+
+
+
+TWEETS CONTAINING THE WORD RACECOURSE
+
+
+
+
+TWEETS CONTAINING THE WORD NGONG
+
+
+
+
+TWEETS CONTAINING THE WORD KNH
+
+
+
+
+TWEETS CONTAINING THE WORD NGUMO
+
+
+
+
+TWEETS CONTAINING THE WORD MBAGATHI
+
+
+
+
+TWEETS CONTAINING THE WORD COUTH
+
+
+
+
+TWEETS CONTAINING THE WORD KIBERA
+
+
+
+
+TWEETS CONTAINING THE WORD AYANI
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:38:07   TEXT: @Nad52109500 Walahila matasskhar9ad ayani dayi aya9amom hhhh
+
+CLEANED TWEET TEXT
+
+ Walahila matasskhar9ad ayani dayi aya9amom hhhh
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD ADAMS
+
+
+
+
+TWEETS CONTAINING THE WORD JAMHURI
+
+
+
+
+TWEETS CONTAINING THE WORD KARINDE
+
+
+
+
+TWEETS CONTAINING THE WORD WANYEE
+
+
+
+
+TWEETS CONTAINING THE WORD KABERIA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:38:34   TEXT: @bonface_kaberia @carol_kimemia Nyonga ulale bruh
+
+CLEANED TWEET TEXT
+
+_kaberia _kimemia Nyonga ulale bruh
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD NGONG ROAD
+
+
+
+
+TWEETS CONTAINING THE WORD AMBASSADEUR
+
+
+
+
+TWEETS CONTAINING THE WORD KABETEKAWANGWARE
+
+
+
+
+TWEETS CONTAINING THE WORD KASUKU
+
+
+
+
+TWEETS CONTAINING THE WORD WESTLANDS
+
+
+
+
+TWEETS CONTAINING THE WORD CHIROMO
+
+
+
+
+TWEETS CONTAINING THE WORD KANGEMI
+
+
+
+
+TWEETS CONTAINING THE WORD WESTGATE
+
+
+Rate limit reached. Sleeping for: 84
+
+
+TWEETS CONTAINING THE WORD LIMURU
+
+
+
+
+TWEETS CONTAINING THE WORD PEPONI
+
+
+
+
+TWEETS CONTAINING THE WORD SPRING VALLEY
+
+
+
+
+TWEETS CONTAINING THE WORD ISK
+
+
+
+
+TWEETS CONTAINING THE WORD GATHIGA
+
+
+
+
+TWEETS CONTAINING THE WORD KABETE
+
+
+
+
+TWEETS CONTAINING THE WORD LAVINGTON
+
+
+
+
+TWEETS CONTAINING THE WORD KILELESHWA
+
+
+
+
+TWEETS CONTAINING THE WORD OTHAYA
+
+
+
+
+TWEETS CONTAINING THE WORD METHODIST
+
+
+
+
+TWEETS CONTAINING THE WORD GUESTHOUSE
+
+
+
+
+TWEETS CONTAINING THE WORD ABC
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:40:44   TEXT: @el_pais No os da vergüenza ,,,lamer culos de esta manera ,,mientras millones de familias las están pasando putas y son los que pagan los lujos ,vicios ,queridas ,queridos de esta familia con patria suiza , 
+@populares
+@PSOE
+@COPE
+@vox_es
+@elmundoes
+@CEOE_ES
+@abc_es
+@larazon_es
+ @CasaReal
+
+CLEANED TWEET TEXT
+
+_pais No os da vergüenza ,,,lamer culos de esta manera ,,mientras millones de familias las están pasando putas y son los que pagan los lujos ,vicios ,queridas ,queridos de esta familia con patria suiza , 
+
+
+
+_es
+
+_ES
+_es
+_es
+ 
+Sentiment(classification='neg', p_pos=0.3684904705752745, p_neg=0.6315095294247239)
+
+
+TWEETS CONTAINING THE WORD PLACE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:41:03   TEXT: @GeneratorRexy @ScienceNerd616 in fact yes, and if we know that they had a relationship in the comics, but shit, then why place a character like Kiteman and then destroy him?
+
+CLEANED TWEET TEXT
+
+  in fact yes, and if we know that they had a relationship in the comics, but shit, then why place a character like Kiteman and then destroy him?
+Sentiment(classification='neg', p_pos=0.38540855523179374, p_neg=0.6145914447682077)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:41:04   TEXT: il faut vrmt savoir rester à sa place de fan trop dommage que certains ne comprennent pas
+
+CLEANED TWEET TEXT
+
+il faut vrmt savoir rester à sa place de fan trop dommage que certains ne comprennent pas
+Sentiment(classification='pos', p_pos=0.610131741067197, p_neg=0.3898682589328026)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:41:04   TEXT: @Ruellemusic  a une place particulière dans mon cœur https://t.co/ib0uCetXu0
+
+CLEANED TWEET TEXT
+
+  a une place particulière dans mon cœur 
+Sentiment(classification='neg', p_pos=0.11672710788757916, p_neg=0.8832728921124215)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:41:04   TEXT: Been waiting for a publication to finally place names with the numbers b/c too many have focused on the latter, not acknowledging these were real people--they were here, they existed, they walked this Earth and were living real lives 🙏🏽
+
+And this whole thing isn't even over yet. https://t.co/RWzb11VWf2
+
+CLEANED TWEET TEXT
+
+Been waiting for a publication to finally place names with the numbers b/c too many have focused on the latter, not acknowledging these were real people--they were here, they existed, they walked this Earth and were living real lives 🙏🏽
+
+And this whole thing isn't even over yet. 
+Sentiment(classification='pos', p_pos=0.9968369427718846, p_neg=0.003163057228113957)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:41:04   TEXT: @Better_thn_u Ups and downs are part of every equation but we can't let go of that special person. 💕 I know my place no need to even say 🤗
+
+CLEANED TWEET TEXT
+
+_thn_u Ups and downs are part of every equation but we can't let go of that special person. 💕 I know my place no need to even say 🤗
+Sentiment(classification='neg', p_pos=0.4348506479852015, p_neg=0.5651493520148004)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:41:05   TEXT: Documentary Sunday shouldn’t be taking place on a bank holiday but here I am, indulged, in a documentary Sunday...
+
+CLEANED TWEET TEXT
+
+Documentary Sunday shouldn’t be taking place on a bank holiday but here I am, indulged, in a documentary Sunday...
+Sentiment(classification='neg', p_pos=0.1456857839585735, p_neg=0.8543142160414278)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:41:06   TEXT: I'm waiting for you at the same place as the first meeting, baby.
+
+CLEANED TWEET TEXT
+
+I'm waiting for you at the same place as the first meeting, baby.
+Sentiment(classification='pos', p_pos=0.563412356514561, p_neg=0.4365876434854396)
+
+
+TWEETS CONTAINING THE WORD BYPASS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:41:21   TEXT: @drakekoefoed2 @Seekerotruth Not enough inspectors to go around. Wonder if small farmers aren't targeted. On market place,facebook,my area a farmer is advertising. Buy direct. He does his own butchering &amp; packing. It's easy in farming area to buy direct &amp; bypass regs. City folks SOL
+
+CLEANED TWEET TEXT
+
+  Not enough inspectors to go around. Wonder if small farmers aren't targeted. On market place,facebook,my area a farmer is advertising. Buy direct. He does his own butchering &amp; packing. It's easy in farming area to buy direct &amp; bypass regs. City folks SOL
+Sentiment(classification='pos', p_pos=0.9986726612671035, p_neg=0.0013273387328980703)
+
+
+TWEETS CONTAINING THE WORD REGEN
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:41:50   TEXT: nicht raucher sind einfach so anstrengend und regen sich über alles am rauchen auf , digga nerv nicht und geh dann halt einfach weg von mir
+
+CLEANED TWEET TEXT
+
+nicht raucher sind einfach so anstrengend und regen sich über alles am rauchen auf , digga nerv nicht und geh dann halt einfach weg von mir
+Sentiment(classification='neg', p_pos=0.05135135135135126, p_neg=0.9486486486486472)
+[Finished in 1013.0s]

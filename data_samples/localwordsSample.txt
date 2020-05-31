@@ -1,0 +1,421 @@
+
+
+TWEETS CONTAINING THE WORD NGANYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-27 17:08:09   TEXT: Dem mrembo lakini tattoo kama graffiti ya nganya
+
+CLEANED TWEET TEXT
+
+Dem mrembo lakini tattoo kama graffiti ya nganya
+Sentiment(classification='pos', p_pos=0.7500000000000009, p_neg=0.25)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-27 17:16:48   TEXT: Nakan ku ke bandar untuk mengambil borang nganya
+
+CLEANED TWEET TEXT
+
+Nakan ku ke bandar untuk mengambil borang nganya
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-27 17:18:33   TEXT: Mi na we Ni ka nganya na Rongae https://t.co/XUusd7oMFa
+
+CLEANED TWEET TEXT
+
+Mi na we Ni ka nganya na Rongae 
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-27 17:28:57   TEXT: @CrazyLuopean Kuweka weka waschana kwangu ...na sijaoa...wanakaa adi wafikirie wameoleka...nikione nganya ingine naweka ile ako kwangu parking....mnisaidie aki😈😕
+
+CLEANED TWEET TEXT
+
+ Kuweka weka waschana kwangu ...na sijaoa...wanakaa adi wafikirie wameoleka...nikione nganya ingine naweka ile ako kwangu parking....mnisaidie aki😈😕
+Sentiment(classification='neg', p_pos=0.4687499999999998, p_neg=0.5312500000000006)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-27 18:57:57   TEXT: nampak ku nganya malas ku nagur
+
+CLEANED TWEET TEXT
+
+nampak ku nganya malas ku nagur
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-27 19:00:01   TEXT: Stingy men complain nganya has loud music but indeed hawafiki bei ... Wapate matunda bus😂
+
+CLEANED TWEET TEXT
+
+Stingy men complain nganya has loud music but indeed hawafiki bei ... Wapate matunda bus😂
+Sentiment(classification='neg', p_pos=0.4525806581588632, p_neg=0.5474193418411364)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 05:55:27   TEXT: @TheotherDelo @bludyKenyan @jeffanangwe hiyo nganya Ni balaa
+
+CLEANED TWEET TEXT
+
+   hiyo nganya Ni balaa
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD MAKANGA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 06:32:12   TEXT: Hehe unasnob makanga then this👇
+'Siste usiringe na  Ni mkia ya farasi kwa kichwa, eyelashes za paka na duracoat mkebe mzima kwa uso. Unahara sewage kaa sisi, sio keki'😂😂😂😂😂 psv haitaki makasiriko 🤭🤭
+
+CLEANED TWEET TEXT
+
+Hehe unasnob makanga then this👇
+'Siste usiringe na  Ni mkia ya farasi kwa kichwa, eyelashes za paka na duracoat mkebe mzima kwa uso. Unahara sewage kaa sisi, sio keki'😂😂😂😂😂 psv haitaki makasiriko 🤭🤭
+Sentiment(classification='neg', p_pos=0.4012514384349826, p_neg=0.5987485615650163)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 06:46:12   TEXT: @lilydale37 @EcEssie Mungu bariki makanga, wanasemaga ukweli zingine zimetushinda kusema. 🙏🙏🙏🙏
+
+CLEANED TWEET TEXT
+
+  Mungu bariki makanga, wanasemaga ukweli zingine zimetushinda kusema. 🙏🙏🙏🙏
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD MATATU
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 06:48:39   TEXT: 09:48 Driving down Ngong Road is fun. The Magadi Road dualling project should be awarded to a Japanese Contractor. They take their time to study walking, riding, cycling &amp; matatu drop off patterns. The end product is very motorist, p https://t.co/hsyVpWa52i via @tiproni
+
+CLEANED TWEET TEXT
+
+09:48 Driving down Ngong Road is fun. The Magadi Road dualling project should be awarded to a Japanese Contractor. They take their time to study walking, riding, cycling &amp; matatu drop off patterns. The end product is very motorist, p  via 
+Sentiment(classification='pos', p_pos=0.9319596675560335, p_neg=0.0680403324439664)
+
+
+TWEETS CONTAINING THE WORD NISSAN
+
+
+
+
+TWEETS CONTAINING THE WORD DEREVA
+
+
+
+
+TWEETS CONTAINING THE WORD GARI
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:09:44   TEXT: Mtoto wa bilionea mmoja wa nchi hii, aliwahi kunihadithia baba yake alinunua gari yake ya kwanza baada ya kuwa na uwezo wa kununua gari mbili.
+Kuna cha kujifunza, tusije kusumbuana baadae.
+#KijiweniKwangu https://t.co/OpclUw71aE
+
+CLEANED TWEET TEXT
+
+Mtoto wa bilionea mmoja wa nchi hii, aliwahi kunihadithia baba yake alinunua gari yake ya kwanza baada ya kuwa na uwezo wa kununua gari mbili.
+Kuna cha kujifunza, tusije kusumbuana baadae.
+KijiweniKwangu 
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:10:16   TEXT: #SSMB27 with #Parasuram movie title almost locked, it's  #SarkarVaariPaata👌
+Going by title #MB27 will be out and out commercial entertainer👍
+
+@urstrulyMahesh @MusicThaman  @MythriOfficial @14ReelsPlus @GMBents 
+
+Official Announcement on Superstar Krishna gari Birthday 31st May! https://t.co/XtgjCgGZHM
+
+CLEANED TWEET TEXT
+
+SSMB27 with Parasuram movie title almost locked, it's  SarkarVaariPaata👌
+Going by title MB27 will be out and out commercial entertainer👍
+
+      
+
+Official Announcement on Superstar Krishna gari Birthday 31st May! 
+Sentiment(classification='pos', p_pos=0.5568726403276849, p_neg=0.4431273596723183)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:10:50   TEXT: Dem ako na gari na wewe the only car you got ni car-guu unapelekana nayeye wapi?/
+
+CLEANED TWEET TEXT
+
+Dem ako na gari na wewe the only car you got ni car-guu unapelekana nayeye wapi?/
+Sentiment(classification='neg', p_pos=0.2936462506489169, p_neg=0.7063537493510829)
+
+
+TWEETS CONTAINING THE WORD BASI
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:12:01   TEXT: @INFLUENCERjr @Michael______7 @Isaacklasway1 Kama hadi mabumunda ana yajua basi ni mchaga huyu sija jua niwa wapi.uchagan amnaga soup chafu vile
+
+CLEANED TWEET TEXT
+
+ ______7  Kama hadi mabumunda ana yajua basi ni mchaga huyu sija jua niwa wapi.uchagan amnaga soup chafu vile
+Sentiment(classification='neg', p_pos=0.08593749999999994, p_neg=0.9140625000000013)
+
+
+TWEETS CONTAINING THE WORD BARABARA
+
+
+
+
+TWEETS CONTAINING THE WORD KARAO
+
+
+
+
+TWEETS CONTAINING THE WORD JAM
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:12:13   TEXT: @chenle_2121 okeyy akan ku tagihh pas jam 2.20
+
+CLEANED TWEET TEXT
+
+_2121 okeyy akan ku tagihh pas jam 2.20
+Sentiment(classification='pos', p_pos=0.75, p_neg=0.25000000000000033)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:12:13   TEXT: Suganteh udah jam 4an
+
+CLEANED TWEET TEXT
+
+Suganteh udah jam 4an
+Sentiment(classification='pos', p_pos=0.6818181818181814, p_neg=0.31818181818181845)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:12:13   TEXT: gue monangis. kirim mf ke om*bb dapet antrian ke 902😭😭😭😭 trs perkiraan waktu ke post jam set.10 malem jingan
+
+CLEANED TWEET TEXT
+
+gue monangis. kirim mf ke om*bb dapet antrian ke 902😭😭😭😭 trs perkiraan waktu ke post jam set.10 malem jingan
+Sentiment(classification='pos', p_pos=0.6404702970297027, p_neg=0.3595297029702969)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:12:15   TEXT: @RestyReseh 5 jam 40 menit belum ada jawabannya. Cari2 lg gih d google. Brng x lu merdeka dpt jawabannye
+
+CLEANED TWEET TEXT
+
+ 5 jam 40 menit belum ada jawabannya. Cari2 lg gih d google. Brng x lu merdeka dpt jawabannye
+Sentiment(classification='pos', p_pos=0.6818181818181814, p_neg=0.31818181818181845)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:12:16   TEXT: @mohamadaldirais Siang, Kakak. 
+Bisa Kak. Layanan e-filing melalui DJP Online dapat diakses setiap hari selama 24 (dua puluh empat) jam.
+
+Tks*Inis
+
+CLEANED TWEET TEXT
+
+ Siang, Kakak. 
+Bisa Kak. Layanan e-filing melalui DJP Online dapat diakses setiap hari selama 24 (dua puluh empat) jam.
+
+Tks*Inis
+Sentiment(classification='pos', p_pos=0.9760273972602742, p_neg=0.023972602739726043)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:12:17   TEXT: @collegemenfess full kitchen set gas gratis, aman 24 jam, cctv 8 biji, sarung bantal dan kasur rutin diganti jd klean gprlu tkt bau iler hehe
+1km kurang dr kampus, jalan keluar warung2 makan, indomart, burjo, padang, sampe jual ciu pun ada lur
+
+CLEANED TWEET TEXT
+
+ full kitchen set gas gratis, aman 24 jam, cctv 8 biji, sarung bantal dan kasur rutin diganti jd klean gprlu tkt bau iler hehe
+1km kurang dr kampus, jalan keluar warung2 makan, indomart, burjo, padang, sampe jual ciu pun ada lur
+Sentiment(classification='pos', p_pos=0.9249260113608827, p_neg=0.07507398863911467)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:12:19   TEXT: @taupikatchu @LMarissa_ @BERBURUSALE_ Iyaa kak mulai jam 10 pagi. Yang GOPAYMEI potongan langsung min blj 10k max potongan 5k mulai jam 11 pagi
+
+CLEANED TWEET TEXT
+
+ _ _ Iyaa kak mulai jam 10 pagi. Yang GOPAYMEI potongan langsung min blj 10k max potongan 5k mulai jam 11 pagi
+Sentiment(classification='neg', p_pos=0.23437500000000017, p_neg=0.7656249999999996)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:12:19   TEXT: @jam_city What would an account with negative vbucks be worth if it had all the exclusive skins as well as 240 skins?
+
+CLEANED TWEET TEXT
+
+_city What would an account with negative vbucks be worth if it had all the exclusive skins as well as 240 skins?
+Sentiment(classification='pos', p_pos=0.832316383510923, p_neg=0.16768361648907598)
+
+
+TWEETS CONTAINING THE WORD TOUT
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:13:09   TEXT: @BendeKhooo @nassitto @nassdz213 Kseksou c’est pour tout le monde ptdr
+
+CLEANED TWEET TEXT
+
+   Kseksou c’est pour tout le monde ptdr
+Sentiment(classification='neg', p_pos=0.23913043478260868, p_neg=0.7608695652173921)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:13:09   TEXT: @Dope_boydlc Mais c'est comme tout c'est un problème qui datent de plus de 20 ans et qui a toujours été remis a Demain. Quand tu prends des cons ils vont faire des trucs de cons. Faut un président qui ose faire table rase des problèmes mais quand on change un truc ca rale h24
+
+CLEANED TWEET TEXT
+
+_boydlc Mais c'est comme tout c'est un problème qui datent de plus de 20 ans et qui a toujours été remis a Demain. Quand tu prends des cons ils vont faire des trucs de cons. Faut un président qui ose faire table rase des problèmes mais quand on change un truc ca rale h24
+Sentiment(classification='pos', p_pos=0.8163180716452013, p_neg=0.1836819283548)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:13:10   TEXT: @AgentBauer3 @AntoineKaburahe @iwacuinfo @BurundiCnl Les opposants Burundi-ais sont appuyés militairement.
+Ils se lavent les méninges malgré tout, la FDNB est prêt &amp; capable . https://t.co/AGTX04obUO
+
+CLEANED TWEET TEXT
+
+    Les opposants Burundi-ais sont appuyés militairement.
+Ils se lavent les méninges malgré tout, la FDNB est prêt &amp; capable . 
+Sentiment(classification='neg', p_pos=0.29039301310043664, p_neg=0.7096069868995631)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:13:11   TEXT: @grima_stephanie @AnneLiseKoehler @raoult_didier Tu fais semblant de pas comprendre.
+Pour faire partie d'un groupe controle dans une étude, on doit être dans les memes conditions que le groupe test.
+Les enfants ont donc dû, comme le groupe test, être testé par PCR tout les jours pendant une semaine/10 jours
+
+CLEANED TWEET TEXT
+
+_stephanie  _didier Tu fais semblant de pas comprendre.
+Pour faire partie d'un groupe controle dans une étude, on doit être dans les memes conditions que le groupe test.
+Les enfants ont donc dû, comme le groupe test, être testé par PCR tout les jours pendant une semaine/10 jours
+Sentiment(classification='pos', p_pos=0.5811451444999667, p_neg=0.41885485550003)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:13:11   TEXT: @JJBourdin_RMC Pauvre type qui se croit au dessus de la loi... J'appelle cela une racaille !!!! Honte à vous, allez faire vos leçons de morale ailleurs !!! C'est criminel de rouler aussi vite... Mais Monsieur est au dessus de tout.. Pitoyable, en taule et plus de permis évidemment
+
+CLEANED TWEET TEXT
+
+_RMC Pauvre type qui se croit au dessus de la loi... J'appelle cela une racaille !!!! Honte à vous, allez faire vos leçons de morale ailleurs !!! C'est criminel de rouler aussi vite... Mais Monsieur est au dessus de tout.. Pitoyable, en taule et plus de permis évidemment
+Sentiment(classification='neg', p_pos=0.4918854780678245, p_neg=0.5081145219321749)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:13:11   TEXT: Ras le bol de l'intelligence artificielle et tout le bordel ! 
+On va finir esclave de nos objets bientôt !  😁
+Bon je vous laisse, ma machine à laver m'appelle !
+
+CLEANED TWEET TEXT
+
+Ras le bol de l'intelligence artificielle et tout le bordel ! 
+On va finir esclave de nos objets bientôt !  😁
+Bon je vous laisse, ma machine à laver m'appelle !
+Sentiment(classification='neg', p_pos=0.19642857142857137, p_neg=0.8035714285714283)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:13:11   TEXT: J'écoute ce matin  (tout simplement) 
+
+Lhasa • Rising
+
+https://t.co/mBWNG0OA7s
+
+CLEANED TWEET TEXT
+
+J'écoute ce matin  (tout simplement) 
+
+Lhasa • Rising
+
+
+Sentiment(classification='pos', p_pos=0.6882352941176467, p_neg=0.31176470588235267)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:13:11   TEXT: Je crois que la poursuite du #déconfinement doit, avant tout, se baser sur des faits scientifiques et non pas sur les volontés des uns ou des autres pour éviter une 2ème vague. @franceinfo https://t.co/wtWb3lLyci
+
+CLEANED TWEET TEXT
+
+Je crois que la poursuite du déconfinement doit, avant tout, se baser sur des faits scientifiques et non pas sur les volontés des uns ou des autres pour éviter une 2ème vague.  
+Sentiment(classification='pos', p_pos=0.9883969437599864, p_neg=0.011603056240011206)
+
+
+TWEETS CONTAINING THE WORD CONDUCTOR
+
+
+
+
+TWEETS CONTAINING THE WORD KENHA
+
+
+
+
+TWEETS CONTAINING THE WORD NTSA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:13:27   TEXT: @bonifacemwangi @NPSOfficial_KE @ntsa_kenya Kenyans have become animals
+
+CLEANED TWEET TEXT
+
+ _KE _kenya Kenyans have become animals
+Sentiment(classification='neg', p_pos=0.37297286785525346, p_neg=0.6270271321447461)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-28 07:13:29   TEXT: @bonifacemwangi @NPSOfficial_KE @ntsa_kenya Why vomit
+
+CLEANED TWEET TEXT
+
+ _KE _kenya Why vomit
+Sentiment(classification='neg', p_pos=0.04333941605839412, p_neg=0.9566605839416062)
+
+
+TWEETS CONTAINING THE WORD PSV
+
+
+
+
+TWEETS CONTAINING THE WORD SACCO
+
+
+
+
+TWEETS CONTAINING THE WORD KENHA
+
+
+
+
+TWEETS CONTAINING THE WORD NTSA
+
+
+[Finished in 235.7s]

@@ -1,0 +1,35 @@
+
+
+TWEETS CONTAINING THE WORD NTSA_KENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 19:47:20   TEXT: @road_driving @KenyanTraffic @tv47ke @NyanzaTraffic @AhmadUmar4 @KoechMmanuel @ntsa_kenya @AmEugeneAnangwe @Milele_FM @UNRSC @unhabitatyouth @FIAFdn Looks like sheer malice on the part of the Daystar driver. There was no need to change lanes and cut in so early. Either that, or the rearview and side mirrors were badly adjusted, creating blind spots.
+
+CLEANED TWEET TEXT
+
+_driving      _kenya  _FM    Looks like sheer malice on the part of the Daystar driver. There was no need to change lanes and cut in so early. Either that, or the rearview and side mirrors were badly adjusted, creating blind spots.
+Sentiment(classification='pos', p_pos=0.6449972025915731, p_neg=0.35500279740842206)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 20:36:00   TEXT: @NPSOfficial_KE @ntsa_kenya @PoliceKE @DCI_Kenya https://t.co/H9Mvboc2gM
+
+CLEANED TWEET TEXT
+
+_KE _kenya  _Kenya 
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-24 20:36:59   TEXT: @road_driving @KenyanTraffic @tv47ke @NyanzaTraffic @AhmadUmar4 @KoechMmanuel @ntsa_kenya @AmEugeneAnangwe @Milele_FM @UNRSC @Ma3Route Ahahaha, is THAT a truck? Let's hope that he didn't do it! If he did, I really hope he is insured!
+
+CLEANED TWEET TEXT
+
+_driving      _kenya  _FM   Ahahaha, is THAT a truck? Let's hope that he didn't do it! If he did, I really hope he is insured!
+Sentiment(classification='neg', p_pos=0.46227049402283177, p_neg=0.537729505977169)
+
+
+TWEETS CONTAINING THE WORD KENHAKENYA

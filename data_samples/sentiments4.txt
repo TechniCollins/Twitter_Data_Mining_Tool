@@ -1,0 +1,81 @@
+
+
+TWEETS CONTAINING THE WORD NTSA_KENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-23 04:49:06   TEXT: There is no excuse for government institutions to stay home. This economy needs money, the government needs taxes. @KRACare non-indivdual PIN taking 2 months to be processed seriously which year is this, 1931? And at @ntsa_kenya no processing of DLs even is going on. WAKE UP!!!
+
+CLEANED TWEET TEXT
+
+There is no excuse for government institutions to stay home. This economy needs money, the government needs taxes.  non-indivdual PIN taking 2 months to be processed seriously which year is this, 1931? And at _kenya no processing of DLs even is going on. WAKE UP!!!
+Sentiment(classification='neg', p_pos=0.38215998118186645, p_neg=0.6178400188181381)
+[['category', 'positive', 'neutral', 'negative'], ['routes', '0', '0', '0'], ['organizations', '0', '0', '1'], ['other', '0', '0', '7']]
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-23 04:59:25   TEXT: @Ma3Route @SamMacoha The car did not collapse as per manufacturer’s safety specs. Most probably an underride crash. @ntsa_kenya needs to guide formulation of underride  guard legislation. Trucks with high bumpers are only sold in Africa!
+
+CLEANED TWEET TEXT
+
+  The car did not collapse as per manufacturer’s safety specs. Most probably an underride crash. _kenya needs to guide formulation of underride  guard legislation. Trucks with high bumpers are only sold in Africa!
+Sentiment(classification='neg', p_pos=0.03385456350312213, p_neg=0.9661454364968817)
+[['category', 'positive', 'neutral', 'negative'], ['routes', '0', '0', '0'], ['organizations', '0', '0', '2'], ['other', '0', '0', '7']]
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-23 05:38:53   TEXT: @road_driving @OyierJeremiah @ntsa_kenya Reckless and unprofessional  but the driver is very experienced.
+
+CLEANED TWEET TEXT
+
+_driving  _kenya Reckless and unprofessional  but the driver is very experienced.
+Sentiment(classification='pos', p_pos=0.6603051602355225, p_neg=0.33969483976447945)
+[['category', 'positive', 'neutral', 'negative'], ['routes', '0', '0', '0'], ['organizations', '1', '0', '2'], ['other', '0', '0', '7']]
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-23 05:41:29   TEXT: @mmtisia @Ma3Route @SamMacoha @ntsa_kenya True, that's because of lack of regulation, the trailers are manufactured locally, even local assembled trucks don't meet these standards @KEBS_ke @ntsa_kenya
+
+CLEANED TWEET TEXT
+
+   _kenya True, that's because of lack of regulation, the trailers are manufactured locally, even local assembled trucks don't meet these standards _ke _kenya
+Sentiment(classification='neg', p_pos=0.25937716864319504, p_neg=0.7406228313568025)
+[['category', 'positive', 'neutral', 'negative'], ['routes', '0', '0', '0'], ['organizations', '1', '0', '3'], ['other', '0', '0', '7']]
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-23 05:48:30   TEXT: @ntsa_kenya Good morning, trying to register an account on the TIMS platform but I keep getting an error from yesterday morning
+
+CLEANED TWEET TEXT
+
+_kenya Good morning, trying to register an account on the TIMS platform but I keep getting an error from yesterday morning
+Sentiment(classification='pos', p_pos=0.7100640095061879, p_neg=0.2899359904938107)
+[['category', 'positive', 'neutral', 'negative'], ['routes', '0', '0', '0'], ['organizations', '2', '0', '3'], ['other', '0', '0', '7']]
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-23 06:00:00   TEXT: @road_driving @ntsa_kenya The lorry seems to lack power, although overloading also plays a part but the driver is an expert in reversing.
+
+CLEANED TWEET TEXT
+
+_driving _kenya The lorry seems to lack power, although overloading also plays a part but the driver is an expert in reversing.
+Sentiment(classification='pos', p_pos=0.6484876429292813, p_neg=0.3515123570707194)
+[['category', 'positive', 'neutral', 'negative'], ['routes', '0', '0', '0'], ['organizations', '3', '0', '3'], ['other', '0', '0', '7']]
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-23 06:02:13   TEXT: @sikikasafety @road_driving @KenyanTraffic @NyanzaTraffic @TAK_Kenya @ntsa_kenya @SafeWayRightWay @motoristsoffice @TIPSIKenya Unpanick-able.
+
+CLEANED TWEET TEXT
+
+ _driving   _Kenya _kenya    Unpanick-able.
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+[['category', 'positive', 'neutral', 'negative'], ['routes', '0', '0', '0'], ['organizations', '4', '0', '3'], ['other', '0', '0', '7']]
+
+
+TWEETS CONTAINING THE WORD KENHAKENYA
+
+
+[Finished in 46.1s]

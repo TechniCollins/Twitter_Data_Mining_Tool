@@ -1,0 +1,300 @@
+
+
+TWEETS CONTAINING THE WORD PUBLIC TRANSPORT
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:23:21   TEXT: @Toffoli_B You just got your wish.  Meanwhile, in QLD (12 active) where water takes longer to boil/freeze, restaurant limits are 10 excluding alcohol, and nothing for pubs.  No limit on public transport buses and train carriages. Time to travel to SA....  @AnnastaciaMP @COVID_Australia
+
+CLEANED TWEET TEXT
+
+_B You just got your wish.  Meanwhile, in QLD (12 active) where water takes longer to boil/freeze, restaurant limits are 10 excluding alcohol, and nothing for pubs.  No limit on public transport buses and train carriages. Time to travel to SA....   _Australia
+Sentiment(classification='pos', p_pos=0.9303919653935655, p_neg=0.06960803460643367)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:23:48   TEXT: how come face coverings are becomig essential to wear now on public transport? I’m sure it was said that they make no difference? Plus none of them fit my pea heed so wits the point??
+
+CLEANED TWEET TEXT
+
+how come face coverings are becomig essential to wear now on public transport? I’m sure it was said that they make no difference? Plus none of them fit my pea heed so wits the point??
+Sentiment(classification='pos', p_pos=0.8541515940942471, p_neg=0.1458484059057494)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:23:50   TEXT: @ScottMorrisonMP So schools are safe, shopping centres safe, public transport safe, cafes and restaurants safe....but parliament is still not safe??? #AuspolSoCorrupt
+
+CLEANED TWEET TEXT
+
+ So schools are safe, shopping centres safe, public transport safe, cafes and restaurants safe....but parliament is still not safe??? AuspolSoCorrupt
+Sentiment(classification='pos', p_pos=0.9943102776923711, p_neg=0.005689722307625999)
+
+
+TWEETS CONTAINING THE WORD TRAFFIC
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:24:13   TEXT: 4:24:12 AM - The Belle Chasse Bridge is raised for marine traffic.
+
+CLEANED TWEET TEXT
+
+4:24:12 AM - The Belle Chasse Bridge is raised for marine traffic.
+Sentiment(classification='pos', p_pos=0.9157945385361581, p_neg=0.08420546146384159)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:24:14   TEXT: #bharatpadheonline
+We need to incorporate traffic rules from 8th class onward so that it gets engraved in our minds so that they will follow the rules
+  Education is not only about books , its  should also teach us about life
+
+CLEANED TWEET TEXT
+
+bharatpadheonline
+We need to incorporate traffic rules from 8th class onward so that it gets engraved in our minds so that they will follow the rules
+  Education is not only about books , its  should also teach us about life
+Sentiment(classification='pos', p_pos=0.9937061294589822, p_neg=0.0062938705410135725)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:24:19   TEXT: @ShowerAbsolute They must have looked at that, no point analysing the risk to children when it's already lower than traffic accidents
+
+CLEANED TWEET TEXT
+
+ They must have looked at that, no point analysing the risk to children when it's already lower than traffic accidents
+Sentiment(classification='pos', p_pos=0.8387639265004165, p_neg=0.16123607349958527)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:24:21   TEXT: @WalkRideDGT @deansgatelabour @Piccadilly_Lab Oh. So what does the map show? Is it the red lines that represent something. Can we divide the city like Birmingham has done to allow access but prevent through-traffic?
+
+CLEANED TWEET TEXT
+
+  _Lab Oh. So what does the map show? Is it the red lines that represent something. Can we divide the city like Birmingham has done to allow access but prevent through-traffic?
+Sentiment(classification='pos', p_pos=0.8060120300775103, p_neg=0.19398796992249226)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:24:25   TEXT: [arXiv] A Survey of Reinforcement Learning Algorithms for Dynamically Varying Environments. (arXiv:2005.10619v1 [cs.LG]) --&gt;
+
+Reinforcement learning (RL) algorithms find applications in inventory control, recommender systems, vehicular traffic management… https://t.co/C8R8qA1QNk
+
+CLEANED TWEET TEXT
+
+[arXiv] A Survey of Reinforcement Learning Algorithms for Dynamically Varying Environments. (arXiv:2005.10619v1 [cs.LG]) --&gt;
+
+Reinforcement learning (RL) algorithms find applications in inventory control, recommender systems, vehicular traffic management… 
+Sentiment(classification='pos', p_pos=0.874095367539521, p_neg=0.12590463246048078)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:24:25   TEXT: @TheFlyingEnggnr Might be also due too
+
+Less pollution and
+Less traffic
+
+CLEANED TWEET TEXT
+
+ Might be also due too
+
+Less pollution and
+Less traffic
+Sentiment(classification='neg', p_pos=0.463162811655229, p_neg=0.5368371883447702)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:24:35   TEXT: @Stringe60489570 @WillGav 👀 I don’t doubt there be people crazy enough to queue mate haha just I’m sure those ones at the back have no idea and just think it’s traffic 🤣😅
+
+CLEANED TWEET TEXT
+
+  👀 I don’t doubt there be people crazy enough to queue mate haha just I’m sure those ones at the back have no idea and just think it’s traffic 🤣😅
+Sentiment(classification='pos', p_pos=0.7721631403380447, p_neg=0.22783685966195505)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:24:38   TEXT: Hello, i want you to know my sister, she is name Reza, she is very cranky, greedy, and she is so coward of traffic jam, i don't know why🙃 https://t.co/7HGM3Ggra1
+
+CLEANED TWEET TEXT
+
+Hello, i want you to know my sister, she is name Reza, she is very cranky, greedy, and she is so coward of traffic jam, i don't know why🙃 
+Sentiment(classification='pos', p_pos=0.8599766548713567, p_neg=0.14002334512864686)
+
+
+TWEETS CONTAINING THE WORD RUSH HOUR
+
+
+
+
+TWEETS CONTAINING THE WORD HIGHWAY
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:25:15   TEXT: The breast nu koraah be like Tema highway 
+Porn star self won't get this breast 
+Breast de3 enoaa ne watermelon not pancake
+
+CLEANED TWEET TEXT
+
+The breast nu koraah be like Tema highway 
+Porn star self won't get this breast 
+Breast de3 enoaa ne watermelon not pancake
+Sentiment(classification='neg', p_pos=0.14069456196563915, p_neg=0.8593054380343603)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:25:25   TEXT: Video : Trucks stoned and looted on Cape Town highway https://t.co/yNZjhTFe2K
+
+CLEANED TWEET TEXT
+
+Video : Trucks stoned and looted on Cape Town highway 
+Sentiment(classification='neg', p_pos=0.12113132600303862, p_neg=0.8788686739969599)
+
+
+TWEETS CONTAINING THE WORD ROAD TRANSPORT
+
+
+
+
+TWEETS CONTAINING THE WORD BUS STATION
+
+
+
+
+TWEETS CONTAINING THE WORD PRIVATE TRANSPORT
+
+
+
+
+TWEETS CONTAINING THE WORD FARE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:25:42   TEXT: @mattucel @MrPig751 @ferrarigop2020 Da come si accanisce il problema è suo, a me non interessa minimamente.
+Magari l'opposizione potesse fare quello che vuole, senza contare che la sinistra comanda anche quando al governo c'è la destra talmente è marcia e si trova ovunque nei poteri che contano veramente 🤮
+
+CLEANED TWEET TEXT
+
+   Da come si accanisce il problema è suo, a me non interessa minimamente.
+Magari l'opposizione potesse fare quello che vuole, senza contare che la sinistra comanda anche quando al governo c'è la destra talmente è marcia e si trova ovunque nei poteri che contano veramente 🤮
+Sentiment(classification='pos', p_pos=0.5568692530653421, p_neg=0.44313074693465876)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:25:43   TEXT: Contatti? O fare?
+
+CLEANED TWEET TEXT
+
+Contatti? O fare?
+Sentiment(classification='pos', p_pos=0.5133333333333334, p_neg=0.48666666666666664)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:25:43   TEXT: amica: non me la sento di uscire ho paura
+io: okay 
+
+e ora la vedo uscire con gli altri suoi amici, okay bro io ti avevo chiesto di fare una passeggiata per i campi ma tu stai andando in città mi sembra giusto
+
+CLEANED TWEET TEXT
+
+amica: non me la sento di uscire ho paura
+io: okay 
+
+e ora la vedo uscire con gli altri suoi amici, okay bro io ti avevo chiesto di fare una passeggiata per i campi ma tu stai andando in città mi sembra giusto
+Sentiment(classification='neg', p_pos=0.2419898069193566, p_neg=0.7580101930806415)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:25:44   TEXT: @HardeepSPuri Why air india flights (dreamliner) still not operating to UAE other than budget airlines. Many people are ready to pay the fare will be fixing by air india. Thank you for your kind attention to this matter.
+
+CLEANED TWEET TEXT
+
+ Why air india flights (dreamliner) still not operating to UAE other than budget airlines. Many people are ready to pay the fare will be fixing by air india. Thank you for your kind attention to this matter.
+Sentiment(classification='pos', p_pos=0.9318813396599169, p_neg=0.06811866034008382)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:25:45   TEXT: Il fatto che io adesso debba fare lezione LEGATA COME YOONGI
+
+CLEANED TWEET TEXT
+
+Il fatto che io adesso debba fare lezione LEGATA COME YOONGI
+Sentiment(classification='neg', p_pos=0.2575728613834668, p_neg=0.7424271386165335)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:25:52   TEXT: @FreeNorthItaly Mi dispiace che si parli sempre dell'aspetto economico, che per me è secondario. Il motivo principale per cui non voglio avere a che fare con i meridionali è che hanno creato ed esportato in tutto il mondo le mafie.
+
+CLEANED TWEET TEXT
+
+ Mi dispiace che si parli sempre dell'aspetto economico, che per me è secondario. Il motivo principale per cui non voglio avere a che fare con i meridionali è che hanno creato ed esportato in tutto il mondo le mafie.
+Sentiment(classification='pos', p_pos=0.517262726681791, p_neg=0.4827372733182117)
+
+
+TWEETS CONTAINING THE WORD ROUTES
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:26:23   TEXT: @LDNBusExplorer The amount of times you’ve heard me say this. I really need to get one of these on a day they’re not glued to town routes lol! ^WL
+
+CLEANED TWEET TEXT
+
+ The amount of times you’ve heard me say this. I really need to get one of these on a day they’re not glued to town routes lol! ^WL
+Sentiment(classification='pos', p_pos=0.5836911695194482, p_neg=0.41630883048055356)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-05-22 09:26:23   TEXT: @dirktherabbit @EASA Bubbles v tricky. Canaries tiny population. Border passport controls inc. automated gates will flag routes via API.
+
+CLEANED TWEET TEXT
+
+  Bubbles v tricky. Canaries tiny population. Border passport controls inc. automated gates will flag routes via API.
+Sentiment(classification='neg', p_pos=0.44709339470292864, p_neg=0.5529066052970705)
+
+
+TWEETS CONTAINING THE WORD PEDESTRIANS
+
+
+
+
+TWEETS CONTAINING THE WORD FUEL STATION
+
+
+
+
+TWEETS CONTAINING THE WORD TRANSPOSITION
+
+
+
+
+TWEETS CONTAINING THE WORD PUBLIC TRANSIT
+
+
+
+
+TWEETS CONTAINING THE WORD ROAD ACCIDENT
+
+
+
+
+TWEETS CONTAINING THE WORD TRAFFIC CONGESTION
+
+
+
+
+TWEETS CONTAINING THE WORD TRAFFIC JAM
+
+
+
+
+TWEETS CONTAINING THE WORD OVERLOADING
+
+
