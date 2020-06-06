@@ -37,6 +37,6 @@ myStream = tweepy.Stream(auth = api.auth, listener=myStreamListener)
 #Kenya's geotag id 17ad6a68301cd28b
 #Nairobi's geotag id 01b1358f7eda7605
 
-#tweet = api.search(q = 'ngara', lang = 'en', tweet_mode = 'extended')
-#for tweet in tweet:
-#	print(tweet.user.screen_name + " 	:" + tweet.full_text + " " + tweet.lang)
+tweet = api.user_timeline('technicollins', tweet_mode = 'extended')
+for tweet in tweet:
+	print(tweet.id_str + " 	:" + tweet.full_text)

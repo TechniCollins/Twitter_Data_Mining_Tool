@@ -1,0 +1,347 @@
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+
+TWEETS CONTAINING THE WORD ACCIDENTALERT_K
+
+
+
+
+TWEETS CONTAINING THE WORD @ROADALERTSKE
+
+
+
+
+TWEETS CONTAINING THE WORD @KURAROADS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 16:38:30   TEXT: @KURAroads @GEORGEO25739258 @TweetKericho @NziokaWaita @TransportKE @JamesMacharia_ @Aaroncheruiyot Whoa beautiful...
+
+CLEANED TWEET TEXT
+
+     _  Whoa beautiful...
+Sentiment(classification='neg', p_pos=0.38836302895322977, p_neg=0.6116369710467707)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 16:48:29   TEXT: @KeNHAKenya @KURAroads @TransportKE @JamesMacharia_ https://t.co/T2Sbbinltg
+
+CLEANED TWEET TEXT
+
+   _ 
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:11:09   TEXT: 20:11 what was @KURAroads saying about pedestrian walk ways. You can build all you wish and publicize all you wish but do they serve the pedestrians?  https://t.co/s8GCtVeimM via @gachoki_munene
+
+CLEANED TWEET TEXT
+
+20:11 what was  saying about pedestrian walk ways. You can build all you wish and publicize all you wish but do they serve the pedestrians?   via _munene
+Sentiment(classification='pos', p_pos=0.6807985531007215, p_neg=0.31920144689928076)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:12:52   TEXT: @Ma3Route @KURAroads @gachoki_munene @KURAroads  will never respond to this kind of they are tipped by these lawbreakers not to evacuate them from the road
+
+CLEANED TWEET TEXT
+
+  _munene   will never respond to this kind of they are tipped by these lawbreakers not to evacuate them from the road
+Sentiment(classification='neg', p_pos=0.19711403155885698, p_neg=0.8028859684411405)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:13:18   TEXT: Dealing with Encroachment of Pedestrian #Walkways 🚶and #Bikeways 🚴 in Nairobi:
+
+☑️Public Sensitization
+☑️No Hawking Signage
+☑️No Parking Signage
+☑️Publicise penalty/fine for offenders
+☑️Strictly Enforce. @Ma3Route @KenyanTraffic @KURAroads @NMS_Kenya @Karanjakibicho https://t.co/MMVnkoiUxJ
+
+CLEANED TWEET TEXT
+
+Dealing with Encroachment of Pedestrian Walkways 🚶and Bikeways 🚴 in Nairobi:
+
+☑️Public Sensitization
+☑️No Hawking Signage
+☑️No Parking Signage
+☑️Publicise penalty/fine for offenders
+☑️Strictly Enforce.    _Kenya  
+Sentiment(classification='pos', p_pos=0.860856760629263, p_neg=0.13914323937073494)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:15:39   TEXT: 20:15 When positioning the bollards we should avoid leaving huge openings where cars can pass. @KURAroads via @chriskost
+
+CLEANED TWEET TEXT
+
+20:15 When positioning the bollards we should avoid leaving huge openings where cars can pass.  via 
+Sentiment(classification='neg', p_pos=0.4693822593706519, p_neg=0.5306177406293485)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:17:05   TEXT: @Ma3Route @KURAroads @gachoki_munene Why can’t this authorities with all the powers and responsibilities they have been given ensure there are hefty fines for violations of such kind..??
+
+CLEANED TWEET TEXT
+
+  _munene Why can’t this authorities with all the powers and responsibilities they have been given ensure there are hefty fines for violations of such kind..??
+Sentiment(classification='pos', p_pos=0.7470905891649262, p_neg=0.25290941083507545)
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA
+
+
+
+
+TWEETS CONTAINING THE WORD @MA3ROUTE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 16:53:49   TEXT: @nziku_f @Ma3Route @PoliceKE @DCI_Kenya Pole about that. I hope something is going to be done with @NPSOfficial_KE to address the situation
+
+CLEANED TWEET TEXT
+
+_f   _Kenya Pole about that. I hope something is going to be done with _KE to address the situation
+Sentiment(classification='pos', p_pos=0.6214439135288472, p_neg=0.3785560864711532)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 16:59:16   TEXT: @Ma3Route @Kahenya2006yah1 Because Chinese contractors are the best in the world. We said...
+
+CLEANED TWEET TEXT
+
+  Because Chinese contractors are the best in the world. We said...
+Sentiment(classification='pos', p_pos=0.7483888665345719, p_neg=0.25161113346542824)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:00:00   TEXT: @anjipendo @pkmuturi @Ma3Route Kindly report immediately if overcharged. Peak is 100/-
+
+CLEANED TWEET TEXT
+
+   Kindly report immediately if overcharged. Peak is 100/-
+Sentiment(classification='pos', p_pos=0.8028338803049909, p_neg=0.19716611969500936)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:02:45   TEXT: @Ma3Route @Kahenya2006yah1 Comrade, you are forgetting that there are free Covid-19 dollars from the World Bank and someone has to justify how it's spent.
+
+CLEANED TWEET TEXT
+
+  Comrade, you are forgetting that there are free Covid-19 dollars from the World Bank and someone has to justify how it's spent.
+Sentiment(classification='neg', p_pos=0.22838286323788912, p_neg=0.7716171367621111)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:10:26   TEXT: @NeoKenyaMpya @pkmuturi @Ma3Route Off peak?
+
+CLEANED TWEET TEXT
+
+   Off peak?
+Sentiment(classification='pos', p_pos=0.5648102179897999, p_neg=0.4351897820101998)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:12:52   TEXT: @Ma3Route @KURAroads @gachoki_munene @KURAroads  will never respond to this kind of they are tipped by these lawbreakers not to evacuate them from the road
+
+CLEANED TWEET TEXT
+
+  _munene   will never respond to this kind of they are tipped by these lawbreakers not to evacuate them from the road
+Sentiment(classification='neg', p_pos=0.19711403155885698, p_neg=0.8028859684411405)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:12:55   TEXT: @Ma3Route @NMS_Kenya @kimaniq https://t.co/rthUmfgpjl
+
+CLEANED TWEET TEXT
+
+ _Kenya  
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:13:18   TEXT: Dealing with Encroachment of Pedestrian #Walkways 🚶and #Bikeways 🚴 in Nairobi:
+
+☑️Public Sensitization
+☑️No Hawking Signage
+☑️No Parking Signage
+☑️Publicise penalty/fine for offenders
+☑️Strictly Enforce. @Ma3Route @KenyanTraffic @KURAroads @NMS_Kenya @Karanjakibicho https://t.co/MMVnkoiUxJ
+
+CLEANED TWEET TEXT
+
+Dealing with Encroachment of Pedestrian Walkways 🚶and Bikeways 🚴 in Nairobi:
+
+☑️Public Sensitization
+☑️No Hawking Signage
+☑️No Parking Signage
+☑️Publicise penalty/fine for offenders
+☑️Strictly Enforce.    _Kenya  
+Sentiment(classification='pos', p_pos=0.860856760629263, p_neg=0.13914323937073494)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:17:05   TEXT: @Ma3Route @KURAroads @gachoki_munene Why can’t this authorities with all the powers and responsibilities they have been given ensure there are hefty fines for violations of such kind..??
+
+CLEANED TWEET TEXT
+
+  _munene Why can’t this authorities with all the powers and responsibilities they have been given ensure there are hefty fines for violations of such kind..??
+Sentiment(classification='pos', p_pos=0.7470905891649262, p_neg=0.25290941083507545)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:18:55   TEXT: @Ma3Route @ajonyo This habit is so disgusting!
+
+CLEANED TWEET TEXT
+
+  This habit is so disgusting!
+Sentiment(classification='neg', p_pos=0.2708492148193321, p_neg=0.7291507851806676)
+
+
+TWEETS CONTAINING THE WORD @NYANZATRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @KENYANTRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @ROAD_DRIVING
+
+
+Analyzed all tweets, going to sleep. Next analysis: 2020-06-04 20:27:44.980443
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+
+TWEETS CONTAINING THE WORD ACCIDENTALERT_K
+
+
+
+
+TWEETS CONTAINING THE WORD @ROADALERTSKE
+
+
+
+
+TWEETS CONTAINING THE WORD @KURAROADS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:21:13   TEXT: @NationalERKe Kindly help SORT THE MESS at the Kikuyu footbridge. @KeNHAKenya @KURAroads stopped enforcement. 
+Lots of wrong things there.
+
+CLEANED TWEET TEXT
+
+ Kindly help SORT THE MESS at the Kikuyu footbridge.   stopped enforcement. 
+Lots of wrong things there.
+Sentiment(classification='neg', p_pos=0.09108182148355136, p_neg=0.9089181785164474)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:23:53   TEXT: @Sir_Labz @Ma3Route @KenyanTraffic @KURAroads @NMS_Kenya @Karanjakibicho The only thing we need is the last point. If enforcement isn’t present those signs won’t help.
+
+CLEANED TWEET TEXT
+
+_Labz    _Kenya  The only thing we need is the last point. If enforcement isn’t present those signs won’t help.
+Sentiment(classification='neg', p_pos=0.26118022231437055, p_neg=0.7388197776856275)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:25:15   TEXT: @sanchmode @Ma3Route @KURAroads My problem is the pedestrians who were meant to use them are denied these facilities. This obsession of just building and taking photos when carbo is new then leave is the issue. Do they serve pedestrians?
+
+CLEANED TWEET TEXT
+
+   My problem is the pedestrians who were meant to use them are denied these facilities. This obsession of just building and taking photos when carbo is new then leave is the issue. Do they serve pedestrians?
+Sentiment(classification='pos', p_pos=0.7211615947386822, p_neg=0.2788384052613158)
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA
+
+
+
+
+TWEETS CONTAINING THE WORD @MA3ROUTE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:22:56   TEXT: @police_sacco  ,the new rolled out M Tawi that has replaced Msacco is an eye sore ,is *653# a scam ??One week ,no services,who is doing who ??@NPSOfficial_KE @InteriorKE @NPSC_KE @IG_NPS @StateHouseKenya @FredMatiangi @Ma3Route @KTNNewsKE @citizentvkenya @WanjikuRevolt
+
+CLEANED TWEET TEXT
+
+_sacco  ,the new rolled out M Tawi that has replaced Msacco is an eye sore ,is *653 a scam ??One week ,no services,who is doing who ??_KE  _KE _NPS      
+Sentiment(classification='pos', p_pos=0.6145706639972183, p_neg=0.3854293360027809)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:23:12   TEXT: @Ma3Route @data_hom KBS,no noise,one conductor in uniform,they are clean etc
+
+CLEANED TWEET TEXT
+
+ _hom KBS,no noise,one conductor in uniform,they are clean etc
+Sentiment(classification='pos', p_pos=0.7930391737286445, p_neg=0.20696082627135567)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:23:53   TEXT: @Sir_Labz @Ma3Route @KenyanTraffic @KURAroads @NMS_Kenya @Karanjakibicho The only thing we need is the last point. If enforcement isn’t present those signs won’t help.
+
+CLEANED TWEET TEXT
+
+_Labz    _Kenya  The only thing we need is the last point. If enforcement isn’t present those signs won’t help.
+Sentiment(classification='neg', p_pos=0.26118022231437055, p_neg=0.7388197776856275)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:24:33   TEXT: @Ma3Route @NMS_Kenya @UhuruFan Hnhnn
+
+Hbmv. N ok I'll let no. .    ok j ok v,,,,
+
+CLEANED TWEET TEXT
+
+ _Kenya  Hnhnn
+
+Hbmv. N ok I'll let no. .    ok j ok v,,,,
+Sentiment(classification='neg', p_pos=0.45, p_neg=0.5499999999999999)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 17:25:15   TEXT: @sanchmode @Ma3Route @KURAroads My problem is the pedestrians who were meant to use them are denied these facilities. This obsession of just building and taking photos when carbo is new then leave is the issue. Do they serve pedestrians?
+
+CLEANED TWEET TEXT
+
+   My problem is the pedestrians who were meant to use them are denied these facilities. This obsession of just building and taking photos when carbo is new then leave is the issue. Do they serve pedestrians?
+Sentiment(classification='pos', p_pos=0.7211615947386822, p_neg=0.2788384052613158)
+
+
+TWEETS CONTAINING THE WORD @NYANZATRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @KENYANTRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @ROAD_DRIVING
+
+
+Analyzed all tweets, going to sleep. Next analysis: 2020-06-04 20:33:52.453626

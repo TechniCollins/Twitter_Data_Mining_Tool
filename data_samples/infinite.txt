@@ -1,0 +1,743 @@
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:08:54   TEXT: Hello @ntsa_kenya, open in Upper Hill? https://t.co/EkMD357set
+
+CLEANED TWEET TEXT
+
+Hello _kenya, open in Upper Hill? 
+Sentiment(classification='pos', p_pos=0.6820799222977662, p_neg=0.31792007770223424)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:09:31   TEXT: @ntsa_kenya will police be patient if i am arrested for failing to book for inspection??
+
+CLEANED TWEET TEXT
+
+_kenya will police be patient if i am arrested for failing to book for inspection??
+Sentiment(classification='neg', p_pos=0.4934631879170108, p_neg=0.5065368120829887)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:18:02   TEXT: @ntsa_kenya @GBASHU @FredMatiangi Some of you guys should be sacked, very lazy and inefficient staff
+
+CLEANED TWEET TEXT
+
+_kenya   Some of you guys should be sacked, very lazy and inefficient staff
+Sentiment(classification='neg', p_pos=0.32934950644248745, p_neg=0.6706504935575117)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:22:57   TEXT: @ntsa_kenya Your customer service line... If you guys are not available why do you put someone on hold? Si you just let it ring ndio isikule credit
+
+CLEANED TWEET TEXT
+
+_kenya Your customer service line... If you guys are not available why do you put someone on hold? Si you just let it ring ndio isikule credit
+Sentiment(classification='pos', p_pos=0.5399677343030028, p_neg=0.4600322656969983)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:24:11   TEXT: @ntsa_kenya I paid for my Driving licence. My portal still reads unpaid
+
+CLEANED TWEET TEXT
+
+_kenya I paid for my Driving licence. My portal still reads unpaid
+Sentiment(classification='neg', p_pos=0.45368092106069896, p_neg=0.5463190789393029)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:26:31   TEXT: @ntsa_kenya How comes you advice people to dm yet when they dm you don't respond. I have been trying to create a TIMS account for my company and after imputing the kra pin it doesn't recognize the certificate number of incorporation
+
+CLEANED TWEET TEXT
+
+_kenya How comes you advice people to dm yet when they dm you don't respond. I have been trying to create a TIMS account for my company and after imputing the kra pin it doesn't recognize the certificate number of incorporation
+Sentiment(classification='pos', p_pos=0.9505253220345675, p_neg=0.049474677965430085)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:42:06   TEXT: @ntsa_kenya Good afternoon,is the online NTSA system really working.Ive been trying to transfer my motor vehicle but it’s not uploading.Kindly help 0722843770
+
+CLEANED TWEET TEXT
+
+_kenya Good afternoon,is the online NTSA system really working.Ive been trying to transfer my motor vehicle but it’s not uploading.Kindly help 0722843770
+Sentiment(classification='pos', p_pos=0.9795374053027006, p_neg=0.02046259469730146)
+
+
+TWEETS CONTAINING THE WORD ACCIDENTALERT_K
+
+
+
+
+TWEETS CONTAINING THE WORD @ROADALERTSKE
+
+
+
+
+TWEETS CONTAINING THE WORD @KURAROADS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:31:38   TEXT: @sucameSunjeh @KURAroads 😂, hata leo babe
+
+CLEANED TWEET TEXT
+
+  😂, hata leo babe
+Sentiment(classification='neg', p_pos=0.44191919191919177, p_neg=0.5580808080808078)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:42:26   TEXT: Ongoing construction of kimbo feeder roads @Ma3Route @KenyanTraffic @KURAroads https://t.co/zKblpW6CmM
+
+CLEANED TWEET TEXT
+
+Ongoing construction of kimbo feeder roads    
+Sentiment(classification='pos', p_pos=0.9615384615384616, p_neg=0.0384615384615385)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:47:39   TEXT: 13:47 Ongoing construction of kimbo feeder roads @KURAroads  https://t.co/eJ6NsJOQfq via @PRSA_Roadsafety
+
+CLEANED TWEET TEXT
+
+13:47 Ongoing construction of kimbo feeder roads    via _Roadsafety
+Sentiment(classification='pos', p_pos=0.9785819793205308, p_neg=0.021418020679468228)
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA
+
+
+
+
+TWEETS CONTAINING THE WORD @MA3ROUTE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:35:09   TEXT: @Ma3Route if only gok was really interested in cushioning motorist....bt then again tunalipa, wanakula https://t.co/VQ3UGCpXsS
+
+CLEANED TWEET TEXT
+
+ if only gok was really interested in cushioning motorist....bt then again tunalipa, wanakula 
+Sentiment(classification='neg', p_pos=0.3983193406446408, p_neg=0.6016806593553602)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:36:29   TEXT: @Ma3Route @DNjugush Like I’ve stated here before, (some) cops get pissed off because I’ll happily accompany them to the station, then to court, and plead my case. We all need to make time for the law 🙂
+
+CLEANED TWEET TEXT
+
+  Like I’ve stated here before, (some) cops get pissed off because I’ll happily accompany them to the station, then to court, and plead my case. We all need to make time for the law 🙂
+Sentiment(classification='neg', p_pos=0.2772575840937442, p_neg=0.7227424159062559)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:42:26   TEXT: Ongoing construction of kimbo feeder roads @Ma3Route @KenyanTraffic @KURAroads https://t.co/zKblpW6CmM
+
+CLEANED TWEET TEXT
+
+Ongoing construction of kimbo feeder roads    
+Sentiment(classification='pos', p_pos=0.9615384615384616, p_neg=0.0384615384615385)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:46:43   TEXT: Road works just before Two Rivers on Limuru road causing a snarl up. @Ma3Route
+
+CLEANED TWEET TEXT
+
+Road works just before Two Rivers on Limuru road causing a snarl up. 
+Sentiment(classification='pos', p_pos=0.7223999193048634, p_neg=0.2776000806951372)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:49:06   TEXT: GOOD NEWS – CHILD FOUND. Latisha Akinyi Otieno "Sweetheart" (3 yrs) has been reunited with family. Thanks all for sharing the search alert poster. #MISSINGCHILDKE  
+@KenyanTraffic
+
+@Ma3Route
+
+@DCI_Kenya
+
+@ChildDci
+
+@DCS_Kenya
+
+@ODPP_KE
+
+@APSKenya
+
+@NPSOfficial_KE https://t.co/HzIUg4SIvc
+
+CLEANED TWEET TEXT
+
+GOOD NEWS – CHILD FOUND. Latisha Akinyi Otieno "Sweetheart" (3 yrs) has been reunited with family. Thanks all for sharing the search alert poster. MISSINGCHILDKE  
+
+
+
+
+_Kenya
+
+
+
+_Kenya
+
+_KE
+
+
+
+_KE 
+Sentiment(classification='pos', p_pos=0.8494810020646371, p_neg=0.15051899793536047)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:49:33   TEXT: @ValNgugi @Ma3Route I was wondering why people were using the underpass
+
+CLEANED TWEET TEXT
+
+  I was wondering why people were using the underpass
+Sentiment(classification='neg', p_pos=0.44065348567389695, p_neg=0.5593465143261033)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:50:14   TEXT: @cbs_ke @TeddMburu @Ma3Route Looks like buru buru 😂
+
+CLEANED TWEET TEXT
+
+_ke   Looks like buru buru 😂
+Sentiment(classification='neg', p_pos=0.3570919322189262, p_neg=0.6429080677810739)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:50:54   TEXT: @Ma3Route @DNjugush Very well done @DNjugush . We just need to stare them in the face and ask them to file the charge. At the back of the sheet issued by the cop, there is an option of sending the fine to court if one knows the penalty of the offence.
+
+CLEANED TWEET TEXT
+
+  Very well done  . We just need to stare them in the face and ask them to file the charge. At the back of the sheet issued by the cop, there is an option of sending the fine to court if one knows the penalty of the offence.
+Sentiment(classification='neg', p_pos=0.07026372579170234, p_neg=0.9297362742082984)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:51:07   TEXT: @IamGeci @Ma3Route This is gonna get nasty. Toka na hio side ingine.
+
+CLEANED TWEET TEXT
+
+  This is gonna get nasty. Toka na hio side ingine.
+Sentiment(classification='pos', p_pos=0.8661815658135866, p_neg=0.13381843418641354)
+
+
+TWEETS CONTAINING THE WORD @NYANZATRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @KENYANTRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @ROAD_DRIVING
+
+
+Analyzed all tweets, going to sleep. Next analysis: 2020-06-04 13:59:03.817495
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:52:22   TEXT: @ntsa_kenya Where is this please?
+
+CLEANED TWEET TEXT
+
+_kenya Where is this please?
+Sentiment(classification='neg', p_pos=0.34682149576215043, p_neg=0.6531785042378498)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:56:03   TEXT: @ntsa_kenya Will I get the badge since I want to upload in digital cabs forum
+
+CLEANED TWEET TEXT
+
+_kenya Will I get the badge since I want to upload in digital cabs forum
+Sentiment(classification='pos', p_pos=0.7424061611168197, p_neg=0.25759383888318094)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:59:00   TEXT: @ntsa_kenya I ask again. When do I get my smart license. I applied and paid in November 2019.🧐
+
+CLEANED TWEET TEXT
+
+_kenya I ask again. When do I get my smart license. I applied and paid in November 2019.🧐
+Sentiment(classification='pos', p_pos=0.5202969804611681, p_neg=0.47970301953883293)
+
+
+TWEETS CONTAINING THE WORD ACCIDENTALERT_K
+
+
+
+
+TWEETS CONTAINING THE WORD @ROADALERTSKE
+
+
+
+
+TWEETS CONTAINING THE WORD @KURAROADS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:53:24   TEXT: @HudsonKihumba @Ma3Route @KURAroads @KeNHAKenya Your guess is right
+
+CLEANED TWEET TEXT
+
+    Your guess is right
+Sentiment(classification='neg', p_pos=0.412066131629525, p_neg=0.5879338683704748)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:53:39   TEXT: @KURAroads @TweetKericho @NziokaWaita @TransportKE @JamesMacharia_ @Aaroncheruiyot https://t.co/rsCBSyUVBR
+
+CLEANED TWEET TEXT
+
+    _  
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:57:29   TEXT: @Ritho_Planner @NMS_Kenya @KenyanTraffic @Ma3Route @KURAroads @Ke_NaMATA @NziokaWaita Please check with @Environment_Ke
+
+CLEANED TWEET TEXT
+
+_Planner _Kenya    _NaMATA  Please check with _Ke
+Sentiment(classification='neg', p_pos=0.13109319412246648, p_neg=0.8689068058775337)
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA
+
+
+
+
+TWEETS CONTAINING THE WORD @MA3ROUTE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:53:24   TEXT: @HudsonKihumba @Ma3Route @KURAroads @KeNHAKenya Your guess is right
+
+CLEANED TWEET TEXT
+
+    Your guess is right
+Sentiment(classification='neg', p_pos=0.412066131629525, p_neg=0.5879338683704748)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:54:27   TEXT: @ValNgugi @Ma3Route Ah I was there a while back, coming from two rivers. Didn’t sit in that traffic
+
+CLEANED TWEET TEXT
+
+  Ah I was there a while back, coming from two rivers. Didn’t sit in that traffic
+Sentiment(classification='pos', p_pos=0.9193045039100488, p_neg=0.08069549608995062)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:57:03   TEXT: @Ma3Route @Nation_Eldoret https://t.co/By9PgitdsT
+
+CLEANED TWEET TEXT
+
+ _Eldoret 
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:57:29   TEXT: @Ritho_Planner @NMS_Kenya @KenyanTraffic @Ma3Route @KURAroads @Ke_NaMATA @NziokaWaita Please check with @Environment_Ke
+
+CLEANED TWEET TEXT
+
+_Planner _Kenya    _NaMATA  Please check with _Ke
+Sentiment(classification='neg', p_pos=0.13109319412246648, p_neg=0.8689068058775337)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:59:23   TEXT: If you are planning to passby #materhospital ensure you have enough time for their unnecessary screening. 
+Depending on the que, you need btn 30min to 1 hour.for you to get a pass for exit. @Ma3Route @RobertAlai
+
+CLEANED TWEET TEXT
+
+If you are planning to passby materhospital ensure you have enough time for their unnecessary screening. 
+Depending on the que, you need btn 30min to 1 hour.for you to get a pass for exit.  
+Sentiment(classification='neg', p_pos=0.0972817489939906, p_neg=0.902718251006009)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 10:59:28   TEXT: @Ma3Route @contrarian1196 Sure.
+
+CLEANED TWEET TEXT
+
+  Sure.
+Sentiment(classification='pos', p_pos=0.5071942446043165, p_neg=0.4928057553956834)
+
+
+TWEETS CONTAINING THE WORD @NYANZATRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @KENYANTRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @ROAD_DRIVING
+
+
+Analyzed all tweets, going to sleep. Next analysis: 2020-06-04 14:05:48.347890
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:01:54   TEXT: @ntsa_kenya @kasawaGeorge You  promised to advice my issue in dm and told me to check but up to date you have sent  nothing  in my dm
+
+CLEANED TWEET TEXT
+
+_kenya  You  promised to advice my issue in dm and told me to check but up to date you have sent  nothing  in my dm
+Sentiment(classification='pos', p_pos=0.5190936868115871, p_neg=0.4809063131884143)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:03:51   TEXT: To save precious lives in case of accidents on our roads, @ntsa_kenya , @KeNHAKenya &amp; @NYS_Ke should run effective Emergency Rescue Services.🚑 @KenyanTraffic @Ma3Route @FredMatiangi @NziokaWaita @NMS_Kenya @Ke_NaMATA @PSCharlesHinga @pstransportke @Karanjakibicho https://t.co/HXQxl37aqJ
+
+CLEANED TWEET TEXT
+
+To save precious lives in case of accidents on our roads, _kenya ,  &amp; _Ke should run effective Emergency Rescue Services.🚑     _Kenya _NaMATA    
+Sentiment(classification='pos', p_pos=0.8394397925568939, p_neg=0.16056020744310393)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:04:47   TEXT: @ntsa_kenya @GBASHU @FredMatiangi I don't quite understand. I try paying again ama.
+
+CLEANED TWEET TEXT
+
+_kenya   I don't quite understand. I try paying again ama.
+Sentiment(classification='pos', p_pos=0.6714740508543797, p_neg=0.32852594914562105)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:05:35   TEXT: @KenyaCopyright &amp; @ntsa_kenya today signed a deal to boost collection of music royalties from PSVs. This goes along way in ensuring implementation of presidential directive of Jan. 
+@MoICTKenya @kampkenya @priskkenya @TheMCSK #SupportMusicArtists #PayRoyaltiesKe
+#Music4RoadSafety https://t.co/6ufafBMmLp
+
+CLEANED TWEET TEXT
+
+ &amp; _kenya today signed a deal to boost collection of music royalties from PSVs. This goes along way in ensuring implementation of presidential directive of Jan. 
+    SupportMusicArtists PayRoyaltiesKe
+Music4RoadSafety 
+Sentiment(classification='pos', p_pos=0.7435839446761092, p_neg=0.2564160553238925)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:05:36   TEXT: @ahmednasirlaw @lawsocietykenya @WMutunga @ntsa_kenya @MOH_Kenya  I think it is good to clarify whether inside a private car is a Public area or not. This will help the Kenyans in defining areas that conflict with Public Order issued by MoH. https://t.co/lMEEd2l7AZ
+
+CLEANED TWEET TEXT
+
+   _kenya _Kenya  I think it is good to clarify whether inside a private car is a Public area or not. This will help the Kenyans in defining areas that conflict with Public Order issued by MoH. 
+Sentiment(classification='pos', p_pos=0.7217152408767427, p_neg=0.2782847591232557)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:05:37   TEXT: Mr. Njao said @ntsa_kenya  shall support KECOBO and will provide relevant data on all registered PSVs and their seating capacity.
+#SupportMusicArtists
+#PayRoyaltiesKe
+#Music4RoadSafety https://t.co/seqFjOUfS3
+
+CLEANED TWEET TEXT
+
+Mr. Njao said _kenya  shall support KECOBO and will provide relevant data on all registered PSVs and their seating capacity.
+SupportMusicArtists
+PayRoyaltiesKe
+Music4RoadSafety 
+Sentiment(classification='pos', p_pos=0.8912478909642692, p_neg=0.10875210903573274)
+
+
+TWEETS CONTAINING THE WORD ACCIDENTALERT_K
+
+
+
+
+TWEETS CONTAINING THE WORD @ROADALERTSKE
+
+
+
+
+TWEETS CONTAINING THE WORD @KURAROADS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:01:34   TEXT: @spinkingske @NMS_Kenya @KURAroads @KeNHAKenya @PDUDelivery @TransportKE @JojoAsin @KenyanTraffic @Ma3Route @Gakumo_Migwi @Ke_NaMATA @ogxxv @smusyoka @Sir_Labz @1Rides 54Km Begginers?  😳
+
+CLEANED TWEET TEXT
+
+ _Kenya        _Migwi _NaMATA   _Labz  54Km Begginers?  😳
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA
+
+
+
+
+TWEETS CONTAINING THE WORD @MA3ROUTE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:01:34   TEXT: @spinkingske @NMS_Kenya @KURAroads @KeNHAKenya @PDUDelivery @TransportKE @JojoAsin @KenyanTraffic @Ma3Route @Gakumo_Migwi @Ke_NaMATA @ogxxv @smusyoka @Sir_Labz @1Rides 54Km Begginers?  😳
+
+CLEANED TWEET TEXT
+
+ _Kenya        _Migwi _NaMATA   _Labz  54Km Begginers?  😳
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:01:39   TEXT: @tek_kenya @EstherPassaris @WeOneActionNet2 @RadioCitizenFM @citizentvkenya @Imitiaz254 @sellyamutabi @fawashsmiley @DonateBookKe @spheelmodels @tabasamuupendo @Moha001_Onyango @Kenyans @Ma3Route @miss_mumbs YES!!
+
+CLEANED TWEET TEXT
+
+_kenya           _Onyango   _mumbs YES!!
+Sentiment(classification='neg', p_pos=0.43488372093023253, p_neg=0.5651162790697677)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:03:51   TEXT: To save precious lives in case of accidents on our roads, @ntsa_kenya , @KeNHAKenya &amp; @NYS_Ke should run effective Emergency Rescue Services.🚑 @KenyanTraffic @Ma3Route @FredMatiangi @NziokaWaita @NMS_Kenya @Ke_NaMATA @PSCharlesHinga @pstransportke @Karanjakibicho https://t.co/HXQxl37aqJ
+
+CLEANED TWEET TEXT
+
+To save precious lives in case of accidents on our roads, _kenya ,  &amp; _Ke should run effective Emergency Rescue Services.🚑     _Kenya _NaMATA    
+Sentiment(classification='pos', p_pos=0.8394397925568939, p_neg=0.16056020744310393)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:04:53   TEXT: @Ma3Route @Environment_Ke @WWF_Kenya @StateHouseKenya @citizentvkenya @tv47ke @K24Tv @StandardKenya @UNDPKenya @kamanumbugua report here @NemaKenya and @kwskenya
+
+CLEANED TWEET TEXT
+
+ _Ke _Kenya        report here  and 
+Sentiment(classification='neg', p_pos=0.4565491183879093, p_neg=0.543450881612091)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:05:39   TEXT: @DNjugush @Mwirigi @Ma3Route Stop that bro😂😂
+
+CLEANED TWEET TEXT
+
+   Stop that bro😂😂
+Sentiment(classification='neg', p_pos=0.48618564439557255, p_neg=0.5138143556044272)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:05:52   TEXT: 5) Can we hopefully have our main @NRB_County047  Matatu Termini - that plies @Ma3Route South C &amp; South B- directly opposite Kenya Bus Services/KBS main termini, and that's highly dilapidated behind MANG HOTEL, renovated &amp; smartly BRANDED by Vooma @KCBGroup?
+
+Together, #YesWeCan!
+
+CLEANED TWEET TEXT
+
+5) Can we hopefully have our main _County047  Matatu Termini - that plies  South C &amp; South B- directly opposite Kenya Bus Services/KBS main termini, and that's highly dilapidated behind MANG HOTEL, renovated &amp; smartly BRANDED by Vooma ?
+
+Together, YesWeCan!
+Sentiment(classification='pos', p_pos=0.9836600445422199, p_neg=0.016339955457776632)
+
+
+TWEETS CONTAINING THE WORD @NYANZATRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @KENYANTRAFFIC
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:06:56   TEXT: @Smith_Hempstone @NMS_Kenya @KURAroads @KeNHAKenya @PDUDelivery @TransportKE @JojoAsin @KenyanTraffic @Ma3Route @Gakumo_Migwi @Ke_NaMATA @ogxxv @smusyoka @Sir_Labz @1Rides Come and enjoy the ride.
+
+CLEANED TWEET TEXT
+
+_Hempstone _Kenya        _Migwi _NaMATA   _Labz  Come and enjoy the ride.
+Sentiment(classification='pos', p_pos=0.708162948621812, p_neg=0.29183705137818783)
+
+
+TWEETS CONTAINING THE WORD @ROAD_DRIVING
+
+
+Analyzed all tweets, going to sleep. Next analysis: 2020-06-04 14:12:28.764832
+
+
+TWEETS CONTAINING THE WORD @NTSA_KENYA
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:06:11   TEXT: @KenyaCopyright &amp; @ntsa_kenya have today signed an MOU that will boost musicians’ royalties. The deal that was signed by @kiped721, Executive Director and Mr. George Njao, Director General, NTSA in the presence of CEOs of the licensed Societies CMOs @MoICTKenya https://t.co/4C4BUKZAkr
+
+CLEANED TWEET TEXT
+
+ &amp; _kenya have today signed an MOU that will boost musicians’ royalties. The deal that was signed by , Executive Director and Mr. George Njao, Director General, NTSA in the presence of CEOs of the licensed Societies CMOs  
+Sentiment(classification='pos', p_pos=0.506200478606023, p_neg=0.49379952139397654)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:06:11   TEXT: @ntsa_kenya @kiarieguchu I've been to Thika office to have my PSV badge printed. I feel the staff have simply refused to serve me in the pretext of printer haifanyi.
+
+CLEANED TWEET TEXT
+
+_kenya  I've been to Thika office to have my PSV badge printed. I feel the staff have simply refused to serve me in the pretext of printer haifanyi.
+Sentiment(classification='pos', p_pos=0.5270581723925849, p_neg=0.4729418276074156)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:08:50   TEXT: @ntsa_kenya @kiarieguchu They r simply turning away everyone with all manner of excuses. Why open an office that doesn't serve people who have already paid for your services?
+
+CLEANED TWEET TEXT
+
+_kenya  They r simply turning away everyone with all manner of excuses. Why open an office that doesn't serve people who have already paid for your services?
+Sentiment(classification='neg', p_pos=0.3003353921755418, p_neg=0.6996646078244574)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:10:52   TEXT: @ntsa_kenya @kiarieguchu Including biometrics
+
+CLEANED TWEET TEXT
+
+_kenya  Including biometrics
+Sentiment(classification='pos', p_pos=0.5701754385964911, p_neg=0.42982456140350866)
+
+
+TWEETS CONTAINING THE WORD ACCIDENTALERT_K
+
+
+
+
+TWEETS CONTAINING THE WORD @ROADALERTSKE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:12:15   TEXT: @RoadAlertsKE Well done sir
+
+CLEANED TWEET TEXT
+
+ Well done sir
+Sentiment(classification='pos', p_pos=0.75312633517072, p_neg=0.24687366482927994)
+
+
+TWEETS CONTAINING THE WORD @KURAROADS
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:06:56   TEXT: @Smith_Hempstone @NMS_Kenya @KURAroads @KeNHAKenya @PDUDelivery @TransportKE @JojoAsin @KenyanTraffic @Ma3Route @Gakumo_Migwi @Ke_NaMATA @ogxxv @smusyoka @Sir_Labz @1Rides Come and enjoy the ride.
+
+CLEANED TWEET TEXT
+
+_Hempstone _Kenya        _Migwi _NaMATA   _Labz  Come and enjoy the ride.
+Sentiment(classification='pos', p_pos=0.708162948621812, p_neg=0.29183705137818783)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:09:46   TEXT: See the second frame... That road is in kericho and not Nairobi... Kindly visit @KURAroads website https://t.co/QhlmajOUkv https://t.co/rt0JQnbbgs
+
+CLEANED TWEET TEXT
+
+See the second frame... That road is in kericho and not Nairobi... Kindly visit  website  
+Sentiment(classification='pos', p_pos=0.5983372407945934, p_neg=0.40166275920540756)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:10:45   TEXT: @KURAroads @KeNHAKenya Do you guys inspect road while being built!
+
+CLEANED TWEET TEXT
+
+  Do you guys inspect road while being built!
+Sentiment(classification='neg', p_pos=0.3848731338165859, p_neg=0.6151268661834133)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:11:35   TEXT: @KURAroads @joshuakkimilu @since my early years in primary school, there's a road connecting Wote road at Kaiti Junction and Mombasa road at sultan Ahmud. I have always heard that it'll be tarmacked. Am now at my early 40s and no sign at all. Kindly can you help us?
+
+CLEANED TWEET TEXT
+
+   my early years in primary school, there's a road connecting Wote road at Kaiti Junction and Mombasa road at sultan Ahmud. I have always heard that it'll be tarmacked. Am now at my early 40s and no sign at all. Kindly can you help us?
+Sentiment(classification='pos', p_pos=0.9969958776941963, p_neg=0.003004122305799206)
+
+
+TWEETS CONTAINING THE WORD @KENHAKENYA
+
+
+
+
+TWEETS CONTAINING THE WORD @MA3ROUTE
+
+
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:09:55   TEXT: @Ma3Route @KeNHAKenya @StateHouseKenya @PRSA_Roadsafety Macharia hutubeba ufala...
+
+CLEANED TWEET TEXT
+
+   _Roadsafety Macharia hutubeba ufala...
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:11:05   TEXT: @Ma3Route @Kenya_Finest_ Job well done, but how did it graduated to become a heap of garbage🤔
+
+CLEANED TWEET TEXT
+
+ _Finest_ Job well done, but how did it graduated to become a heap of garbage🤔
+Sentiment(classification='pos', p_pos=0.9796697068286142, p_neg=0.020330293171384763)
+
+ORIGINAL TWEET TEXT
+
+TIME: 2020-06-04 11:11:25   TEXT: @DNjugush @SaccoTek @Ma3Route That would be cops from Dagoretti
+
+CLEANED TWEET TEXT
+
+   That would be cops from Dagoretti
+Sentiment(classification='neg', p_pos=0.39714759011179757, p_neg=0.602852409888202)
+
+
+TWEETS CONTAINING THE WORD @NYANZATRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @KENYANTRAFFIC
+
+
+
+
+TWEETS CONTAINING THE WORD @ROAD_DRIVING
+
+
+Analyzed all tweets, going to sleep. Next analysis: 2020-06-04 14:18:57.904763

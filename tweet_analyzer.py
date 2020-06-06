@@ -1,5 +1,5 @@
 import csv
-from matatu_auth import *
+from matatu_auth import *#import authentication file
 from file_handling import *
 from textblob import TextBlob, Word
 from textblob.sentiments import NaiveBayesAnalyzer
@@ -23,7 +23,7 @@ def analyse_word_group(arrayname, row_number, last_tweet_analysed_file):#takes t
     word_list = getattr(import_list, arrayname, None)
     for word in word_list:
         print("\n\nTWEETS CONTAINING THE WORD " + word.upper() + "\n\n")
-        last_tweet_analysed = retrieve_last_tweet_analysed(last_tweet_analysed_file)#save this as default for each file while deploying 1246073911936049158
+        last_tweet_analysed = retrieve_last_tweet_analysed(last_tweet_analysed_file)#save this as default for each file while deploying 1265598536667840514 (27th may tweet)
         keyworded_tweet = api.search(q = word, since_id = last_tweet_analysed, tweet_mode = 'extended')
         for keyworded_tweet in reversed(keyworded_tweet):
             #Check if the exact string exists in tweet text and that the tweet is not a retweet
