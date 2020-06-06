@@ -1,5 +1,5 @@
 import csv
-from matatu_auth import *#import authentication file
+from matatu_auth import *
 from file_handling import *
 from textblob import TextBlob, Word
 from textblob.sentiments import NaiveBayesAnalyzer
@@ -14,9 +14,8 @@ def clean_tweet_text(tweet_text):
     tweet_text = re.sub(r'https?:\/\/\S+', '', tweet_text)
 
     return tweet_text
-#print(clean_tweet_text("@Stella hello, I'm going to get some info from https://youtu.be/ujId4ipkBio?t=1068 #siblings4life see you then"))
 
-#Extraction and sentimental analysis of tweets containing local words - runs for approx 
+#Extraction and sentimental analysis of tweets containing local words
 
 def analyse_word_group(arrayname, row_number, last_tweet_analysed_file):#takes the name of the array to use for search, the csv row to edit and file name 
     import_list = __import__('improvedlist')#I added the list module to the path where sys is located
